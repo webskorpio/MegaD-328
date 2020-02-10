@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\ÀÑÊÐÎ\Documents\GitHub\MegaD-328\Altium\PCB.PcbDoc
+RuleKind=Width|RuleName=+5_1|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=+5|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=+12|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=GND|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,76 @@
+Net Status Report
+Filename     : C:\Users\ÀÑÊÐÎ\Documents\GitHub\MegaD-328\Altium\PCB.PcbDoc
+Date         : 26.09.2019
+Time         : 9:38:38
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +12, Signal Layers Only, 49.0571mm
+    +5, Signal Layers Only, 283.7433mm
+    ADC6, Signal Layers Only, 23.5679mm
+    ADC7, Signal Layers Only, 15.2789mm
+    GND, Signal Layers Only, 185.0881mm
+    LEDA, Signal Layers Only, 43.1561mm
+    LEDB, Signal Layers Only, 54.4206mm
+    NetC10_1, Signal Layers Only, 7.4445mm
+    NetC13_1, Signal Layers Only, 11.8072mm
+    NetC14_1, Signal Layers Only, 13.3608mm
+    NetC1_1, Signal Layers Only, 41.4374mm
+    NetC3_2, Signal Layers Only, 5.6266mm
+    NetC5_2, Signal Layers Only, 5.2633mm
+    NetC6_1, Signal Layers Only, 8.5185mm
+    NetD2_1, Signal Layers Only, 21.5023mm
+    NetDD1_14, Signal Layers Only, 20.6802mm
+    NetDD1_19, Signal Layers Only, 59.6653mm
+    NetDD1_22, Signal Layers Only, 63.5497mm
+    NetDD1_32, Signal Layers Only, 47.2768mm
+    NetDD1_7, Signal Layers Only, 44.8599mm
+    NetDD2_10, Signal Layers Only, 4.8425mm
+    NetDD2_14, Signal Layers Only, 10.5922mm
+    NetDD2_6, Signal Layers Only, 3.7353mm
+    NetR10_2, Signal Layers Only, 4.4mm
+    NetR11_2, Signal Layers Only, 4.4mm
+    NetR12_2, Signal Layers Only, 4.4mm
+    NetR13_2, Signal Layers Only, 4.4mm
+    NetR14_2, Signal Layers Only, 4.4mm
+    NetR15_2, Signal Layers Only, 4.4mm
+    NetR16_2, Signal Layers Only, 4.4mm
+    NetR20_2, Signal Layers Only, 4.0741mm
+    NetR21_1, Signal Layers Only, 16.6968mm
+    NetR2_2, Signal Layers Only, 4.4mm
+    NetR33_1, Signal Layers Only, 8.5817mm
+    NetR34_1, Signal Layers Only, 29.4126mm
+    NetR3_2, Signal Layers Only, 4.4mm
+    NetR4_2, Signal Layers Only, 4.4mm
+    NetR5_2, Signal Layers Only, 4.4mm
+    NetR6_2, Signal Layers Only, 4.4mm
+    NetR7_2, Signal Layers Only, 4.4mm
+    NetR8_2, Signal Layers Only, 4.4mm
+    NetR9_2, Signal Layers Only, 4.4mm
+    PB3, Signal Layers Only, 89.2319mm
+    PB4, Signal Layers Only, 69.2385mm
+    PB5, Signal Layers Only, 80.8549mm
+    PC6, Signal Layers Only, 93.0184mm
+    RD+, Signal Layers Only, 59.345mm
+    RD-, Signal Layers Only, 37.9696mm
+    TCT, Signal Layers Only, 29.0886mm
+    TD+, Signal Layers Only, 43.2051mm
+    TD-, Signal Layers Only, 38.2839mm
+    VCC, Signal Layers Only, 7.9081mm
+    X11, Signal Layers Only, 22.4583mm
+    X13, Signal Layers Only, 18.8698mm
+    X15, Signal Layers Only, 24.8979mm
+    X17, Signal Layers Only, 45.7632mm
+    X19, Signal Layers Only, 56.441mm
+    X21, Signal Layers Only, 68.328mm
+    X23, Signal Layers Only, 18.8767mm
+    X25, Signal Layers Only, 22.0827mm
+    X27, Signal Layers Only, 23.4804mm
+    X29, Signal Layers Only, 26.1701mm
+    X3, Signal Layers Only, 7.95mm
+    X31, Signal Layers Only, 30.5763mm
+    X33, Signal Layers Only, 35.7256mm
+    X5, Signal Layers Only, 57.22mm
+    X7, Signal Layers Only, 57.2469mm
+    X9, Signal Layers Only, 25.5488mm
+count : 68
