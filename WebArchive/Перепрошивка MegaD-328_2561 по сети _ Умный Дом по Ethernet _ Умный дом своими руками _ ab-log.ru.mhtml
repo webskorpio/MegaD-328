@@ -1,0 +1,3221 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/megad-328-firmware-upgrade
+Subject: =?utf-8?Q?=D0=9F=D0=B5=D1=80=D0=B5=D0=BF=D1=80=D0=BE=D1=88=D0=B8=D0=B2=D0?=
+ =?utf-8?Q?=BA=D0=B0=20MegaD-328/2561=20=D0=BF=D0=BE=20=D1=81=D0=B5=D1=82?=
+ =?utf-8?Q?=D0=B8=20/=20=D0=A3=D0=BC=D0=BD=D1=8B=D0=B9=20=D0=94=D0=BE=D0?=
+ =?utf-8?Q?=BC=20=D0=BF=D0=BE=20Ethernet=20/=20=D0=A3=D0=BC=D0=BD=D1=8B=D0?=
+ =?utf-8?Q?=B9=20=D0=B4=D0=BE=D0=BC=20=D1=81=D0=B2=D0=BE=D0=B8=D0=BC=D0=B8?=
+ =?utf-8?Q?=20=D1=80=D1=83=D0=BA=D0=B0=D0=BC=D0=B8=20/=20ab-log.ru?=
+Date: Fri, 26 Mar 2021 05:58:05 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----"
+
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: text/html
+Content-ID: <frame-98713122C2184F2D6D864211B0D2C27C@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/megad-328-firmware-upgrade
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head><meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l; charset=3Dwindows-1251"><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-1df5e40a-c260-437e-9131-8cf1295bc6d7@mhtml.blink" />
+
+
+
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://web.archive.org/=
+_static/css/banner-styles.css?v=3DbsmaklHF">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://web.archive.org/=
+_static/css/iconochive.css?v=3DqtvMKcIJ">
+<!-- End Wayback Rewrite JS Include -->
+
+
+<link rel=3D"shortcut icon" href=3D"https://web.archive.org/web/20170818175=
+247im_/http://www.ab-log.ru/f/favicon.ico">
+<title>=CF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E0 MegaD-328/2561 =EF=EE =F1=E5=F2=
+=E8 / =D3=EC=ED=FB=E9 =C4=EE=EC =EF=EE Ethernet / =D3=EC=ED=FB=E9 =E4=EE=EC=
+ =F1=E2=EE=E8=EC=E8 =F0=F3=EA=E0=EC=E8 / ab-log.ru</title>
+<link href=3D"https://web.archive.org/web/20170818175247cs_/http://www.ab-l=
+og.ru/f/main.css" rel=3D"stylesheet" type=3D"text/css">
+
+</head>
+
+<body><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+
+
+<div id=3D"wm-ipp-base" lang=3D"en" style=3D"display: block; direction: ltr=
+;">
+<template shadowmode=3D"closed"><div id=3D"wm-ipp" style=3D"position:fixed;=
+left:0;top:0;right:0;">
+<div id=3D"wm-ipp-inside">
+  <div style=3D"position:relative;">
+    <div id=3D"wm-logo" style=3D"float:left;width:110px;padding-top:12px;">
+      <a href=3D"https://web.archive.org/web/" title=3D"Wayback Machine hom=
+e page"><img src=3D"https://web.archive.org/_static/images/toolbar/wayback-=
+toolbar-logo-200.png" alt=3D"Wayback Machine" style=3D"width:100px" border=
+=3D"0"></a>
+    </div>
+    <div class=3D"r" style=3D"float:right;">
+      <div id=3D"wm-btns" style=3D"text-align:right;height:25px;">
+                  <div id=3D"wm-save-snapshot-success">success</div>
+          <div id=3D"wm-save-snapshot-fail">fail</div>
+          <a id=3D"wm-save-snapshot-open" href=3D"https://web.archive.org/w=
+eb/20170818175247/http://www.ab-log.ru/smart-house/ethernet/megad-328-firmw=
+are-upgrade#" title=3D"Share via My Web Archive" style=3D"display: none;">
+            <span class=3D"iconochive-web"></span>
+          </a>
+          <a href=3D"https://archive.org/account/login.php" title=3D"Sign I=
+n" id=3D"wm-sign-in" style=3D"display: inline-block;">
+            <span class=3D"iconochive-person"></span>
+          </a>
+          <span id=3D"wm-save-snapshot-in-progress" class=3D"iconochive-web=
+" style=3D"display: none;"></span>
+        	<a href=3D"http://faq.web.archive.org/" title=3D"Get some help usi=
+ng the Wayback Machine" style=3D"top:-6px;"><span class=3D"iconochive-quest=
+ion" style=3D"color:rgb(87,186,244);font-size:160%;"></span></a>
+	<a id=3D"wm-tb-close" href=3D"https://web.archive.org/web/20170818175247/h=
+ttp://www.ab-log.ru/smart-house/ethernet/megad-328-firmware-upgrade#close" =
+style=3D"top:-2px;" title=3D"Close the toolbar"><span class=3D"iconochive-r=
+emove-circle" style=3D"color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id=3D"wm-share">
+          <a href=3D"https://web.archive.org/web/20170818175247/http://web.=
+archive.org/screenshot/http://www.ab-log.ru/smart-house/ethernet/megad-328-=
+firmware-upgrade" id=3D"wm-screenshot" title=3D"screenshot" style=3D"visibi=
+lity: hidden;">
+            <span class=3D"wm-icon-screen-shot"></span>
+          </a>
+	<a id=3D"wm-share-facebook" href=3D"https://web.archive.org/web/2017081817=
+5247/http://www.ab-log.ru/smart-house/ethernet/megad-328-firmware-upgrade#"=
+ data-url=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.r=
+u:80/smart-house/ethernet/megad-328-firmware-upgrade" title=3D"Share on Fac=
+ebook" style=3D"margin-right:5px;" target=3D"_blank"><span class=3D"iconoch=
+ive-facebook" style=3D"color:#3b5998;font-size:160%;"></span></a>
+	<a id=3D"wm-share-twitter" href=3D"https://web.archive.org/web/20170818175=
+247/http://www.ab-log.ru/smart-house/ethernet/megad-328-firmware-upgrade#" =
+data-url=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru=
+:80/smart-house/ethernet/megad-328-firmware-upgrade" title=3D"Share on Twit=
+ter" style=3D"margin-right:5px;" target=3D"_blank"><span class=3D"iconochiv=
+e-twitter" style=3D"color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+    </div>
+    <table class=3D"c" style=3D"">
+      <tbody>
+	<tr>
+	  <td class=3D"u" colspan=3D"2">
+	    <form target=3D"_top" method=3D"get" action=3D"https://web.archive.org=
+/web/submit" name=3D"wmtb" id=3D"wmtb"><input type=3D"text" name=3D"url" id=
+=3D"wmtbURL" value=3D"http://www.ab-log.ru/smart-house/ethernet/megad-328-f=
+irmware-upgrade" autocomplete=3D"off"><input type=3D"submit" value=3D"Go"><=
+/form>
+	  </td>
+	  <td class=3D"n" rowspan=3D"2" style=3D"width:110px;">
+	    <table>
+	      <tbody>
+		<!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+		<tr class=3D"m">
+		  <td class=3D"b" nowrap=3D"nowrap"><a href=3D"https://web.archive.org/we=
+b/20170703011715/http://ab-log.ru:80/smart-house/ethernet/megad-328-firmwar=
+e-upgrade" title=3D"03 Jul 2017"><strong>Jul</strong></a></td>
+		  <td class=3D"c" id=3D"displayMonthEl" title=3D"You are here: 17:52:47 A=
+ug 18, 2017">AUG</td>
+		  <td class=3D"f" nowrap=3D"nowrap"><a href=3D"https://web.archive.org/we=
+b/20170929012053/http://ab-log.ru:80/smart-house/ethernet/megad-328-firmwar=
+e-upgrade" title=3D"29 Sep 2017"><strong>Sep</strong></a></td>
+		</tr>
+		<!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+		<tr class=3D"d">
+		  <td class=3D"b" nowrap=3D"nowrap"><a href=3D"https://web.archive.org/we=
+b/20170813173333/http://www.ab-log.ru:80/smart-house/ethernet/megad-328-fir=
+mware-upgrade" title=3D"17:33:33 Aug 13, 2017"><img src=3D"https://web.arch=
+ive.org/_static/images/toolbar/wm_tb_prv_on.png" alt=3D"Previous capture" w=
+idth=3D"14" height=3D"16" border=3D"0"></a></td>
+		  <td class=3D"c" id=3D"displayDayEl" style=3D"width:34px;font-size:24px;=
+white-space:nowrap;" title=3D"You are here: 17:52:47 Aug 18, 2017">18</td>
+		  <td class=3D"f" nowrap=3D"nowrap"><a href=3D"https://web.archive.org/we=
+b/20170825063810/http://ab-log.ru:80/smart-house/ethernet/megad-328-firmwar=
+e-upgrade" title=3D"06:38:10 Aug 25, 2017"><img src=3D"https://web.archive.=
+org/_static/images/toolbar/wm_tb_nxt_on.png" alt=3D"Next capture" width=3D"=
+14" height=3D"16" border=3D"0"></a></td>
+		</tr>
+		<!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+		<tr class=3D"y">
+		  <td class=3D"b" nowrap=3D"nowrap"><a href=3D"https://web.archive.org/we=
+b/20160723010220/http://www.ab-log.ru:80/smart-house/ethernet/megad-328-fir=
+mware-upgrade" title=3D"23 Jul 2016"><strong>2016</strong></a></td>
+		  <td class=3D"c" id=3D"displayYearEl" title=3D"You are here: 17:52:47 Au=
+g 18, 2017">2017</td>
+		  <td class=3D"f" nowrap=3D"nowrap"><a href=3D"https://web.archive.org/we=
+b/20180825043144/http://www.ab-log.ru:80/smart-house/ethernet/megad-328-fir=
+mware-upgrade" title=3D"25 Aug 2018"><strong>2018</strong></a></td>
+		</tr>
+	      </tbody>
+	    </table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class=3D"s">
+	    	    <div id=3D"wm-nav-captures"><a class=3D"t" href=3D"https://web.ar=
+chive.org/web/*/http://www.ab-log.ru/smart-house/ethernet/megad-328-firmwar=
+e-upgrade" title=3D"See a list of every capture for this URL">77 captures</=
+a><div class=3D"r" title=3D"Timespan for captures of this URL">25 Jun 2014 =
+- 26 Jul 2019</div></div>
+	  </td>
+	  <td class=3D"k">
+	    <a href=3D"https://web.archive.org/web/20170818175247/http://www.ab-lo=
+g.ru/smart-house/ethernet/megad-328-firmware-upgrade" id=3D"wm-graph-anchor=
+">
+	      <div id=3D"wm-ipp-sparkline" title=3D"Explore captures for this URL"=
+ style=3D"position: relative">
+		<canvas id=3D"wm-sparkline-canvas" width=3D"650" height=3D"27" border=3D"=
+0"></canvas>
+	      <div class=3D"yt" style=3D"display: none; width: 25px; height: 27px;=
+"></div><div class=3D"mt" style=3D"display: none; width: 2px; height: 27px;=
+"></div></div>
+	    </a>
+	  </td>
+	</tr>
+      </tbody>
+    </table>
+    <div style=3D"position:absolute;bottom:0;right:2px;text-align:right;">
+      <a id=3D"wm-expand" class=3D"wm-btn wm-closed" href=3D"https://web.ar=
+chive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/mega=
+d-328-firmware-upgrade#expand"><span id=3D"wm-expand-icon" class=3D"iconoch=
+ive-down-solid"></span> <span style=3D"font-size:80%">About this capture</s=
+pan></a>
+    </div>
+  </div>
+    <div id=3D"wm-capinfo" style=3D"border-top:1px solid #777;display:none;=
+ overflow: hidden">
+                    <div id=3D"wm-capinfo-collected-by">
+    <div style=3D"background-color:#666;color:#fff;font-weight:bold;text-al=
+ign:center">COLLECTED BY</div>
+    <div style=3D"padding:3px;position:relative" id=3D"wm-collected-by-cont=
+ent">
+            <div style=3D"display:inline-block;vertical-align:top;width:50%=
+;">
+			<span class=3D"c-logo" style=3D"background-image:url(https://archive.org=
+/services/img/alexacrawls);"></span>
+		Organization: <a style=3D"color:#33f;" href=3D"https://archive.org/detail=
+s/alexacrawls" target=3D"_new"><span class=3D"wm-title">Alexa Crawls</span>=
+</a>
+		<div style=3D"max-height:75px;overflow:hidden;position:relative;">
+	  <div style=3D"position:absolute;top:0;left:0;width:100%;height:75px;back=
+ground:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0)=
+ 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href=3D"http://www.alexa.com/">Alexa Internet</a> h=
+as been donating their crawl data to the Internet Archive.  Flowing in ever=
+y day, these data are added to the <a href=3D"http://web.archive.org/">Wayb=
+ack Machine</a> after an embargo period.
+	</div>
+	      </div>
+      <div style=3D"display:inline-block;vertical-align:top;width:49%;">
+			<span class=3D"c-logo" style=3D"background-image:url(https://archive.org=
+/services/img/alexacrawls)"></span>
+		<div>Collection: <a style=3D"color:#33f;" href=3D"https://archive.org/det=
+ails/alexacrawls" target=3D"_new"><span class=3D"wm-title">Alexa Crawls</sp=
+an></a></div>
+		<div style=3D"max-height:75px;overflow:hidden;position:relative;">
+	  <div style=3D"position:absolute;top:0;left:0;width:100%;height:75px;back=
+ground:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0)=
+ 90%,rgba(255,255,255,255) 100%);"></div>
+	  Starting in 1996, <a href=3D"http://www.alexa.com/">Alexa Internet</a> h=
+as been donating their crawl data to the Internet Archive.  Flowing in ever=
+y day, these data are added to the <a href=3D"http://web.archive.org/">Wayb=
+ack Machine</a> after an embargo period.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id=3D"wm-capinfo-timestamps">
+    <div style=3D"background-color:#666;color:#fff;font-weight:bold;text-al=
+ign:center" title=3D"Timestamps for the elements of this page">TIMESTAMPS</=
+div>
+    <div>
+      <div id=3D"wm-capresources" style=3D"margin:0 5px 5px 5px;max-height:=
+250px;overflow-y:scroll !important"></div>
+      <div id=3D"wm-capresources-loading" style=3D"text-align:left;margin:0=
+ 20px 5px 5px;display:none"><img src=3D"https://web.archive.org/_static/ima=
+ges/loading.gif" alt=3D"loading"></div>
+    </div>
+    </div>
+  </div></div></div><link rel=3D"stylesheet" type=3D"text/css" href=3D"http=
+s://web.archive.org/_static/css/banner-styles.css?v=3DbsmaklHF"><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"https://web.archive.org/_static/c=
+ss/iconochive.css?v=3DqtvMKcIJ"><div class=3D"wb-autocomplete-suggestions "=
+></div></template></div><div id=3D"donato" style=3D"position:relative;width=
+:100%;">
+  <div id=3D"donato-base">
+    <iframe id=3D"donato-if" src=3D"cid:frame-E49BBD141C8444B21E41AF29A722F=
+F31@mhtml.blink" scrolling=3D"no" frameborder=3D"0" style=3D"width:100%; he=
+ight:100%">
+    </iframe>
+  </div>
+</div>
+<!-- END WAYBACK TOOLBAR INSERT --><div id=3D"cnv"><a id=3D"ablog" href=3D"=
+https://web.archive.org/web/20170818175247/http://www.ab-log.ru/"><img src=
+=3D"https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/f/ab=
+-log.png" width=3D"185" height=3D"42"></a><a id=3D"goshop" href=3D"https://=
+web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/shop"><=
+/a><a id=3D"goforum" href=3D"https://web.archive.org/web/20170818175247/htt=
+p://www.ab-log.ru/forum"></a><form action=3D"https://web.archive.org/web/20=
+170818175247/http://www.ab-log.ru/page.php" method=3D"post" id=3D"sb"> <inp=
+ut name=3D"q" type=3D"text" class=3D"in"><input type=3D"submit" value=3D"=
+=ED=E0=E9=F2=E8" class=3D"but"></form><ul id=3D"m1"><li><a href=3D"https://=
+web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house" class=
+=3D"current"><img src=3D"https://web.archive.org/web/20170818175247im_/http=
+://www.ab-log.ru/f/mp1.png" width=3D"248" height=3D"24"></a></li><li><a hre=
+f=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru/build"=
+><img src=3D"https://web.archive.org/web/20170818175247im_/http://www.ab-lo=
+g.ru/f/mp2.png" width=3D"227" height=3D"24"></a></li><li><a href=3D"https:/=
+/web.archive.org/web/20170818175247/http://www.ab-log.ru/garage"><img src=
+=3D"https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/f/mp=
+3.png" width=3D"191" height=3D"24"></a></li></ul><div id=3D"mid"><div id=3D=
+"lb"><ul id=3D"m2"><li><a href=3D"https://web.archive.org/web/2017081817524=
+7/http://www.ab-log.ru/smart-house/info">=D3=EC=ED=FB=E9 =E4=EE=EC =F1=E2=
+=EE=E8=EC=E8 =F0=F3=EA=E0=EC=E8. =CE=E1=F9=E8=E5 =EF=F0=E8=ED=F6=E8=EF=FB</=
+a></li><li><a href=3D"https://web.archive.org/web/20170818175247/http://www=
+.ab-log.ru/smart-house/info-flow">=D3=EC=ED=FB=E9 =E4=EE=EC =F1=E2=EE=E8=EC=
+=E8 =F0=F3=EA=E0=EC=E8. =D1=F5=E5=EC=E0 =E8=ED=F4=EE=F0=EC=E0=F6=E8=EE=ED=
+=ED=EE=E3=EE =EE=E1=EC=E5=ED=E0</a></li><li class=3D"ethernet"><a href=3D"h=
+ttps://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/=
+ethernet" class=3D"current">=D3=EC=ED=FB=E9 =C4=EE=EC =EF=EE Ethernet</a><u=
+l><li><a href=3D"https://web.archive.org/web/20170818175247/http://www.ab-l=
+og.ru/smart-house/ethernet/megad-328">MegaD-328 - =C3=EE=F2=EE=E2=FB=E9 =EC=
+=ED=EE=E3=EE=F4=F3=ED=EA=F6=E8=EE=ED=E0=EB=FC=ED=FB=E9 =EA=EE=ED=F2=F0=EE=
+=EB=EB=E5=F0 =D3=EC=ED=EE=E3=EE =C4=EE=EC=E0</a></li><li><a href=3D"https:/=
+/web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethern=
+et/megad-14-in">MegaD-14-IN - =F0=E0=F1=F8=E8=F0=FF=E5=EC =EF=E5=F0=E5=F7=
+=E5=ED=FC =EF=EE=E4=EA=EB=FE=F7=E0=E5=EC=EE=E3=EE =EE=E1=EE=F0=F3=E4=EE=E2=
+=E0=ED=E8=FF</a></li><li><a href=3D"https://web.archive.org/web/20170818175=
+247/http://www.ab-log.ru/smart-house/ethernet/megad-2561">MegaD-2561 - =ED=
+=EE=E2=E0=FF =F1=F2=F3=EF=E5=ED=FC =E2 =F0=E0=E7=E2=E8=F2=E8=E8 =EF=F0=EE=
+=E5=EA=F2=E0 MegaD</a></li><li><a href=3D"https://web.archive.org/web/20170=
+818175247/http://www.ab-log.ru/smart-house/ethernet/megad-328-api">MegaD-32=
+8 API (=E2=E5=F0=F1=E8=FF =EF=F0=EE=F8=E8=E2=EA=E8 3.34 =E8 =E2=FB=F8=E5)</=
+a></li><li><a href=3D"https://web.archive.org/web/20170818175247/http://www=
+.ab-log.ru/smart-house/ethernet/megad-328-firmware-upgrade" class=3D"curren=
+t">=CF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E0 MegaD-328/2561 =EF=EE =F1=E5=F2=E8<=
+/a></li><li><a href=3D"https://web.archive.org/web/20170818175247/http://ww=
+w.ab-log.ru/smart-house/ethernet/megad-2561-ssd1306">OLED =E4=E8=F1=EF=EB=
+=E5=E9 SSD1306 =E2 =E8=ED=F2=E5=F0=FC=E5=F0=E5</a></li><li><a href=3D"https=
+://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethe=
+rnet/megad-panel">MegaD-Panel - =EF=F0=EE=F1=F2=EE=E9 Web-=E8=ED=F2=E5=F0=
+=F4=E5=E9=F1 =E4=EB=FF =F3=EF=F0=E0=E2=EB=E5=ED=E8=FF MegaD-328</a></li><li=
+><a href=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru=
+/smart-house/ethernet/megad-2r">MegaD-2R - =E4=E5=EB=EE =E7=E0 =EC=E0=EB=FB=
+=EC</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/http:=
+//www.ab-log.ru/smart-house/ethernet/oled-megad-328">=C8=F1=EF=EE=EB=FC=E7=
+=EE=E2=E0=ED=E8=E5 OLED I2C =E4=E8=F1=EF=EB=E5=FF =F1 MegaD-328</a></li><li=
+><a href=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru=
+/smart-house/ethernet/temt6000-test">=C8 =F1=ED=EE=E2=E0 =EF=F0=EE =E8=E7=
+=EC=E5=F0=E5=ED=E8=E5 =EE=F1=E2=E5=F9=E5=ED=ED=EE=F1=F2=E8. =D2=E5=F1=F2=E8=
+=F0=EE=E2=E0=ED=E8=E5 TEMT6000</a></li><li><a href=3D"https://web.archive.o=
+rg/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/avr">=CC=ED=
+=EE=E3=EE=F4=F3=ED=EA=F6=E8=EE=ED=E0=EB=FC=ED=FB=E9 Ethernet-=EA=EE=ED=F2=
+=F0=EE=EB=EB=E5=F0 =D3=EC=ED=EE=E3=EE =C4=EE=EC=E0 =ED=E0 AVR =F1=E2=EE=E8=
+=EC=E8 =F0=F3=EA=E0=EC=E8</a></li><li><a href=3D"https://web.archive.org/we=
+b/20170818175247/http://www.ab-log.ru/smart-house/ethernet/gas-sensors">Meg=
+aD-328 =E8 =E4=E0=F2=F7=E8=EA=E8 =E3=E0=E7=E0. =CE=EF=F0=E5=E4=E5=EB=FF=E5=
+=EC =F3=F2=E5=F7=EA=E8 =E8 =E4=F0=F3=E3=E8=E5 =E8=E7=EC=E5=ED=E5=ED=E8=FF =
+=E2 =E2=EE=E7=E4=F3=F5=E5</a></li><li><a href=3D"https://web.archive.org/we=
+b/20170818175247/http://www.ab-log.ru/smart-house/ethernet/megad-328-bmp180=
+">MegaD-328 + I2C =E8=EB=E8 =EF=EE=E4=EA=EB=FE=F7=E5=ED=E8=E5 =E4=E0=F2=F7=
+=E8=EA=E0 =E4=E0=E2=EB=E5=ED=E8=FF BMP180</a></li><li><a href=3D"https://we=
+b.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/=
+sensors-adapter-box">=D1=ED=EE=E2=E0 =EF=F0=EE =E4=E0=F2=F7=E8=EA=E8 =F2=E5=
+=EC=EF=E5=F0=E0=F2=F3=F0=FB =E8=EB=E8 =EA=E0=EA =ED=E5 =E8=F1=EF=EE=F0=F2=
+=E8=F2=FC =E8=ED=F2=E5=F0=FC=E5=F0</a></li><li><a href=3D"https://web.archi=
+ve.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/htu21d-=
+megad">=C4=E0=F2=F7=E8=EA =F2=E5=EC=EF=E5=F0=E0=F2=F3=F0=FB =E8 =E2=EB=E0=
+=E6=ED=EE=F1=F2=E8 HTU21D =E4=EB=FF MegaD-328</a></li><li><a href=3D"https:=
+//web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ether=
+net/bh1750-megad">=CF=F0=EE =E4=E0=F2=F7=E8=EA =EE=F1=E2=E5=F9=E5=ED=ED=EE=
+=F1=F2=E8 BH1750. =D7=F2=EE, =EE=EF=FF=F2=FC? =C4=E0...</a></li><li><a href=
+=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-h=
+ouse/ethernet/megad-led-rgb">=D3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =F1=E2=E5=F2=EE=
+=E4=E8=EE=E4=ED=EE=E9 RGB-=EB=E5=ED=F2=EE=E9 =F1 =EF=EE=EC=EE=F9=FC=FE Mega=
+D-328</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/htt=
+p://www.ab-log.ru/smart-house/ethernet/megad-co2-mh-z14">=C8=E7=EC=E5=F0=FF=
+=E5=EC =F3=F0=EE=E2=E5=ED=FC =F3=E3=EB=E5=EA=E8=F1=EB=EE=E3=EE =E3=E0=E7=E0=
+ (=D1=CE2) =F1 =EF=EE=EC=EE=F9=FC=FE MH-Z14</a></li><li><a href=3D"https://=
+web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/etherne=
+t/megad-tsl2591">=D1=E1=FB=EB=E0=F1=FC =EC=E5=F7=F2=E0 =E8=E4=E8=EE=F2=E0? =
+=D2=E5=F1=F2=E8=F0=EE=E2=E0=ED=E8=E5 =F1=E5=ED=F1=EE=F0=EE=E2 TSL2591 =E8 M=
+AX44009</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/h=
+ttp://www.ab-log.ru/smart-house/ethernet/megad-2561-ir">=D3=EF=F0=E0=E2=EB=
+=E5=ED=E8=E5 =F2=E5=F5=ED=E8=EA=EE=E9 =EF=EE =C8=CA =EA=E0=ED=E0=EB=F3 =F1 =
+=EF=EE=EC=EE=F9=FC=FE MegaD-2561</a></li><li><a href=3D"https://web.archive=
+.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/light-sen=
+sor">=CF=EE=E4=EA=EB=FE=F7=E5=ED=E8=E5 =EA MegaD-328 =E4=E0=F2=F7=E8=EA=E0 =
+=EE=F1=E2=E5=F9=E5=ED=ED=EE=F1=F2=E8</a></li><li><a href=3D"https://web.arc=
+hive.org/web/20170818175247/http://www.ab-log.ru/smart-house/ethernet/cubie=
+board-server">Cubieboard2 =E2 =F0=EE=EB=E8 =F1=E5=F0=E2=E5=F0=E0 =D3=EC=ED=
+=EE=E3=EE =C4=EE=EC=E0</a></li><li><a href=3D"https://web.archive.org/web/2=
+0170818175247/http://www.ab-log.ru/smart-house/ethernet/megad-alarm">=CF=EE=
+=E4=EA=EB=FE=F7=E5=ED=E8=E5 =EA MegaD-328 =E4=E0=F2=F7=E8=EA=EE=E2 =E4=E2=
+=E8=E6=E5=ED=E8=FF. =D1=E8=E3=ED=E0=EB=E8=E7=E0=F6=E8=FF =EF=EE Ethernet</a=
+></li><li><a href=3D"https://web.archive.org/web/20170818175247/http://www.=
+ab-log.ru/smart-house/ethernet/megad-fire-alarm">=CF=EE=E4=EA=EB=FE=F7=E5=
+=ED=E8=E5 =EA MegaD-328/2561 =EF=EE=E6=E0=F0=ED=FB=F5 =E4=E0=F2=F7=E8=EA=EE=
+=E2</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/http:=
+//www.ab-log.ru/smart-house/ethernet/garage-gates-automation">=C4=EE...=E0=
+=E2=F2=EE=EC=E0=F2=E8=E7=E0=F6=E8=FF =E3=E0=F0=E0=E6=ED=FB=F5 =E2=EE=F0=EE=
+=F2 =E8=EB=E8 =EA=E0=EA =ED=E5 =E7=E0=E1=FB=F2=FC =EF=F0=EE =F6=E5=EF=EE=F7=
+=EA=F3</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/ht=
+tp://www.ab-log.ru/smart-house/ethernet/cr2032-megad-test">=D2=E5=F1=F2=E8=
+=F0=EE=E2=E0=ED=E8=E5 =E1=E0=F2=E0=F0=E5=E5=EA CR2032 =F1 =EF=EE=EC=EE=F9=
+=FC=FE MegaD-328/2561</a></li><li><a href=3D"https://web.archive.org/web/20=
+170818175247/http://www.ab-log.ru/smart-house/ethernet/variants">=CF=EE=E4=
+=E1=EE=F0=EA=E0 =E2=E0=F0=E8=E0=ED=F2=EE=E2 =F1=EE=E2=EC=E5=F1=F2=E8=EC=FB=
+=F5 =F1 =EF=F0=EE=F8=E8=E2=EA=EE=E9 MegaD-328 =F3=F1=F2=F0=EE=E9=F1=F2=E2 =
+=EE=F2 =EF=EE=EB=FC=E7=EE=E2=E0=F2=E5=EB=E5=E9 =F4=EE=F0=F3=EC=E0</a></li><=
+li><a href=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.=
+ru/smart-house/ethernet/light-sensor-outdoor">=CA=E0=EA =FF =E4=E5=EB=E0=EB=
+ =F3=EB=E8=F7=ED=FB=E9 =E4=E0=F2=F7=E8=EA =EE=F1=E2=E5=F9=E5=ED=ED=EE=F1=F2=
+=E8</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/http:=
+//www.ab-log.ru/smart-house/ethernet/sound-lights-ethernet">Highway to Hell=
+ =E8=EB=E8 =F6=E2=E5=F2=EE=EC=F3=E7=FB=EA=E0 =EF=EE Ethernet</a></li><li><a=
+ href=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru/sm=
+art-house/ethernet/megad-2561-7pwm">=C2=E5=F1=F2=E8 =F1 =EF=EE=EB=E5=E9. =
+=CF=F0=E8=EC=E5=ED=E5=ED=E8=E5 =E2 =EF=F0=EE=E5=EA=F2=E5 MegaD =F7=E8=EF=E0=
+ atmega2561</a></li><li><a href=3D"https://web.archive.org/web/201708181752=
+47/http://www.ab-log.ru/smart-house/ethernet/megad-sensor-current">=CF=EE=
+=E4=EA=EB=FE=F7=E5=ED=E8=E5 =E0=ED=E0=EB=EE=E3=EE=E2=FB=F5 =E4=E0=F2=F7=E8=
+=EA=EE=E2 =F1 =E2=FB=F5=EE=E4=EE=EC =F2=E8=EF=E0 "=F2=EE=EA" =EA =EC=EE=E4=
+=F3=EB=FF=EC MegaD (=E8=ED=F1=F2=F0=F3=EA=F6=E8=FF)</a></li><li><a href=3D"=
+https://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house=
+/ethernet/megad-lcd">=CF=EE=E4=EA=EB=FE=F7=E5=ED=E8=E5 =EA MegaD-328 =C6=CA=
+-=E4=E8=F1=EF=EB=E5=FF</a></li><li><a href=3D"https://web.archive.org/web/2=
+0170818175247/http://www.ab-log.ru/smart-house/ethernet/u-sensor">=C4=E0=F2=
+=F7=E8=EA =ED=E0=EF=F0=FF=E6=E5=ED=E8=FF =E4=EB=FF MegaD-328/2561</a></li><=
+li><a href=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.=
+ru/smart-house/ethernet/ippower-9212">=CF=F0=E8=EC=E5=ED=E5=ED=E8=E5 IP Pow=
+er 9212 Delux - =F3=ED=E8=E2=E5=F0=F1=E0=EB=FC=ED=EE=E5 Ethernet-=F3=F1=F2=
+=F0=EE=E9=F1=F2=E2=EE =E4=EB=FF =F3=EF=F0=E0=E2=EB=E5=ED=E8=FF =E4=EE=EC=EE=
+=EC</a></li></ul></li><li><a href=3D"https://web.archive.org/web/2017081817=
+5247/http://www.ab-log.ru/smart-house/linux">=CD=E0=F1=F2=F0=EE=E9=EA=E0 =
+=CE=D1 Linux =E8 =F0=E0=E7=F0=E0=E1=EE=F2=EA=E0 =E4=EE=EC=E0=F8=ED=E5=E3=EE=
+ Web-=F1=E0=E9=F2=E0</a></li><li><a href=3D"https://web.archive.org/web/201=
+70818175247/http://www.ab-log.ru/smart-house/video_camera_security">=C2=E8=
+=E4=E5=EE=ED=E0=E1=EB=FE=E4=E5=ED=E8=E5 =E4=EE=EC=E0 =F1=E2=EE=E8=EC=E8 =F0=
+=F3=EA=E0=EC=E8. =CD=E0=F1=F2=F0=EE=E9=EA=E0 =EF=EE=E4 Linux</a></li><li><a=
+ href=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru/sm=
+art-house/1-wire">=D2=E5=F5=ED=EE=EB=EE=E3=E8=FF 1-wire</a></li><li><a href=
+=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-h=
+ouse/heating-automation">=D3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EE=F2=EE=EF=EB=E5=
+=ED=E8=E5=EC =ED=E0 1-wire</a></li><li><a href=3D"https://web.archive.org/w=
+eb/20170818175247/http://www.ab-log.ru/smart-house/weather-station">=C4=EE=
+=EC=E0=F8=ED=FF=FF =EC=E5=F2=E5=EE=F1=F2=E0=ED=F6=E8=FF</a></li><li><a href=
+=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-h=
+ouse/shop">=C3=EE=F2=EE=E2=FB=E5 =EC=EE=E4=F3=EB=E8 =E8 =EA=EE=EC=EF=EE=ED=
+=E5=ED=F2=FB 1-wire (=EA=F3=EF=E8=F2=FC)</a></li><li><a href=3D"https://web=
+.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/mce">=CF=
+=EE=F1=F2=F0=EE=E5=ED=E8=E5 =EC=E5=E4=E8=E0/=F4=E0=E9=EB =F1=E5=F0=E2=E5=F0=
+=E0 =ED=E0 =E1=E0=E7=E5 Linux</a></li><li><a href=3D"https://web.archive.or=
+g/web/20170818175247/http://www.ab-log.ru/smart-house/asterisk">Asterisk =
+=E4=EE=EC=E0</a></li><li><a href=3D"https://web.archive.org/web/20170818175=
+247/http://www.ab-log.ru/smart-house/garden_automation">=C0=E2=F2=EE=EC=E0=
+=F2=E8=E7=E0=F6=E8=FF =F1=E0=E4=E0</a></li><li><a href=3D"https://web.archi=
+ve.org/web/20170818175247/http://www.ab-log.ru/smart-house/mercury-230">=D3=
+=F7=E5=F2 =FD=EB=E5=EA=F2=F0=EE=FD=ED=E5=F0=E3=E8=E8, =F1=F7=E8=F2=FB=E2=E0=
+=ED=E8=E5 =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8 =F1=EE =F1=F7=E5=F2=F7=E8=EA=E0 =
+=CC=E5=F0=EA=F3=F0=E8=E9 230, =EF=F0=EE=F2=EE=EA=EE=EB =F1=F7=E5=F2=F7=E8=
+=EA=E0</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/ht=
+tp://www.ab-log.ru/smart-house/neural-network">=CD=E5=E9=F0=EE=ED=ED=FB=E5 =
+=F1=E5=F2=E8 =D3=EC=ED=EE=E3=EE =C4=EE=EC=E0</a></li><li><a href=3D"https:/=
+/web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-house/speech=
+">=D0=E5=F7=E5=E2=FB=E5 =F2=E5=F5=ED=EE=EB=EE=E3=E8=E8 =D3=EC=ED=EE=E3=EE =
+=C4=EE=EC=E0</a></li><li><a href=3D"https://web.archive.org/web/20170818175=
+247/http://www.ab-log.ru/smart-house/gadget-control">=C4=E8=F1=F2=E0=ED=F6=
+=E8=EE=ED=ED=EE=E5 =F3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =F3=EC=ED=FB=EC =E4=EE=EC=
+=EE=EC</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/ht=
+tp://www.ab-log.ru/smart-house/beckhoff">=D3=EC=ED=FB=E9 =C4=EE=EC =ED=E0 B=
+eckhoff</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/h=
+ttp://www.ab-log.ru/smart-house/x10">=D2=E5=F5=ED=EE=EB=EE=E3=E8=FF X10</a>=
+</li><li><a href=3D"https://web.archive.org/web/20170818175247/http://www.a=
+b-log.ru/smart-house/gsm">GSM-=F1=E8=E3=ED=E0=EB=E8=E7=E0=F6=E8=FF =E4=EB=
+=FF =EE=F5=F0=E0=ED=FB =E8 =ED=E5 =F2=EE=EB=FC=EA=EE...</a></li><li><a href=
+=3D"https://web.archive.org/web/20170818175247/http://www.ab-log.ru/smart-h=
+ouse/wireless">=D3=EC=ED=FB=E9 =C4=EE=EC =E1=E5=E7 =EF=F0=EE=E2=EE=E4=EE=E2=
+</a></li><li><a href=3D"https://web.archive.org/web/20170818175247/http://w=
+ww.ab-log.ru/smart-house/misc">=C4=F0=F3=E3=E8=E5 =E3=EE=F2=EE=E2=FB=E5 =F0=
+=E5=F8=E5=ED=E8=FF =E4=EB=FF =E8=E4=E5=EE=EB=EE=E3=E8=E8 "=D3=EC=ED=FB=E9 =
+=C4=EE=EC"</a></li><li><a href=3D"https://web.archive.org/web/2017081817524=
+7/http://www.ab-log.ru/smart-house/accessories">=DD=EB=E5=EA=F2=F0=E8=EA=E0=
+ =E8 =F3=F1=F2=E0=ED=EE=E2=EE=F7=ED=FB=E5 =E8=E7=E4=E5=EB=E8=FF =E4=EB=FF =
+=D3=EC=ED=EE=E3=EE =C4=EE=EC=E0</a></li><li><a href=3D"https://web.archive.=
+org/web/20170818175247/http://www.ab-log.ru/smart-house/notes">=C7=E0=EC=E5=
+=F2=EA=E8 =ED=E0 =EF=EE=EB=FF=F5</a></li><li><a href=3D"https://web.archive=
+.org/web/20170818175247/http://www.ab-log.ru/forum">=D4=EE=F0=F3=EC</a></li=
+></ul><br><br><font color=3D"#666">=CE=EF=F0=EE=F1</font><br><hr size=3D"1"=
+><br><h2>=D7=F2=EE =E4=EB=FF =C2=E0=F1 =D3=EC=ED=FB=E9 =C4=EE=EC?</h2><br><=
+form id=3D"qst" action=3D"https://web.archive.org/web/20170818175247/http:/=
+/www.ab-log.ru/page.php" method=3D"POST"><label><input type=3D"radio" name=
+=3D"question" value=3D"1"> =D3=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EE=F1=E2=E5=F9=
+=E5=ED=E8=E5=EC =E8 =E1=FB=F2=EE=E2=FB=EC=E8 =EF=F0=E8=E1=EE=F0=E0=EC=E8</l=
+abel><label><input type=3D"radio" name=3D"question" value=3D"2"> =D3=EF=F0=
+=E0=E2=EB=E5=ED=E8=E5 =E8=ED=E6=E5=ED=E5=F0=ED=FB=EC=E8 =F1=E8=F1=F2=E5=EC=
+=E0=EC=E8</label><label><input type=3D"radio" name=3D"question" value=3D"3"=
+> =D5=F0=E0=ED=E5=ED=E8=E5 =E8 =F0=E0=F1=EF=F0=E5=E4=E5=EB=E5=ED=E8=E5 =EC=
+=E5=E4=E8=E0-=EA=EE=ED=F2=E5=ED=F2=E0</label><label><input type=3D"radio" n=
+ame=3D"question" value=3D"4"> =C2=E8=E4=E5=EE=ED=E0=E1=EB=FE=E4=E5=ED=E8=E5=
+, =E2=E8=E4=E5=EE=F1=E2=FF=E7=FC =F7=E5=F0=E5=E7 =C8=ED=F2=E5=F0=ED=E5=F2</=
+label><label><input type=3D"radio" name=3D"question" value=3D"5"> =D1=E8=F1=
+=F2=E5=EC=FB =E1=E5=E7=EE=EF=E0=F1=ED=EE=F1=F2=E8 =E8 =E7=E0=F9=E8=F2=FB</l=
+abel><label><input type=3D"radio" name=3D"question" value=3D"6"> =C4=F0=F3=
+=E3=EE=E5</label><input type=3D"submit" id=3D"but" value=3D"=CE=F2=E2=E5=F2=
+=E8=F2=FC"></form><a href=3D"https://web.archive.org/web/20170818175247/htt=
+p://www.ab-log.ru/smart-house/vote/what-is-smart-home">=D0=E5=E7=F3=EB=FC=
+=F2=E0=F2=FB</a></div><div id=3D"rb"><div id=3D"cnt"><h1>=CF=E5=F0=E5=EF=F0=
+=EE=F8=E8=E2=EA=E0 MegaD-328/2561 =EF=EE =F1=E5=F2=E8</h1><p class=3D"date"=
+>20/02/2014 10:20:42</p><p><strong>=C2=CD=C8=CC=C0=CD=C8=C5!</strong> <stro=
+ng>=CF=F0=E5=E6=E4=E5 =F7=E5=EC =EF=F0=EE=F8=E8=E2=E0=F2=FC =F3=F1=F2=F0=EE=
+=E9=F1=F2=E2=EE, =F2=F9=E0=F2=E5=EB=FC=ED=EE =EE=E7=ED=E0=EA=EE=EC=F2=E5=F1=
+=FC =F1 =E8=ED=F1=F2=F0=F3=EA=F6=E8=E5=E9. =C5=F1=EB=E8 =E2=FB =ED=E5 =F3=
+=E2=E5=F0=E5=ED=FB, =C2=D1=C5=C3=C4=C0 =E8=F1=EF=EE=EB=FC=E7=F3=E9=F2=E5 =
+=EA=EB=FE=F7 --ee (=F1=F2=E8=F0=E0=ED=E8=E5 EEPROM), =F7=F2=EE =EF=F0=E8=E2=
+=E5=E4=E5=F2 =EA =F1=E1=F0=EE=F1=F3 =E2=F1=E5=F5 =ED=E0=F1=F2=F0=EE=E5=EA =
+=ED=E0 =E7=E0=E2=EE=E4=F1=EA=E8=E5 =F1 =E8=E7=EC=E5=ED=E5=ED=E8=E5=EC IP-=
+=E0=E4=F0=E5=F1=E0 =ED=E0 192.168.0.14. =CD=EE =E5=F1=EB=E8 =E2=FB =FD=F2=
+=EE=E3=EE =ED=E5 =F1=E4=E5=EB=E0=E5=F2=E5, =F2=EE =EF=F0=E8 =EE=E1=ED=EE=E2=
+=EB=E5=ED=E8=E8 =ED=E0 =E2=E5=F0=F1=E8=FE, =E2 =EA=EE=F2=EE=F0=EE=E9 =E1=FB=
+=EB=E8 =E8=E7=EC=E5=ED=E5=ED=E8=FF =E2 =F0=E0=E1=EE=F2=E5 =F1 =FD=ED=E5=F0=
+=E3=EE=ED=E5=E7=E0=E2=E8=F1=E8=EC=EE=E9 =EF=E0=EC=FF=F2=FC=FE, =F3=F1=F2=F0=
+=EE=E9=F1=F2=E2=EE =EF=E5=F0=E5=F1=F2=E0=ED=E5=F2 =ED=EE=F0=EC=E0=EB=FC=ED=
+=EE =F4=F3=ED=EA=F6=E8=EE=ED=E8=F0=EE=E2=E0=F2=FC, =F7=F2=EE =EF=EE=F2=F0=
+=E5=E1=F3=E5=F2 =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=F3 =E2 "=F0=E5=E6=E8=EC=
+=E5 =E2=EE=F1=F1=F2=E0=ED=EE=E2=EB=E5=ED=E8=FF".</strong></p>
+
+<p>=CD=E0=F7=E8=ED=E0=FF c =F0=E5=E2=E8=E7=E8=E8 5.1 =EA=EE=ED=F2=F0=EE=EB=
+=EB=E5=F0=E0 <a href=3D"https://web.archive.org/web/20170818175247/http://w=
+ww.ab-log.ru/page.php?ID=3D143">MegaD-328</a> (=E8 =E4=EB=FF =E2=F1=E5=F5 =
+=F0=E5=E2=E8=E7=E8=E9 MegaD-2561) =E4=EB=FF =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=
+=EA=E8 =ED=E5 =ED=F3=E6=E5=ED =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0! =C2 =EA=
+=EE=ED=F2=F0=EE=EB=EB=E5=F0 =F3=E6=E5 =E7=E0=F8=E8=F2 =E7=E0=E3=F0=F3=E7=F7=
+=E8=EA, =EF=EE=E7=E2=EE=EB=FF=FE=F9=E8=E9 =EE=E1=ED=EE=E2=EB=FF=F2=FC =EF=
+=F0=EE=E3=F0=E0=EC=EC=ED=EE=E5 =EE=E1=E5=F1=EF=E5=F7=E5=ED=E8=E5 =EF=EE =F1=
+=E5=F2=E8 Ethernet. =DD=F2=EE =EA=F0=E0=E9=ED=E5 =E2=E0=E6=ED=E0=FF =E8 =ED=
+=E5=EE=E1=F5=EE=E4=E8=EC=E0=FF =F4=F3=ED=EA=F6=E8=FF, =EF=EE=F1=EA=EE=EB=FC=
+=EA=F3 =E4=E0=E5=F2 =E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=FC =E7=E0=E3=F0=F3=E6=E0=
+=F2=FC =EF=F0=EE=F8=E8=E2=EA=F3 =E2 =F0=E0=E1=EE=F2=E0=FE=F9=E8=E5 =F3=F1=
+=F2=F0=EE=E9=F1=F2=E2=E0 =E1=E5=E7 =E4=E5=EC=EE=ED=F2=E0=E6=E0 =E8=EB=E8 =
+=EF=EE=E4=EA=EB=FE=F7=E5=ED=E8=FF =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=E0.<=
+/p>
+
+<p>=C4=EB=FF =EE=E1=ED=EE=E2=EB=E5=ED=E8=FF =EF=F0=EE=F8=E8=E2=EA=E8 =E2 =
+=F3=F1=F2=F0=EE=E9=F1=F2=E2=E5 MegaD-328 =FF =EF=EE=E4=E3=EE=F2=EE=E2=E8=EB=
+ =ED=E5=E1=EE=EB=FC=F8=EE=E9 PHP-=F1=EA=F0=E8=EF=F2, =F0=E0=E1=EE=F2=E0=FE=
+=F9=E8=E9 =E8=E7 =EA=EE=EC=E0=ED=E4=ED=EE=E9 =F1=F2=F0=EE=EA=E8. =CF=EE=F7=
+=E5=EC=F3 =E8=EC=E5=ED=ED=EE PHP-=F1=EA=F0=E8=EF=F2, =E0 =ED=E5 =EA=E0=EA=
+=EE=E5-=ED=E8=E1=F3=E4=FC Desktop-=EF=F0=E8=EB=EE=E6=E5=ED=E8=E5? =C4=E5=EB=
+=EE =E2 =F2=EE=EC, =F7=F2=EE, =E2=EE-=EF=E5=F0=E2=FB=F5, =EF=F0=E5=E4=EB=EE=
+=E6=E5=ED=ED=FB=E9 =F1=EA=F0=E8=EF=F2 =E1=F3=E4=E5=F2 =EE=E4=E8=ED=E0=EA=EE=
+=E3=EE =F0=E0=E1=EE=F2=E0=F2=FC =E2 =EB=FE=E1=EE=E9 =EE=EF=E5=F0=E0=F6=E8=
+=EE=ED=ED=EE=E9 =F1=E8=F1=F2=E5=EC=E5: Windows (<em>=EF=F0=EE=F2=E5=F1=F2=
+=E8=F0=EE=E2=E0=ED=EE =E2 Windows 7</em>), Linux, MacOS, FreeBSD. =D2=EE =
+=E5=F1=F2=FC, =FD=F2=EE =F0=E5=F8=E5=ED=E8=E5 =EA=F0=EE=F1=F1-=EF=EB=E0=F2=
+=F4=EE=F0=EC=E5=ED=ED=EE=E5. =C2=EE-=E2=F2=EE=F0=FB=F5, =E2=FB =EC=EE=E6=E5=
+=F2=E5 =EC=EE=E4=E8=F4=E8=F6=E8=F0=EE=E2=E0=F2=FC =E5=E3=EE =EF=EE =F1=EE=
+=E1=F1=F2=E2=E5=ED=ED=EE=EC=F3 =E6=E5=EB=E0=ED=E8=FE =EA=E0=EA =F3=E3=EE=E4=
+=ED=EE, =E4=EE=E1=E0=E2=E8=E2 =F1=E2=EE=FE =F4=F3=ED=EA=F6=E8=EE=ED=E0=EB=
+=FC=ED=EE=F1=F2=FC. =D1=EA=F0=E8=EF=F2 =ED=E5 =EA=EE=E4=E8=F0=EE=E2=E0=ED =
+=E8 =EE=F2=EA=F0=FB=F2 =EF=EE=E4 =EB=E8=F6=E5=ED=E7=E8=E5=E9 GPL 2. =C0, =
+=E2-=F2=F0=E5=F2=FC=E8=F5, =E5=E3=EE =EC=EE=E6=ED=EE =EB=E5=E3=EA=EE =E8=ED=
+=F2=E5=E3=F0=E8=F0=EE=E2=E0=F2=FC =E2 Web-=F1=E8=F1=F2=E5=EC=F3 =D3=EC=ED=
+=EE=E3=EE =E4=EE=EC=E0. =D2=EE=E3=E4=E0 =EE=E1=ED=EE=E2=E8=F2=FC =EF=F0=EE=
+=F8=E8=E2=EA=F3 =EC=EE=E6=ED=EE =EF=F0=FF=EC=EE =F1=EE =F1=F2=F0=E0=ED=E8=
+=F6 =E4=EE=EC=E0=F8=ED=E5=E3=EE Web-=F1=E0=E9=F2=E0.</p>
+
+<p>=C4=EB=FF MegaD-328. =D1=EA=E0=F7=E0=F2=FC megad-cfg (=D2=E5=EA=F3=F9=E0=
+=FF =E2=E5=F0=F1=E8=FF 1.38 =EE=F2 23.09.2015).<br>
+<a href=3D"https://web.archive.org/web/20170818175247/http://ab-log.ru/file=
+s/File/megad-cfg/megad-cfg.zip">http://ab-log.ru/files/File/megad-cfg/megad=
+-cfg.zip</a><br>
+=C4=EB=FF MegaD-2561. =D1=EA=E0=F7=E0=F2=FC megad-cfg-2561 (=D2=E5=EA=F3=F9=
+=E0=FF =E2=E5=F0=F1=E8=FF 2.04 =EE=F2 12.12.2016).<br>
+<strong>=C4=EB=FF MegaD-2561 =EE=E1=FF=E7=E0=F2=E5=EB=FC=ED=EE =E8=F1=EF=EE=
+=EB=FC=E7=EE=E2=E0=ED=E8=E5 =E2=E5=F0=F1=E8=E8 =ED=E5 =ED=E8=E6=E5 2.03 !</=
+strong><br>
+<a href=3D"https://web.archive.org/web/20170818175247/http://ab-log.ru/file=
+s/File/megad-cfg/megad-cfg-2561.zip">http://ab-log.ru/files/File/megad-cfg/=
+megad-cfg-2561.zip</a></p>
+
+<p>=CD=EE =EF=F0=E5=E6=E4=E5, =F7=E5=EC =EF=F0=E8=F1=F2=F3=EF=E8=F2=FC =EA =
+=EE=EF=E8=F1=E0=ED=E8=FE =F4=F3=ED=EA=F6=E8=E9 =F1=EA=F0=E8=EF=F2=E0, =EF=
+=E0=F0=F3 =F1=EB=EE=E2 =EE=E1 =F3=F1=F2=E0=ED=EE=E2=EA=E5 PHP.<br>
+=C2 Linux =FD=F2=EE =E4=E5=EB=E0=E5=F2=F1=FF =EE=F7=E5=ED=FC =EF=F0=EE=F1=
+=F2=EE</p>
+
+<p>apt-get install php5 php5-cli (=E8=E7 =EA=EE=EC=E0=ED=E4=ED=EE=E9 =F1=F2=
+=F0=EE=EA=E8 =E8=EB=E8 =E8=E7 =EB=FE=E1=EE=E3=EE =EC=E5=ED=E5=E4=E6=E5=F0=
+=E0 =EF=E0=EA=E5=F2=EE=E2)</p>
+
+<p>=C4=EB=FF =F3=F1=F2=E0=ED=EE=E2=EA=E8 PHP =E2 =CE=D1 Windows 7, =ED=E5=
+=EE=E1=F5=EE=E4=E8=EC=EE =F1=EA=E0=F7=E0=F2=FC =F1 <a href=3D"https://web.a=
+rchive.org/web/20170818175247/http://windows.php.net/download/">=EE=F4=E8=
+=F6=E8=E0=EB=FC=ED=EE=E3=EE =F1=E0=E9=F2=E0</a> =EA=E0=EA=F3=FE-=ED=E8=E1=
+=F3=E4=FC =E8=E7 =EF=EE=F1=EB=E5=E4=ED=E8=F5 =E2=E5=F0=F1=E8=E9 =E8 =F0=E0=
+=F1=EF=E0=EA=EE=E2=E0=F2=FC =F1=EE=E4=E5=F0=E6=E8=EC=EE=E5 =E0=F0=F5=E8=E2=
+=E0 =EA=F3=E4=E0-=ED=E8=E1=F3=E4=FC =ED=E0 =E4=E8=F1=EA. =CD=E0=EF=F0=E8=EC=
+=E5=F0 C:PHP<br>
+<a href=3D"https://web.archive.org/web/20170818175247/http://ru2.php.net/ma=
+nual/ru/install.windows.manual.php">=C8=ED=F1=F2=F0=F3=EA=F6=E8=FF =EF=EE =
+=F3=F1=F2=E0=ED=EE=E2=EA=E5 PHP</a> =E2 Windows. =D7=F2=EE=E1=FB =ED=E5 =F3=
+=EA=E0=E7=FB=E2=E0=F2=FC =EA=E0=E6=E4=FB=E9 =F0=E0=E7 =EF=EE=EB=ED=FB=E9 =
+=EF=F3=F2=FC =EA php.exe =EC=EE=E6=ED=EE =EF=F0=EE=EF=E8=F1=E0=F2=FC =EF=F3=
+=F2=FC =E2 =EF=E5=F0=E5=EC=E5=ED=ED=F3=FE =EE=EA=F0=F3=E6=E5=ED=E8=FF PATH.=
+<br>
+<strong>=C2=E0=E6=ED=EE!</strong> =C2 =F4=E0=E9=EB=E5 php.ini (=ED=E0=F1=F2=
+=F0=EE=E9=EA=E8 PHP) =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =ED=E0=E9=F2=E8 =E8 =F0=
+=E0=F1=EA=EE=EC=EC=E5=ED=F2=E8=F0=EE=E2=E0=F2=FC =F1=F2=F0=EE=F7=EA=F3 <em>=
+extension=3Dphp_sockets.dll</em><br>
+=C4=E0=EB=E5=E5 =E2 =F1=F2=E0=F2=FC=E5 =FF =E1=F3=E4=F3 =F3=EA=E0=E7=FB=E2=
+=E0=F2=FC =EF=F0=E8=EC=E5=F0=FB =E7=E0=EF=F3=F1=EA=E0 =F1=EA=F0=E8=EF=F2=E0=
+ =E2 Linux. =C4=EB=FF Windows =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =E8=E7=EC=E5=
+=ED=E8=F2=FC php =ED=E0 php.exe<br>
+=CD=E0=EF=F0=E8=EC=E5=F0,<br>
+php megad-cfg.php<br>
+=ED=E0<br>
+php.exe megad-cfg.php</p>
+
+<h2><br>
+=D1=EA=E0=ED=E8=F0=EE=E2=E0=ED=E8=E5 =E2=F1=E5=F5 =F3=F1=F2=F0=EE=E9=F1=F2=
+=E2 =F2=E8=EF=E0 MegaD-328 =E2 =F1=E5=F2=E8<br>
+&nbsp;</h2>
+
+<pre>php megad-cfg.php --scan</pre>
+
+<p>=D1=EA=F0=E8=EF=F2 =EE=F2=EE=E1=F0=E0=E7=E8=F2 IP-=E0=E4=F0=E5=F1=E0 =E2=
+=F1=E5=F5 =EF=EE=E4=EA=EB=FE=F7=E5=ED=ED=FB=F5 =E2 =F1=E5=F2=FC Ethernet-=
+=F3=F1=F2=F0=EE=E9=F1=F2=E2, =E4=E0=E6=E5 =E5=F1=EB=E8 =EE=ED=E8 =ED=E0=F5=
+=EE=E4=FF=F2=F1=FF =E2 =E4=F0=F3=E3=EE=E9 IP-=F1=E5=F2=E8. =DD=F2=EE =E2=E0=
+=E6=ED=E0=FF =F4=F3=ED=EA=F6=E8=FF, =F2=E0=EA =EA=E0=EA =E0=E4=F0=E5=F1 =F3=
+=F1=F2=F0=EE=E9=F1=F2=E2=E0 =EF=EE =F3=EC=EE=EB=F7=E0=ED=E8=FE 192.168.0.14=
+, =E0 =F3 =EF=EE=EB=FC=E7=EE=E2=E0=F2=E5=EB=FF =EC=EE=E6=E5=F2 =E8=F1=EF=EE=
+=EB=FC=E7=EE=E2=E0=F2=FC=F1=FF =E4=F0=F3=E3=E0=FF =F1=E5=F2=FC, =ED=E0=EF=
+=F0=E8=EC=E5=F0 192.168.1 =E8=EB=E8 10.0.0. =C2 =FD=F2=EE=EC =F1=EB=F3=F7=
+=E0=E5 =E4=E0=ED=ED=E0=FF =EA=EE=EC=E0=ED=E4=E0 =EF=EE=E7=E2=EE=EB=FF=E5=F2=
+ =EF=F0=EE=E8=E7=E2=E5=F1=F2=E8 =EF=EE=E8=F1=EA =E4=EE=F1=F2=F3=EF=ED=FB=F5=
+ =F3=F1=F2=F0=EE=E9=F1=F2=E2.</p>
+
+<h2><br>
+=C8=E7=EC=E5=ED=E5=ED=E8=E5 IP-=E0=E4=F0=E5=F1=E0 =F3=F1=F2=F0=EE=E9=F1=F2=
+=E2=E0<br>
+&nbsp;</h2>
+
+<pre>php megad-cfg.php --ip 192.168.0.14 --new-ip 10.0.0.14 -p sec</pre>
+
+<p>--ip - =D2=E5=EA=F3=F9=E8=E9 IP-=E0=E4=F0=E5=F1 =F3=F1=F2=F0=EE=E9=F1=F2=
+=E2=E0<br>
+--new-ip - =CD=EE=E2=FB=E9 IP-=E0=E4=F0=E5=F1 =F3=F1=F2=F0=EE=E9=F1=F2=E2=
+=E0<br>
+-p - =D2=E5=EA=F3=F9=E8=E9 =EF=E0=F0=EE=EB=FC (=EF=EE =F3=EC=EE=EB=F7=E0=ED=
+=E8=FE =EF=E0=F0=EE=EB=FC "sec")</p>
+
+<h2><br>
+=CF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E0 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0<br>
+&nbsp;</h2>
+
+<pre>php megad-cfg.php --ip 192.168.0.14 --fw megad-328.hex -p sec</pre>
+
+<p>--ip - =D2=E5=EA=F3=F9=E8=E9 IP-=E0=E4=F0=E5=F1 =F3=F1=F2=F0=EE=E9=F1=F2=
+=E2=E0<br>
+--fw - =CF=F3=F2=FC =EA =F1=EA=EE=EC=EF=E8=EB=E8=F0=EE=E2=E0=ED=ED=EE=E9 =
+=EF=F0=EE=F8=E8=E2=EA=E5 =E2 =F4=EE=F0=EC=E0=F2=E5 HEX<br>
+-p - =D2=E5=EA=F3=F9=E8=E9 =EF=E0=F0=EE=EB=FC</p>
+
+<p><strong>=C2=CD=C8=CC=C0=CD=C8=C5!</strong> =C5=F1=EB=E8 =E2 =ED=EE=E2=EE=
+=E9 =EF=F0=EE=F8=E8=E2=EA=E5 =E1=FB=EB=E8 =E8=E7=EC=E5=ED=E5=ED=E8=FF =E2 =
+=F0=E0=E1=EE=F2=E5 =F1 EEPROM (=ED=E0=EF=F0=E8=EC=E5=F0, =E4=EE=E1=E0=E2=EB=
+=E5=ED=FB =ED=EE=E2=FB=E5 =EE=EF=F6=E8=E8 =E2 =EA=EE=ED=F4=E8=E3=F3=F0=E0=
+=F6=E8=FE) <strong>=CE=C1=DF=C7=C0=D2=C5=CB=DC=CD=CE</strong> =ED=E5=EE=E1=
+=F5=EE=E4=E8=EC=EE =EE=E1=ED=EE=E2=EB=FF=F2=FC =EF=F0=EE=F8=E8=E2=EA=F3 =F1=
+ =EE=F7=E8=F1=F2=EA=EE=E9 EEPROM =F1 =EF=F0=E8=EC=E5=ED=E5=ED=E8=E5=EC =EA=
+=EB=FE=F7=E0 --ee. =DD=F2=EE =E0=EA=F2=F3=E0=EB=FC=ED=EE =E4=EB=FF =E2=F1=
+=E5=F5 =EF=F0=E8=EC=E5=F0=EE=E2, =EA=EE=F2=EE=F0=FB=E5 =EF=F0=E8=E2=E5=E4=
+=E5=ED=FB =ED=E8=E6=E5. =C5=F1=EB=E8 =E2=FB =ED=E5 =F3=E2=E5=F0=E5=ED=FB =
+=E8=EB=E8 =ED=E5 =E7=ED=E0=E5=F2=E5 - =E1=FB=EB=E8 =EB=E8 =E8=E7=EC=E5=ED=
+=E5=ED=E8=FF =E2 =F0=E0=E1=EE=F2=E5 =F1 EEPROM =EB=F3=F7=F8=E5 =EF=F0=EE=F8=
+=E8=E2=E0=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =F1 =FD=F2=E8=EC =EA=EB=FE=
+=F7=EE=EC. =CE=F7=E8=F1=F2=EA=E0 EEPROM =EF=F0=E8=E2=E5=E4=E5=F2 =EA =F1=E1=
+=F0=EE=F1=F3 =E2=F1=E5=F5 =ED=E0=F1=F2=F0=EE=E5=EA, =E2 =F2=EE=EC =F7=E8=F1=
+=EB=E5 IP-=E0=E4=F0=E5=F1=E0 =ED=E0 =E7=E0=E2=EE=E4=F1=EA=EE=E9: 192.168.0.=
+14.</p>
+
+<p>=CF=F0=E8=EC=E5=F0:</p>
+
+<pre>php megad-cfg.php --ip 192.168.0.14 --fw megad-328.hex -p sec --ee
+</pre>
+
+<p>=CD=E5 =EE=E1=FF=E7=E0=F2=E5=EB=FC=ED=EE =F1=EA=E0=F7=E8=E2=E0=F2=FC =EF=
+=F0=EE=F8=E8=E2=EA=F3 =E2=F0=F3=F7=ED=F3=FE. =D1=EA=F0=E8=EF=F2 megad-cfg.p=
+hp =EC=EE=E6=E5=F2 =E7=E0=E3=F0=F3=E7=E8=F2=FC =EF=F0=EE=F8=E8=E2=EA=F3 =F1=
+ =F1=E0=E9=F2=E0 =F1=E0=EC=EE=F1=F2=EE=FF=F2=E5=EB=FC=ED=EE!</p>
+
+<pre>php megad-cfg.php --ip 192.168.0.14 -p sec -w</pre>
+
+<p>-w - =D1=EA=E0=F7=E0=F2=FC =EF=EE=F1=EB=E5=E4=ED=E8=E9 =F0=E5=EB=E8=E7 =
+=EF=F0=EE=F8=E8=E2=EA=E8 =F1 =F1=E0=E9=F2=E0 ab-log.ru</p>
+
+<p>=CE=F7=E5=ED=FC =F7=E0=F1=F2=EE =ED=E0 =F1=E0=E9=F2=E5 =EF=F3=E1=EB=E8=
+=EA=F3=FE=F2=F1=FF =F2=E5=F1=F2=EE=E2=FB=E5 =EF=F0=EE=F8=E8=E2=EA=E8, =F2=
+=E0=EA =ED=E0=E7=FB=E2=E0=E5=EC=FB=E5 "=E1=E5=F2=E0-=EF=F0=EE=F8=E8=E2=EA=
+=E8". =C5=F1=EB=E8 =F1 =EA=EB=FE=F7=EE=EC "-w" =F1=EA=E0=F7=E8=E2=E0=E5=F2=
+=F1=FF =F0=E5=EB=E8=E7, =F2=EE =E4=EE=EF=EE=EB=ED=E8=F2=E5=EB=FC=ED=EE =F3=
+=EA=E0=E7=E0=E2 =EA=EB=FE=F7 "-b" =EC=EE=E6=ED=EE =E7=E0=E3=F0=F3=E7=E8=F2=
+=FC "=E1=E5=F2=F3"</p>
+
+<pre>php megad-cfg.php --ip 192.168.0.14 -p sec -w -b</pre>
+
+<p>=CF=F0=E8 =E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=E8 =F3=EA=E0=E7=E0=ED=ED=
+=FB=F5 =E2=FB=F8=E5 =EA=EB=FE=F7=E5=E9, =EE=E1=ED=EE=E2=EB=E5=ED=E8=E5 =EF=
+=F0=EE=F8=E8=E2=EA=E8 =EF=F0=EE=E8=F1=F5=EE=E4=E8=F2 =E1=E5=E7 =F1=E1=F0=EE=
+=F1=E0 =ED=E0=F1=F2=F0=EE=E5=EA =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0. =CE=E4=ED=
+=E0=EA=EE =E8=ED=EE=E3=E4=E0 =E2 =EF=F0=EE=F8=E8=E2=EA=E5 =EF=F0=EE=E8=F1=
+=F5=EE=E4=FF=F2 =EA=E0=F0=E4=E8=ED=E0=EB=FC=ED=FB=E5 =E8=E7=EC=E5=ED=E5=ED=
+=E8=FF =E2 =F0=E0=E1=EE=F2=E5 =F1 =FD=ED=E5=F0=E3=EE=ED=E5=E7=E0=E2=E8=F1=
+=E8=EC=EE=E9 =EF=E0=EC=FF=F2=FC=FE (EEPROM), =E2 =EA=EE=F2=EE=F0=EE=E9 =F5=
+=F0=E0=ED=FF=F2=F1=FF =ED=E0=F1=F2=F0=EE=E9=EA=E8. =C2 =FD=F2=EE=EC =F1=EB=
+=F3=F7=E0=E5 =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =F1=E1=F0=EE=F1=E8=F2=FC =E2=F1=
+=E5 =ED=E0=F1=F2=F0=EE=E9=EA=E8 =E8 =F1=EA=EE=ED=F4=E8=E3=F3=F0=E8=F0=EE=E2=
+=E0=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =E7=E0=ED=EE=E2=EE. =C4=EB=FF =F1=
+=F2=E8=F0=E0=ED=E8=FF EEPROM =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =E8=F1=EF=EE=EB=
+=FC=E7=EE=E2=E0=F2=FC =EA=EB=FE=F7 "--ee"</p>
+
+<pre>php megad-cfg.php --ip 192.168.0.14 --fw megad-328.hex -p sec --ee</pr=
+e>
+
+<h2><br>
+=C0 =E5=F1=EB=E8 =F3 =EC=E5=ED=FF =F0=E5=E2=E8=E7=E8=FF MegaD-328 =E1=EE=EB=
+=E5=E5 =F0=E0=ED=ED=FF=FF, =F7=E5=EC 5.1, =FF =ED=E5 =F1=EC=EE=E3=F3 =EF=E5=
+=F0=E5=EF=F0=EE=F8=E8=E2=E0=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =EF=EE =F1=
+=E5=F2=E8?</h2>
+
+<p>=D1=EC=EE=E6=E5=F2=E5! =CD=EE =E2 =E2=E0=F8=E5=EC =F1=EB=F3=F7=E0=E5 =F1=
+=EF=E5=F0=E2=E0 =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =F3=F1=F2=E0=ED=EE=E2=E8=F2=
+=FC =E7=E0=E3=F0=F3=E7=F7=E8=EA. =C0 =E2=EE=F2 =E4=EB=FF =FD=F2=EE=E3=EE =
+=EF=EE=F2=F0=E5=E1=F3=E5=F2=F1=FF =EB=FE=E1=EE=E9 =EF=F0=EE=E3=F0=E0=EC=EC=
+=E0=F2=EE=F0, =EF=EE=E4=E4=E5=F0=E6=E8=E2=E0=FE=F9=E8=E9 atmega328.<br>
+=DD=F2=EE =EE=E4=ED=EE=F0=E0=E7=EE=E2=E0=FF =EE=EF=E5=F0=E0=F6=E8=FF. =CF=
+=EE =F1=F3=F2=E8 =E0=EF=EF=E0=F0=E0=F2=ED=EE 5.1 =EF=EE=EB=ED=EE=F1=F2=FC=
+=FE =F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=E5=F2 5.0. =D0=E0=E7=ED=E8=F6=E0 =EB=
+=E8=F8=FC =E2 =F2=EE=EC, =F7=F2=EE =E2 5.1 =E7=E0=E3=F0=F3=E7=F7=E8=EA =F3=
+=F1=F2=E0=ED=E0=E2=EB=E8=E2=E0=E5=F2=F1=FF =EF=F0=E8 =EF=F0=EE=E8=E7=E2=EE=
+=E4=F1=F2=E2=E5.</p>
+
+<p>=C4=EB=FF =ED=E0=F7=E0=EB=E0 =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =F1=EA=E0=F7=
+=E0=F2=FC =E8 =EF=F0=EE=F8=E8=F2=FC =F4=E0=E9=EB =E7=E0=E3=F0=F3=E7=F7=E8=
+=EA=E0<br>
+<a href=3D"https://web.archive.org/web/20170818175247/http://ab-log.ru/file=
+s/File/megad-boot/megad-boot_15.zip">http://ab-log.ru/files/File/megad-boot=
+/megad-boot_15.zip</a></p>
+
+<p>=D2=E5=EF=E5=F0=FC =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =E2=FB=F1=F2=E0=E2=E8=
+=F2=FC fuse-bits, =F7=F2=EE=E1=FB =F1=EA=EE=ED=F4=E8=E3=F3=F0=E8=F0=EE=E2=
+=E0=F2=FC =EC=E8=EA=F0=EE=EA=EE=ED=F2=F0=EE=EB=EB=E5=F0 =ED=E0 =E2=FB=EF=EE=
+=EB=ED=E5=ED=E8=E5 =EF=F0=EE=E3=F0=E0=EC=EC=FB =F1 =E0=E4=F0=E5=F1=E0 =E7=
+=E0=E3=F0=F3=E7=F7=E8=EA=E0.<br>
+Low: 0x60<br>
+High: 0xD8 (=E1=FB=EB=EE 0xD9)<br>
+=C2=EE=F2 =EF=F0=E8=EC=E5=F0 =E4=EB=FF avrdude =E8 AVRISP mkII</p>
+
+<pre>avrdude -c avrispmkII -P usb -p m328p -U lfuse:w:0x60:m -U hfuse:w:0xD=
+8:m</pre>
+
+<p>=C4=EB=FF =EF=EE=EF=F3=EB=FF=F0=ED=EE=E3=EE =EF=F0=EE=E3=F0=E0=EC=EC=E0=
+=F2=EE=F0=E0 USBASP =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =E2=EC=E5=F1=F2=EE avris=
+pmkII =F3=EA=E0=E7=E0=F2=FC usbasp =E2=EE=F2 =F2=E0=EA:</p>
+
+<pre>avrdude -c usbasp -P usb -p m328p -U lfuse:w:0x60:m -U hfuse:w:0xD8:m<=
+/pre>
+
+<p><em>=C2=ED=E8=EC=E0=ED=E8=E5! =D3=EA=E0=E7=E0=ED=FB fuse-bits =E4=EB=FF =
+atmega328. =C4=EB=FF =F2=E5=F5, =EA=F2=EE =F1=E0=EC=EE=F1=F2=EE=FF=F2=E5=EB=
+=FC=ED=EE =F1=EE=E1=E8=F0=E0=E5=F2 =E0=ED=E0=EB=EE=E3 MegaD-2561, fuse-bits=
+ =E4=F0=F3=E3=E8=E5: L:60 / H:DA</em></p>
+
+<p>=D2=E5=EF=E5=F0=FC =E7=E0=EF=E8=F1=FB=E2=E0=E5=EC =E7=E0=E3=F0=F3=E7=F7=
+=E8=EA:</p>
+
+<pre>avrdude -c avrispmkII -P usb -p m328p -e -U flash:w:megad-boot.hex</pr=
+e>
+
+<p>=CF=EE=F1=EB=E5 =F2=EE=E3=EE, =EA=E0=EA =EF=F0=EE=F8=E8=F2 =E7=E0=E3=F0=
+=F3=E7=F7=E8=EA =E8 =F3=F1=F2=E0=ED=EE=E2=EB=E5=ED=FB fuse-bits, =EC=EE=E6=
+=ED=EE =EE=F2=EA=EB=FE=F7=E0=F2=FC =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0. =
+=C1=EE=EB=FC=F8=E5 =EE=ED =ED=E5 =EF=EE=ED=E0=E4=EE=E1=E8=F2=F1=FF. =CD=EE =
+=EF=F0=E8 =EF=E5=F0=E2=EE=E9 =E7=E0=E3=F0=F3=E7=EA=E5 =EF=F0=EE=F8=E8=E2=EA=
+=E8, =F2=E0=EA =EA=E0=EA =EE=F1=ED=EE=E2=ED=EE=E9 =EF=F0=EE=E3=F0=E0=EC=EC=
+=FB =ED=E5=F2, =E0 =F1=F2=E0=EB=EE =E1=FB=F2=FC, =ED=E5=F2 =E8 IP-=E0=E4=F0=
+=E5=F1=E0, =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =E2=EE=F1=EF=EE=EB=FC=E7=EE=E2=E0=
+=F2=FC=F1=FF =F1=EF=E5=F6=E8=E0=EB=FC=ED=FB=EC =EA=EB=FE=F7=EE=EC "-f".</p>
+
+<pre>php megad-cfg.php --fw megad-328.hex -f -e</pre>
+
+<p>=C2=E0=E6=ED=EE! =C2=E5=F0=F1=E8=FF =EF=F0=EE=F8=E8=E2=EA=E8 =E4=EE=EB=
+=E6=ED=E0 =E1=FB=F2=FC 3.14 =E8=EB=E8 =E1=EE=EB=E5=E5 =ED=EE=E2=E0=FF.</p>
+
+<h2><br>
+=C2 =EF=F0=EE=F6=E5=F1=F1=E5 =E7=E0=E3=F0=F3=E7=EA=E8 =ED=EE=E2=EE=E9 =EF=
+=F0=EE=F8=E8=E2=EA=E8 =EF=F0=EE=E8=E7=EE=F8=E5=EB =F1=E1=EE=E9. =D3=F1=F2=
+=F0=EE=E9=F1=F2=E2=EE =ED=E5 =EE=F2=E2=E5=F7=E0=E5=F2. =C2=F1=E5 =EF=F0=EE=
+=EF=E0=EB=EE?</h2>
+
+<p><strong>=D0=E5=E6=E8=EC =E2=EE=F1=F1=F2=E0=ED=EE=E2=EB=E5=ED=E8=FF</stro=
+ng></p>
+
+<p>=CD=E5=F2, =ED=E8=F7=E5=E3=EE =ED=E5 =EF=F0=EE=EF=E0=EB=EE! =C4=EB=FF =
+=F2=E0=EA=E8=F5 =F1=EB=F3=F7=E0=E5=E2 =EF=F0=E5=E4=ED=E0=E7=ED=E0=F7=E5=ED =
+=EE=F1=EE=E1=FB=E9 =F0=E5=E6=E8=EC. =C4=E5=EB=EE =E2 =F2=EE=EC, =F7=F2=EE =
+=E2 =EC=EE=EC=E5=ED=F2 =E2=EA=EB=FE=F7=E5=ED=E8=FF =F3=F1=F2=F0=EE=E9=F1=F2=
+=E2=E0, =E7=E0=E3=F0=F3=E7=F7=E8=EA =EF=E5=F0=E5=E4=E0=E5=F2 =F3=EF=F0=E0=
+=E2=EB=E5=ED=E8=E5 =EE=F1=ED=EE=E2=ED=EE=E9 =EF=F0=EE=E3=F0=E0=EC=EC=E5 =ED=
+=E5 =F1=F0=E0=E7=F3, =E0 =F1=EF=F3=F1=F2=FF =EF=F0=E8=EC=E5=F0=ED=EE =F1=E5=
+=EA=F3=ED=E4=F3. =C2 =F2=E5=F7=E5=ED=E8=E5 =FD=F2=EE=E9 =F1=E5=EA=F3=ED=E4=
+=FB =EE=ED =E6=E4=E5=F2 =F1=EF=E5=F6=E8=E0=EB=FC=ED=EE=E3=EE =EF=E0=EA=E5=
+=F2=E0 =EE=F2 megad-cfg. =C5=F1=EB=E8 =F2=E0=EA=EE=E9 =EF=E0=EA=E5=F2 =EF=
+=EE=EB=F3=F7=E5=ED, =E0=E2=F2=EE=EC=E0=F2=E8=F7=E5=F1=EA=E8 =ED=E0=F7=ED=E5=
+=F2=F1=FF =EF=F0=EE=F6=E5=F1=F1 =EF=F0=EE=F8=E8=E2=EA=E8 =E7=E0=ED=EE=E2=EE=
+. =D2=EE =E5=F1=F2=FC =E0=EB=E3=EE=F0=E8=F2=EC =F1=EB=E5=E4=F3=FE=F9=E8=E9:=
+</p>
+
+<p>1. =C7=E0=EF=F3=F1=EA=E0=E5=EC megad-cfg =F1 =EA=EB=FE=F7=E5=EC "-=E5"</=
+p>
+
+<pre>megad-cfg.php --fw megad-328.hex -f -e
+=E8=EB=E8 (=E5=F1=EB=E8 =F5=EE=F2=E8=EC =E7=E0=E3=F0=F3=E7=E8=F2=FC =EF=F0=
+=EE=F8=E8=E2=EA=F3 =F1 =F1=E0=E9=F2=E0)
+megad-cfg.php -w -f -e</pre>
+
+<p>=D1=EA=F0=E8=EF=F2 =EE=F2=EE=E1=F0=E0=E7=E8=F2 =ED=E0 =FD=EA=F0=E0=ED=E5=
+ "Connecting..." =E8 =ED=E0=F7=ED=E5=F2 =EF=EE=F1=F2=EE=FF=ED=ED=EE =F1=EB=
+=E0=F2=FC =E2 =F1=E5=F2=FC =F1=EF=E5=F6=E8=E0=EB=FC=ED=FB=E5 =EF=E0=EA=E5=
+=F2=FB.</p>
+
+<p>2. =C2=FB=EA=EB=FE=F7=E0=E5=EC "=F1=EB=EE=EC=E0=ED=ED=EE=E5" =F3=F1=F2=
+=F0=EE=E9=F1=F2=E2=EE =E8 =E2=EA=EB=FE=F7=E0=E5=EC =E5=E3=EE =F1=ED=EE=E2=
+=E0.<br>
+=D1=EA=F0=E8=EF=F2 =E0=E2=F2=EE=EC=E0=F2=E8=F7=E5=F1=EA=E8 =F1=EE=E5=E4=E8=
+=ED=E8=F2=F1=FF =F1 =EF=F0=EE=E3=F0=E0=EC=EC=EE=E9 =E7=E0=E3=F0=F3=E7=F7=E8=
+=EA=E0 =E8 =EF=EE=EF=FB=F2=E0=E5=F2=F1=FF =EF=E5=F0=E5=EF=F0=EE=F8=E8=F2=FC=
+ =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =E7=E0=ED=EE=E2=EE.</p>
+
+<p>&nbsp;</p>
+
+<h2>=D0=E0=E1=EE=F2=E0 =F1 =ED=E0=F1=F2=F0=EE=E9=EA=E0=EC=E8</h2>
+
+<p>=CF=F0=E8 =E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=E8 =EA=EB=FE=F7=E0 --ee (=
+=F1=F2=E8=F0=E0=ED=E8=E5 EEPROM), =F7=E0=F1=F2=EE =ED=E5=EE=E1=F5=EE=E4=E8=
+=EC=EE=E3=EE =EF=F0=E8 =EE=E1=ED=EE=E2=EB=E5=ED=E8=E8 =EF=F0=EE=F8=E8=E2=EA=
+=E8, =E8=E7 =EF=E0=EC=FF=F2=E8 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0 =F3=E4=E0=EB=
+=FF=E5=F2=F1=FF =E2=F1=FF =F2=E5=EA=F3=F9=E0=FF =ED=F1=F2=F0=EE=E9=EA=E0 =
+=EF=EE=F0=F2=EE=E2. =DD=F2=EE =EE=F7=E5=ED=FC =ED=E5=F3=E4=EE=E1=ED=EE =EF=
+=EE=F1=EB=E5 =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E8 =E2=EE=F1=F1=F2=E0=ED=E0=
+=E2=EB=E8=E2=E0=F2=FC =ED=E0=F1=F2=F0=EE=E9=EA=E8 =F3=F1=F2=F0=EE=E9=F1=F2=
+=E2=E0 =E8 =EF=EE=F0=F2=EE=E2. =CF=EE=FD=F2=EE=EC=F3 =ED=E0=F7=E8=ED=E0=FF =
+=F1 =E2=E5=F0=F1=E8=E8 1.1 =F1=EA=F0=E8=EF=F2=E0 megad-cfg.php =E1=FB=EB=E0=
+ =EF=F0=E5=E4=F3=F1=EC=EE=F2=F0=E5=ED=E0 =F4=F3=ED=EA=F6=E8=FF =F1=F7=E8=F2=
+=FB=E2=E0=ED=E8=FF =E8 =E7=E0=EF=E8=F1=E8 =F2=E5=EA=F3=F9=E8=F5 =ED=E0=F1=
+=F2=F0=EE=E5=EA.</p>
+
+<p>&nbsp;</p>
+
+<pre>=D1=F7=E8=F2=FB=E2=E0=ED=E8=E5 =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=E8 =
+=F3=F1=F2=F0=EE=E9=F1=F2=E2=E0 =E8 =E7=E0=EF=E8=F1=FC =E2 =F4=E0=E9=EB mega=
+d.cfg
+php megad-cfg.php --ip 192.168.0.14 --read-conf megad.cfg -p sec
+=D1=F7=E8=F2=FB=E2=E0=ED=E8=E5 =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=E8 =E8=E7 =
+=F4=E0=E9=EB=E0 =E8 =E7=E0=EF=E8=F1=FC =E2 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE
+php megad-cfg.php --ip 192.168.0.14 --write-conf megad.cfg -p sec
+</pre>
+
+<p>=CD=EE =F1=EE=E2=F1=E5=EC =ED=E5 =EE=E1=FF=E7=E0=F2=E5=EB=FC=ED=EE =EF=
+=F0=E8 =EE=E1=ED=EE=E2=EB=E5=ED=E8=E8 =EF=F0=EE=F8=E8=E2=EA=E8 =E2=FB=EF=EE=
+=EB=ED=FF=F2=FC =FD=F2=E8 =EA=EE=EC=E0=ED=E4=FB =EF=EE=F1=EB=E5=E4=EE=E2=E0=
+=F2=E5=EB=FC=ED=EE. =CC=EE=E6=ED=EE =F3=EA=E0=E7=E0=F2=FC =EE=EF=F6=E8=E8 =
+=E2=EC=E5=F1=F2=E5, =F2=EE=E3=E4=E0 =F1=EA=F0=E8=EF=F2 =F1=ED=E0=F7=E0=EB=
+=E0 =F1=F7=E8=F2=E0=E5=F2 =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=FE, =EF=EE=F2=
+=EE=EC =EE=E1=ED=EE=E2=E8=F2 =EF=F0=EE=F8=E8=E2=EA=F3, =E0 =E7=E0=F2=E5=EC =
+=F1=ED=EE=E2=E0 =E7=E0=E3=F0=F3=E7=E8=F2 =EF=F0=E5=E6=ED=FE=FE =EA=EE=ED=F4=
+=E8=E3=F3=F0=E0=F6=E8=FE.</p>
+
+<pre>php megad-cfg.php --ip 192.168.0.14 -p sec -w --ee --read-conf megad.c=
+fg --write-conf megad.cfg</pre>
+
+<p>=C2 =F0=E5=E7=F3=EB=FC=F2=E0=F2=E5 =EC=FB =EF=EE=EB=F3=F7=E8=EC =ED=E0 =
+=FD=EA=F0=E0=ED=E5 =EF=F0=E8=EC=E5=F0=ED=EE =F1=EB=E5=E4=F3=FE=F9=E8=E9 =EB=
+=EE=E3 =F0=E0=E1=EE=F2=FB =EF=F0=EE=E3=F0=E0=EC=EC=FB.</p>
+
+<pre>Reading configuration... OK
+Downloading firmware... OK
+Connecting... OK
+Erasing firmware... OK
+Writing firmware... OK
+Erasing EEPROM... OK
+Restarting device... OK
+Writing configuration... OK</pre>
+
+<p>=C4=E0=ED=ED=E0=FF =F4=F3=ED=EA=F6=E8=FF =EC=EE=E6=E5=F2 =E1=FB=F2=FC =
+=EF=EE=EB=E5=E7=ED=E0 =E8 =E2 =E4=F0=F3=E3=E8=F5 =EE=E1=F1=F2=EE=FF=F2=E5=
+=EB=FC=F1=F2=E2=E0=F5. =CD=E0=EF=F0=E8=EC=E5=F0, =F1=E5=F0=E2=E5=F0 =EC=EE=
+=E6=E5=F2 =EF=EE =EA=E0=EA=E8=EC-=F2=EE =EF=F0=E8=F7=E8=ED=E0=EC =F1=E0=EC=
+=EE=F1=F2=EE=FF=F2=E5=EB=FC=ED=EE =EF=E5=F0=E5=EA=EB=FE=F7=E0=F2=FC =E7=E0=
+=F0=E0=ED=E5=E5 =EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=FB=E5 =EA=EE=ED=F4=E8=E3=F3=
+=F0=E0=F6=E8=E8 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0 =E2 =E7=E0=E2=E8=F1=E8=EC=EE=
+=F1=F2=E8 =EE=F2 =E2=ED=E5=F8=ED=E8=F5 =F3=F1=EB=EE=E2=E8=E9.</p>
+
+<p>&nbsp;</p>
+<p><em>=C0=E2=F2=EE=F0: <strong><a href=3D"https://web.archive.org/web/2017=
+0818175247/http://www.ab-log.ru/srv/sendmail">Andrey_B</a></strong><br>=CB=
+=FE=E1=EE=E5 =E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=E5 =EC=E0=F2=E5=F0=E8=E0=
+=EB=EE=E2 =F1=E0=E9=F2=E0 =E2=EE=E7=EC=EE=E6=ED=EE =F2=EE=EB=FC=EA=EE =F1 =
+=F0=E0=E7=F0=E5=F8=E5=ED=E8=FF =E0=E2=F2=EE=F0=E0 =E8 =F1 =EE=E1=FF=E7=E0=
+=F2=E5=EB=FC=ED=FB=EC =F3=EA=E0=E7=E0=ED=E8=E5=EC =E8=F1=F2=EE=F7=ED=E8=EA=
+=E0.</em></p><br><hr size=3D"1"><h2>=C4=EE=E1=E0=E2=E8=F2=FC =EA=EE=EC=EC=
+=E5=ED=F2=E0=F0=E8=E9:</h2><form action=3D"https://web.archive.org/web/2017=
+0818175247/http://www.ab-log.ru/page.php" method=3D"POST" id=3D"so"><input =
+type=3D"text" id=3D"name" name=3D"Name" style=3D"display:none"><label>=C8=
+=EC=FF</label><input type=3D"text" name=3D"msg_name" class=3D"in"><label>=
+=C5-mail (=ED=E5=EE=E1=FF=E7=E0=F2=E5=EB=FC=ED=EE, =ED=E5 =EE=F2=EE=E1=F0=
+=E0=E6=E0=E5=F2=F1=FF =ED=E0 =F1=E0=E9=F2=E5)</label><input type=3D"text" n=
+ame=3D"msg_email" class=3D"in"><label>=CA=EE=EC=EC=E5=ED=F2=E0=F0=E8=E9</la=
+bel><textarea name=3D"msg_text" class=3D"in"></textarea><p><label for=3D"wo=
+rd"><span>[!] </span>=CA=E0=EA=EE=E5 =F7=E8=F1=EB=EE =E8=E7=EE=E1=F0=E0=E6=
+=E5=ED=EE?</label> <input name=3D"word" class=3D"in" id=3D"word"><img src=
+=3D"https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/cadm=
+in/smail/smail.php"></p><p><input type=3D"submit" value=3D"=EE=F2=EF=F0=E0=
+=E2=E8=F2=FC =EA=EE=EC=EC=E5=ED=F2=E0=F0=E8=E9" class=3D"but"></p></form><b=
+r><hr size=3D"1"><a name=3D"comm"></a>=D1=EE=F0=F2=E8=F0=EE=E2=EA=E0 =EA=EE=
+=EC=EC=E5=ED=F2=E0=F0=E8=E5=E2: <b>=CF=EE=F1=EB=E5=E4=ED=E8=E5 =F1=E2=E5=F0=
+=F5=F3</b> | <a href=3D"https://web.archive.org/web/20170818175247/http://w=
+ww.ab-log.ru/page.php?ID=3D168&amp;cs=3D1#comm">=CF=E5=F0=E2=FB=E5 =F1=E2=
+=E5=F0=F5=F3</a><br><br><p>2017-08-03 12:50:47 | <strong>Andrey_B</strong><=
+br><span class=3D"comtxt autor">=D0=E5=F8=E5=ED=E8=E5 =E7=E0=E2=E8=F1=E8=F2=
+ =EE=F2 =ED=FE=E0=ED=F1=EE=E2 =EF=EE=F1=F2=F0=EE=E5=ED=E8=FF =F1=E5=F2=E8. =
+=CD=E5 =E7=ED=E0=FF, =EA=E0=EA =E2=F1=E5 =ED=E0=F1=F2=F0=EE=E5=ED=EE =E8 =
+=F0=E0=E1=EE=F2=E0=E5=F2 =F1=EB=EE=E6=ED=EE =E4=E0=F2=FC =EA=E0=EA=EE=E9-=
+=F2=EE =EA=EE=ED=EA=F0=E5=F2=ED=FB=E9 =F1=EE=E2=E5=F2.</span></p><br><p>201=
+7-08-03 08:39:46 | =C0=EB=E5=EA=F1=E5=E9<br><span class=3D"comtxt">=CF=EE=
+=ED=FF=F2=ED=EE. =C0 =EA=E0=EA=EE=E9 =EC=EE=E6=E5=F2 =E1=FB=F2=FC =E2=FB=F5=
+=EE=E4 =E2 =EC=EE=E5=EC =F1=EB=F3=F7=E0=E5 =EA=F0=EE=EC=E5 =F3=F1=F2=E0=ED=
+=EE=E2=EA=E8 =F1=E5=F0=E2=E5=F0=E0 =E2 =F1=E5=F2=FC =F1 MegaD?</span></p><b=
+r><p>2017-07-23 11:36:12 | <strong>Andrey_B</strong><br><span class=3D"comt=
+xt autor">=C0=EB=E5=EA=F1=E5=E9, =F8=E8=F0=EE=EA=EE=E2=E5=F9=E0=F2=E5=EB=FC=
+=ED=FB=E9 =F2=F0=E0=F4=E8=EA, =EA=EE=F2=EE=F0=FB=E9 =E8=F1=EF=EE=EB=FC=E7=
+=F3=E5=F2=F1=FF =E4=EB=FF =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E8, =EF=EE =F3=
+=EC=EE=EB=F7=E0=ED=E8=FE =ED=E5 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E8=F0=F3=E5=F2=
+=F1=FF. =C4=EB=FF =F1=F7=E8=F2=FB=E2=E0=ED=E8=FF/=E7=E0=EF=E8=F1=E8 =EA=EE=
+=ED=F4=E8=E3=F3=F0=E0=F6=E8=E8 =E8=F1=EF=EE=EB=FC=E7=F3=E5=F2=F1=FF HTTP/TC=
+P, =EA=EE=F2=EE=F0=FB=E9 =EC=E0=F0=F8=F0=F3=F2=E8=E7=E8=F0=F3=E5=F2=F1=FF.<=
+/span></p><br><p>2017-07-21 12:13:57 | =C0=EB=E5=EA=F1=E5=E9<br><span class=
+=3D"comtxt">=C8=EC=E5=FE =F1=E5=F2=FC =E2 =EA=E2=E0=F0=F2=E8=F0=E5 192.168.=
+10.0/24, =F1=E5=F2=FC =E2 =E4=EE=EC=E5 192.168.11.0/24, =F2=E5=F5=ED=EE=EB=
+=EE=E3=E8=F7=E5=F1=EA=F3=FE =F1=E5=F2=FC 192.168.12.0/24 - =E2 =ED=E5=E9 =
+=F1=F2=EE=FF=F2 =F1=E5=F0=E2=E5=F0=E0. =CC=E0=F0=F8=F0=F3=F2=E8=E7=E0=F6=E8=
+=FF =F1=EE =E2=F1=E5=F5 =F1=E5=F2=E5=E9 =E2=EE =E2=F1=E5 =E5=F1=F2=FC: =EF=
+=E8=ED=E3=E8 =E8 =F2=F0=E0=F4=F4=E8=EA =E8=E7 12.0/24 =E2 11.0/24 =EF=F0=EE=
+=F5=EE=E4=FF=F2. =C2=EE=E7=EC=EE=E6=ED=EE =EB=E8 =F1 =EF=EE=EC=EE=F9=FC=FE =
+php =E8=E7 =F1=E5=F2=E8 12.0/24 =EF=F0=EE=F8=E8=F2=FC megad, =ED=E0=F5=EE=
+=E4=FF=F9=E8=E5=F1=FF =E2 =F1=E5=F2=E8 11.0/24? =CD=E0 =F2=E5=EA=F3=F9=E8=
+=E9 =EC=EE=EC=E5=ED=F2 =EF=F0=EE=E8=F1=F5=EE=E4=E8=F2 =E1=E5=F1=EA=EE=ED=E5=
+=F7=ED=FB=E9 "Connecting..." =EF=F0=E8 =E7=E0=EF=F3=F1=EA=E5 =EF=F0=EE=F8=
+=E8=E2=EA=E8 megad =E8=E7 =F1=E5=F2=E8 11.0/24. =CF=F0=E8 =FD=F2=EE=EC =EA=
+=EE=ED=F4=E8=E3=E8 =F1=EE=F5=F0=E0=ED=FF=FE=F2=F1=FF.</span></p><br><p>2017=
+-05-15 11:19:22 | <strong>Andrey_B</strong><br><span class=3D"comtxt autor"=
+>Bonefolder, =EF=EE=E4=EE=E9=E4=E5=F2 =E4=EB=FF =F7=E5=E3=EE, =E4=EB=FF =EF=
+=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E8?<br>=D3 =EC=E5=ED=FF =E5=F1=F2=FC Mac. PH=
+P =E2 =ED=E5=EC =F3=E6=E5 =F3=F1=F2=E0=ED=EE=E2=EB=E5=ED. =CF=F0=EE=E1=EE=
+=E2=E0=EB =E7=E0=EF=F3=F1=EA=E0=F2=FC =F1=EA=F0=E8=EF=F2 =ED=E0 =ED=E5=EC. =
+=C2=F1=E5 =F0=E0=E1=EE=F2=E0=E5=F2. =CD=E8=F7=E5=E3=EE =E4=EE=EF=EE=EB=ED=
+=E8=F2=E5=EB=FC=ED=EE =ED=E5 =F1=F2=E0=E2=E8=EB.<br>=C2=EE=F2 =F1=F1=FB=EB=
+=EA=E0 =ED=E0 <a href=3D"https://web.archive.org/web/20170818175247/http://=
+ab-log.ru/forum/viewtopic.php?f=3D1&amp;t=3D1195&amp;p=3D24421#p24421">=F4=
+=EE=F0=F3=EC=E5</a>.</span></p><br><p>2017-05-14 23:07:16 | Bonefolder<br><=
+span class=3D"comtxt">=E4=EB=FF =CC=E0=F1 =FD=F2=EE=F2 =E2=E0=F0=E8=E0=ED=
+=F2 =EF=F0=EE=F9=E5, =E4=EB=FF =EF=F0=EE=F1=F2=FB=F5 =F1=EC=E5=F0=F2=ED=FB=
+=F5 /php.net/manual/ru/install.macosx.bundled.php</span></p><br><p>2017-05-=
+14 20:57:58 | Bonefolder<br><span class=3D"comtxt">=C0=ED=E4=F0=E5=E9, =EF=
+=EE=E4=F1=EA=E0=E6=E8=F2=E5 =EF=EE=E6=E0=EB=F3=E9=F1=F2=E0, =FD=F2=EE=F2 =
+=E2=E0=F0=E8=E0=ED=F2 =EF=EE=E4=EE=E9=E4=E5=F2?<br>https:/habrahabr.ru/post=
+/217245/</span></p><br><p>2017-04-29 13:40:03 | <strong>Andrey_B</strong><b=
+r><span class=3D"comtxt autor">Lomaster, =EF=EE=EF=F0=EE=E1=F3=E9=F2=E5 =F3=
+=EA=E0=E7=E0=F2=FC =EB=EE=EA=E0=EB=FC=ED=FB=E9 ip-=E0=E4=F0=E5=F1 =F7=E5=F0=
+=E5=E7 =EE=EF=F6=E8=FE --local-ip<br></span></p><br><p>2017-04-29 11:30:32 =
+| Lomaster<br><span class=3D"comtxt">=CF=FB=F2=E0=FE=F1=FC =EE=F1=E2=EE=E8=
+=F2=FC =EF=F0=EE=F8=E8=E2=EA=F3 =EF=EE =F1=E5=F2=E8 =EF=EE =FD=F2=EE=E9 =E8=
+=ED=F1=F2=F0=F3=EA=F6=E8=E8 (=E2 Windows 7).<br><br>1. =D1=EA=E0=F7=E8=E2=
+=E0=FE PHP c =EE=F4=F4.=F1=E0=E9=F2=E0 - =ED=E5=F2 =F2=E0=EC php.ini. =C5=
+=F1=F2=FC .ini-development =E8 .ini-production.<br>2. php.exe megad-cfg-256=
+1.php --scan =E2=FB=E4=E0=E5=F2 =F4=E0=F2=E0=EB =E5=F0=F0=EE=F0<br>    php-=
+win.exe megad-cfg-2561.php --scan =E2=FB=E4=E0=E5=F2 =EF=F3=F1=F2=EE=F2=F3<=
+br>=CF=EE=E4=F1=E5=F2=FC 192.168.1.=D5, =E0=E4=F0=E5=F1 =F3=F1=F2=F0=EE=E9=
+=F1=F2=E2=E0 =E8=E7=EC=E5=ED=E5=ED =ED=E0 192.168.1.14<br>=C1=F0=E0=ED=E4=
+=EC=E0=F3=E5=F0=FB =EE=F2=EA=EB=FE=F7=E5=ED=FB, =E2=F1=B8 =E2=EE=F2=EA=ED=
+=F3=F2=EE =E2 =F2=F3=EF=EE=E9 Switch (=ED=E5 =F0=EE=F3=F2=E5=F0).<br><br>=
+=D7=F2=EE =FF =E4=E5=EB=E0=FE =ED=E5 =F2=E0=EA?</span></p><br><p>2017-04-07=
+ 13:48:17 | sau<br><span class=3D"comtxt">=D3 =EC=E5=ED=FF =E8=E7 =EF=EE=E4=
+ Windows =F1=F0=E0=E1=EE=F2=E0=EB=E8 =F2=EE=EB=FC=EA=EE =F2=E0=EA=E8=E5 =F1=
+=F5=E5=EC=FB =E4=E5=E9=F1=F2=E2=E8=E9:<br><br>1. =CE=E1=ED=EE=E2=EB=E5=ED=
+=E8=E5 =EF=F0=EE=F8=E8=E2=EA=E8 =E2 =CC=E5=E3=E5 4.0 =EF=F0=EE=E3=F0=E0=EC=
+=EC=E0=F2=EE=F0=EE=EC USBASP .<br>avrdude -c usbasp -P usb -p m328p -U lfus=
+e:w:0x60:m -U hfuse:w:0xD8:m<br>avrdude -c usbasp -P usb -p m328p -e -U fla=
+sh:w:megad-boot.hex<br>php.exe megad-cfg.php --fw megad-328.hex -f -e --ee<=
+br><br>=CE=E1=ED=EE=E2=EB=E5=ED=E8=E5 =EF=EE =F1=E5=F2=E8:<br>php.exe megad=
+-cfg.php --ip 192.168.0.210 --read-conf megad210.cfg -p sec<br>php.exe mega=
+d-cfg.php --ip 192.168.0.210 --new-ip 192.168.0.14 -p sec<br>php.exe megad-=
+cfg.php --ip 192.168.0.14 --fw megad-328.hex -p sec --ee<br>php.exe megad-c=
+fg.php --ip 192.168.0.14 --new-ip 192.168.0.210 -p sec<br>php megad-cfg.php=
+ --ip 192.168.0.210 --write-conf megad210.cfg -p sec<br><br>=CF=F0=E8=F7=E5=
+=EC =E4=EB=FF =EE=E1=EE=E8=F5 =F2=E8=EF=EE=E2 =EE=E1=ED=EE=E2=EB=E5=ED=E8=
+=E9 =EA=EE=EC=EF=FC=FE=F2=E5=F0 =E4=EE=EB=E6=E5=ED =ED=E0=EF=F0=FF=EC=F3=FE=
+ =EF=EE=E4=EA=EB=FE=F7=E0=F2=FC=F1=FF =EA =CC=E5=E3=E5. =C2 =EF=F0=EE=F2=E8=
+=E2=ED=EE=EC =F1=EB=F3=F7=E0=E5 =EF=F0=EE=F6=E5=F1=F1 =E7=E0=EB=E8=E2=EA=E8=
+ =ED=EE=E2=EE=E9 =EF=F0=EE=F8=E8=E2=EA=E8 =E7=E0=F1=F2=F0=E5=E2=E0=E5=F2 =
+=ED=E0 =FD=F2=E0=EF=E5 "Writing configuration...". =CF=EE =E2=F1=E5=E9 =E2=
+=E8=E4=E8=EC=EE=F1=F2=E8 =F0=EE=F3=F2=E5=F0 =E1=EB=EE=EA=E8=F0=F3=E5=F2 =F5=
+=EE=F1=F2.</span></p><br><div id=3D"ex"></div><p>2017-03-19 21:00:08 | <str=
+ong>Andrey_B</strong><br><span class=3D"comtxt autor">sau, =EF=EE=F1=EB=E5=
+=E4=ED=FE=FE =EF=F0=EE=F8=E8=E2=EA=E8 =E4=EB=FF MegaD-328 =ED=E0 =EA=EE=ED=
+=F2=F0=EE=EB=EB=E5=F0 Ver 4.0 =EF=F0=EE=F8=E8=F2=FC, =EA=EE=ED=E5=F7=ED=EE =
+=E6=E5, =EC=EE=E6=ED=EE.</span></p><br><p>2017-03-19 19:53:17 | sau<br><spa=
+n class=3D"comtxt">=CD=E5 =EF=EE=E4=F1=EA=E0=E6=E5=F2=E5, =EC=EE=E6=ED=EE =
+=EB=E8 =F1 =EF=EE=EC=EE=F9=FC=FE =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=E0 =
+=EF=F0=EE=F8=E8=F2=FC =F1=E0=EC=F3=FE =EF=EE=F1=EB=E5=E4=ED=FE=FE =E2=E5=F0=
+=F1=E8=FE =ED=E0 =EA=EE=ED=F2=F0=EE=EB=EB=E5=F0 Mega328 v4.0?</span></p><br=
+><p>2017-02-13 15:45:24 | =D1=E5=F0=E3=E5=E9<br><span class=3D"comtxt">=C4=
+=E0, =F2=E0=EA =E8 =ED=E0=F1=F2=F0=EE=E8=EB, =E7=E0=EF=F3=F1=EA=E0=FF  =EA=
+=EE=EC=E0=ED=E4=F3 megad-cfg.php --scan =FF =F2=E0=EA =EF=EE=ED=E8=EC=E0=FE=
+ =E4=EE=EB=E6=ED=EE =E5=E3=EE =ED=E0=E9=F2=E8, =ED=EE =E2 =EE=F2=E2=E5=F2 =
+=ED=E5=F7=E5=E3=EE, =EF=F0=EE=F1=F2=EE =ED=EE=E2=E0=FF =F1=F2=F0=EE=EA=E0</=
+span></p><br><p>2017-02-13 14:58:18 | <strong>Andrey_B</strong><br><span cl=
+ass=3D"comtxt autor">=D1=E5=F0=E3=E5=E9, =ED=E0=E4=E5=FE=F1=FC =F3 =E2=E0=
+=F1 =EF=F0=EE=EF=E8=F1=E0=ED=E0 =ED=E0 =EA=EE=EC=EF=FC=FE=F2=E5=F0=E5 =F1=
+=E5=F2=FC 192.168.0.0/24 ?<br>=D2=EE =E5=F1=F2=FC =ED=E0 =CF=CA =E4=EE=EB=
+=E6=E5=ED =E1=FB=F2=FC =EF=F0=EE=EF=E8=F1=E0=ED =E0=E4=F0=E5=F1, =ED=E0=EF=
+=F0=E8=EC=E5=F0, 192.168.0.15<br></span></p><br><p>2017-02-13 14:03:52 | =
+=D1=E5=F0=E3=E5=E9<br><span class=3D"comtxt"> php.exe D:OpenServermodulesph=
+pPHP-7.1-x64megad-cfg.php --fw megad-328.hex -f -e --ee<br>Connecting... OK=
+<br>Checking firmware... OK<br>Erasing firmware... OK<br>Writing firmware..=
+. OK<br>Erasing EEPROM... OK<br>Restarting device... OK<br>   =CF=EE=EB=F3=
+=F7=E8=EB=EE=F1=FC =F0=E5=E7=F3=EB=FC=F2=E0=F2 =E2=FB=F8=E5, =ED=EE =ED=E5 =
+=EF=E8=ED=E3=F3=E5=F2 192.168.0.14</span></p><br><p>2017-02-13 13:04:23 | <=
+strong>Andrey_B</strong><br><span class=3D"comtxt autor">=D1=E5=F0=E3=E5=E9=
+, =EF=EE=EF=F0=EE=E1=F3=E9=F2=E5 =EF=EE=E4=EA=EB=FE=F7=E8=F2=FC =F3=F1=F2=
+=F0=EE=E9=F1=F2=E2=EE =ED=E5=EF=EE=F1=F0=E5=E4=F1=F2=E2=E5=ED=ED=EE =EA =EA=
+=EE=EC=EF=FC=FE=F2=E5=F0=F3.<br>=CE=E1=FB=F7=ED=EE =F1=E1=EE=E8 =E2 =EF=F0=
+=EE=F8=E8=E2=EA=E8 =E1=FB=E2=E0=FE=F2, =EA=EE=E3=E4=E0 =E2 =EA=E0=F7=E5=F1=
+=F2=E2=E5 =EA=EE=EC=EC=F3=F2=E0=F2=EE=F0=E0 =EC=E5=E6=E4=F3 =EA=EE=EC=EF=FC=
+=FE=F2=E5=F0=EE=EC =E8 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE=EC =E8=F1=EF=EE=EB=FC=
+=E7=F3=FE=F2=F1=FF =F0=EE=F3=F2=E5=F0=FB. =CE=ED=E8 =EA=E0=EA-=F2=EE =ED=E5=
+ =EE=F7=E5=ED=FC "=E4=F0=F3=E6=E0=F2" =F1 =E8=ED=F2=E5=ED=F1=E8=E2=ED=FB=EC=
+ =F8=E8=F0=EE=EA=EE=E2=E5=F9=E0=F2=E5=EB=FC=ED=FB=EC =F2=F0=E0=F4=E8=EA=EE=
+=EC.</span></p><br><p>2017-02-13 11:44:11 | =D1=E5=F0=E3=E5=E9<br><span cla=
+ss=3D"comtxt">=C4=E5=ED=FC =E4=EE=E1=F0=FB=E9, =EF=EE=E4=F1=EA=E0=E6=E8=F2=
+=E5 =EF=EE=E6=E0=EB=F3=E9=F1=F2=E0 =E2 =F7=E5=EC =EC=EE=E6=E5=F2 =E1=FB=F2=
+=FC =EF=F0=EE=E1=EB=E5=EC=E0 =EC=E5=E3=E0 =E4 328 =F1=E0=EC=EE=EA=EB=E5=EF,=
+ =EF=E8=F2=E0=FE=F1=FC =E7=E0=EB=E8=F2=FC =EF=F0=EE=F8=E8=E2=EA=F3 =EA=EE=
+=EC=E0=ED=E4=EE=E9 megad-cfg.php --fw megad-328.hex -f, =E0 =E2 =EE=F2=E2=
+=E5=F2 Connecting... FAULT, =F2=EE=E3=E4=E0 =EF=EE=EF=FB=F2=E0=EB=F1=FF =EE=
+=F2=EF=F0=E0=E2=E8=F2=FC =FD=F2=F3 =EA=EE=EC=E0=ED=E4=F3  megad-cfg.php --f=
+w megad-328.hex -f -e --ee, =E2 =EE=F2=E2=E5=F2 =FF =EF=EE=EB=F3=F7=E8=EB <=
+br>Connecting... OK<br>Checking firmware... OK<br>Erasing firmware... OK<br=
+>Writing firmware... FAULT<br>Erasing EEPROM... OK<br>Restarting device... =
+OK<br>     =CE=F2=EA=E0=E7  =ED=E0 =EF=F0=EE=F8=E8=E2=EA=F3, =E4=E0 =E5=F9=
+=E5 =EA=F3=E4=E0 =ED=F3=E6=ED=EE =EF=EE=EC=E5=F1=F2=E8=F2=FC =CD=C5=D5 =F4=
+=E0=E9=EB?  =EC=EE=E6=E5=F2 =FF =ED=E5 =F2=F3=E4=E0 =E5=E3=EE =EF=F0=E8=F2=
+=EA=ED=F3=EB </span></p><br><p>2017-02-12 22:28:09 | =D0=EE=EC=E0=ED<br><sp=
+an class=3D"comtxt">=DF =E4=F3=EC=E0=EB =EA=EE=EC=E0=ED=E4=ED=E0=FF =F1=F2=
+=F0=EE=EA=E0 =EF=F3=F1=EA=E0=E5=F2=F1=FF =F1 =EF=F3=F1=EA=E0</span></p><br>=
+<p>2017-02-12 20:59:06 | <strong>Andrey_B</strong><br><span class=3D"comtxt=
+ autor">=D0=EE=EC=E0=ED, =F1=EE=EE=E1=F9=E5=ED=E8=E5 "Could not open input =
+file" =E3=E5=ED=E5=F0=E8=F0=F3=E5=F2 php.exe, =EA=EE=E3=E4=E0 =ED=E5 =EC=EE=
+=E6=E5=F2 =ED=E0=E9=F2=E8 =F4=E0=E9=EB =F1=EA=F0=E8=EF=F2=E0.<br>=C2=FB =E7=
+=E0=EF=F3=F1=EA=E0=E5=F2=E5 php.exe =E8=E7 =F2=EE=E9 =EF=E0=EF=EA=E5, =E2 =
+=EA=EE=F2=EE=F0=EE=E9 =EB=E5=E6=E8=F2 =F1=EA=F0=E8=EF=F2?</span></p><br><p>=
+2017-02-12 15:30:48 | =D0=EE=EC=E0=ED<br><span class=3D"comtxt">=C2=EE=F2<b=
+r>php.exe megad-cfg.php --fw megad-328.hex -f</span></p><br><div id=3D"ex">=
+</div><p>2017-02-11 22:11:10 | <strong>Andrey_B</strong><br><span class=3D"=
+comtxt autor">=D0=EE=EC=E0=ED, =E2=FB =E1=FB =F3=EA=E0=E7=E0=EB=E8, =F7=F2=
+=EE =E8=EC=E5=ED=ED=EE =E2=FB =E2=E2=EE=E4=E8=F2=E5 =E2 =EA=EE=EC=E0=ED=E4=
+=EE=E9 =F1=F2=F0=EE=EA=E5...</span></p><br><p>2017-02-11 21:07:30 | =D0=EE=
+=EC=E0=ED<br><span class=3D"comtxt">=C4=EE=E1=F0=FB=E9 =E2=E5=F7=E5=F0, =EF=
+=EE=EC=EE=E3=E8=F2=E5 =EF=EE=E6=E0=EB=F3=E9=F1=F2=E0, =F1=EE=E1=F0=E0=EB me=
+gad 328 =E7=E0=EB=E8=EB =ED=EE=E2=FB=E9 =E1=EE=F2=EB=EE=E0=E4=E5=F0 =F3=F1=
+=F2=E0=ED=EE=E2=E8=EB php =F7=F2=EE=E1=FB =EF=F0=EE=F8=E8=F2=FC =EF=EE =F1=
+=E5=F2=E8, =ED=E0 =EA=EE=EC=E0=ED=E4=FB =E2 =EA=EE=EC=E0=ED=E4=ED=EE=E9 =F1=
+=F2=F0=EE=EA=E5 =E2=FB=E4=E0=E5=F2 =EC=ED=E5 =F2=E0=EA=EE=E5  could not ope=
+n input file(=ED=E5 =EC=EE=E6=E5=F2 =EE=F2=EA=F0=FB=F2=FC =E2=F5=EE=E4=ED=
+=EE=E9 =F4=E0=E9=EB) =EF=EE=EB =E4=ED=FF =EF=EE=F2=F0=E0=F2=E8=EB =F2=E0=EA=
+ =E8 =ED=E5 =F0=E0=E7=EE=E1=F0=E0=EB=F1=FF  </span></p><br><p>2016-11-14 15=
+:42:47 | <strong>Andrey_B</strong><br><span class=3D"comtxt autor">Denis, =
+=EF=EE=E2=F0=E5=E6=E4=E5=ED=E8=E5 =E7=E0=E3=F0=F3=E7=F7=E8=EA=E0 =EF=F0=E8 =
+=EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E5 =EC=E0=EB=EE=E2=E5=F0=EE=FF=F2=ED=EE =
+=E8=EB=E8 =E4=E0=E6=E5 =EF=F0=E0=EA=F2=E8=F7=E5=F1=EA=E8 =ED=E5=E2=EE=E7=EC=
+=EE=E6=ED=EE. =C0 =E7=ED=E0=F7=E8=F2 =E2=F1=E5=E3=E4=E0 =EE=F1=F2=E0=E5=F2=
+=F1=FF =E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=FC =EF=F0=EE=F8=E8=F2=FC =E2 =F0=E5=
+=E6=E8=EC=E5 =E2=EE=F1=F1=F2=E0=ED=EE=E2=EB=E5=ED=E8=FF. =CF=EE=EF=F0=EE=E1=
+=F3=E9=F2=E5 =EF=EE=E4=EA=EB=FE=F7=E8=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =
+=ED=E0=EF=F0=FF=EC=F3=FE =EA =EA=EE=EC=EF=FC=FE=F2=E5=F0=F3.<br>=D2=E0=EA=
+=E6=E5 =EC=EE=E6=ED=EE =E2=EE=F1=EF=EE=EB=FC=E7=EE=E2=E0=F2=FC=F1=FF ISP-=
+=EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=EE=EC =E8=EB=E8 =E2=FB=F1=EB=E0=F2=FC =
+=F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =ED=E0=EC =ED=E0 =EF=E5=F0=E5=EF=F0=EE=F8=E8=
+=E2=EA=F3.<br></span></p><br><p>2016-11-14 14:34:50 | Denis<br><span class=
+=3D"comtxt">Andrey_B<br>=CA=EE=ED=E5=F7=ED=EE =E6=E5, =FF =EF=FB=F2=E0=EB=
+=F1=FF. =D0=E5=E7=F3=EB=FC=F2=E0=F2 =F2=EE=F2 =E6=E5<br></span></p><br><p>2=
+016-11-14 12:05:11 | <strong>Andrey_B</strong><br><span class=3D"comtxt aut=
+or">Denis, =ED=F3=E6=ED=EE =EF=E5=F0=E5=EF=F0=EE=F8=E8=F2=FC =F3=F1=F2=F0=
+=EE=E9=F1=F2=E2=EE =E2 =F0=E5=E6=E8=EC=E5 =E2=EE=F1=F1=F2=E0=ED=EE=E2=EB=E5=
+=ED=E8=FF. =C2 =F1=F2=E0=F2=FC=E5 =E5=F1=F2=FC =E8=ED=F4=EE=F0=EC=E0=F6=E8=
+=FF =EE =F2=EE=EC, =EA=E0=EA =FD=F2=EE =F1=E4=E5=EB=E0=F2=FC.</span></p><br=
+><p>2016-11-14 07:46:24 | Denis<br><span class=3D"comtxt">=EF=F0=E8 =F3=F1=
+=F2=E0=ED=EE=E2=EA=E8 =EF=F0=EE=F8=E8=E2=EA=E8 =E2 328 =E2=E5=F0 5.2, =F7=
+=F2=EE =F2=EE =EF=EE=F8=EB=EE =ED=E5 =F2=E0=EA, =EF=E5=F0=E5=EF=F0=EE=F8=E8=
+=EB=F1=FF =F1 =EF=E5=F0=E5=E7=E0=EF=E8=F1=FC=FE EEPROM,  =E8 =F2=E5=EF=E5=
+=F0=FC =EC=E5=E3=E0 =EE=ED=E0 =ED=E5 =EA=EE=ED=ED=E5=EA=F2=E8=F2=F1=FF. =E0=
+=E9=EF=E8 =E2 =F1=E5=F2=FC =ED=E5 =EF=EE=EA=E0=E7=FB=E2=E0=E5=F2<br>=ED=E8 =
+=ED=E0 =E2=E8=ED=E4=E57 =ED=E0=EF=F0=FF=EC=F3=FE =EF=E0=F2=F7=EA=EE=F0=E4=
+=EE=EC, =ED=E8 =ED=E0 =EC=E0=EA=E5 =E4=EE=F1=F2=F3=F7=E0=F2=FC=F1=FF =E4=EE=
+ =ED=E5=E5 =ED=E5 =EC=EE=E3=F3 - =E0=E9=EF=E8 =ED=E5 =ED=E0=E9=E4=E5=ED, =
+=EA=EE=ED=ED=E5=EA=F2=E0 =ED=E5=F2. =EB=E8=ED=EA =ED=E0 =EC=E5=E3=E5 =E2=E5=
+=F1=E5=EB=EE =EC=E8=E3=E0=E5=F2.<br>=C5=F1=F2=FC =EA=E0=EA=E8=E5 =F2=EE =ED=
+=E5 =EE=F7=E5=E2=E8=E4=ED=FB=E5 =F1=EF=EE=F1=EE=E1=FB =EF=EE=EF=E0=F1=F2=FC=
+ =E2 =ED=E5=E5 =EF=EE =F1=E5=F2=E8 =E5=F9=E5, =E8=EB=E8 =F2=E5=EF=E5=F0=FC =
+=F2=EE=EB=FC=EA=EE =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=EE=EC?</span></p><b=
+r><p>2016-10-14 09:31:22 | <strong>Andrey_B</strong><br><span class=3D"comt=
+xt autor">Pavel, =E4=EB=FF =E7=E0=E3=F0=F3=E7=EA=E8 =ED=EE=E2=FB=F5 =EF=F0=
+=EE=F8=E8=E2=EE=EA =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =F3=F1=F2=E0=ED=EE=E2=E8=
+=F2=FC =ED=EE=E2=FB=E9 =E7=E0=E3=F0=F3=E7=F7=E8=EA (=E1=F3=F2=EB=EE=E0=E4=
+=E5=F0). =DF =EF=E8=F1=E0=EB =EE=E1 =FD=F2=EE=EC =ED=E0 =F4=EE=F0=F3=EC=E5.=
+ =DD=F2=EE =EE=F1=EE=E1=E5=ED=ED=EE=F1=F2=FC =EF=E5=F0=E2=EE=E3=EE =E2=FB=
+=EF=F3=F1=EA=E0. =C2=F1=E5 =EC=EE=E4=F3=EB=E8, =EE=F2=E3=F0=F3=E6=E5=ED=ED=
+=FB=E5 =EF=EE=F1=EB=E5 28 =F1=E5=ED=F2=FF=E1=F0=FF =ED=E5 =E8=EC=E5=FE=F2 =
+=FD=F2=EE=E9 =EF=F0=EE=E1=EB=E5=EC=FB.<br>=CF=F0=EE=F8=E8=F2=FC =E7=E0=E3=
+=F0=F3=E7=F7=E8=EA =EC=EE=E6=ED=EE =F1=E0=EC=EE=F1=F2=EE=FF=F2=E5=EB=FC=ED=
+=EE (=ED=EE =E2 =FD=F2=EE=EC =F1=EB=F3=F7=E0=E5 =ED=F3=E6=E5=ED =EF=F0=EE=
+=E3=F0=E0=EC=EC=E0=F2=EE=F0) =E8=EB=E8 =EE=F2=EF=F0=E0=E2=E8=F2=FC =EC=EE=
+=E4=F3=EB=FC =EC=ED=E5 =E4=EB=FF =EF=E5=F0=E5=EF=F0=EE=E3=F0=E0=EC=EC=E8=F0=
+=EE=E2=E0=ED=E8=FF.<br>=D7=F2=EE=E1=FB =EC=EE=E4=F3=EB=FC =E2 =E2=E0=F8=E5=
+=EC =F1=EB=F3=F7=E0=E5 =F1=ED=EE=E2=E0 =E7=E0=F0=E0=E1=EE=F2=E0=EB, =ED=E5=
+=EE=E1=F5=EE=E4=E8=EC=EE =F1=ED=EE=E2=E0 =E7=E0=E3=F0=F3=E7=E8=F2=FC =EF=F0=
+=EE=F8=E8=E2=EA=F3 =E2=E5=F0=F1=E8=E8 4.03.<br>=C4=E0, =EA=EB=FE=F7 =EE=F7=
+=E8=F1=F2=EA=E8 EEPROM --ee (=F2=EE =E5=F1=F2=FC =E4=E2=E5 =F7=E5=F0=F2=EE=
+=F7=EA=E8), =E0 =ED=E5 -e.<br></span></p><br><p>2016-10-14 01:23:33 | Pavel=
+<br><span class=3D"comtxt">=D0=E0=E7=EE=E1=F0=E0=EB=F1=FF...=EF=F0=EE=F1=F2=
+=E8=F2=E5 =EC=E5=ED=FF =ED=E5 =E3=F0=E0=EC=EE=F2=ED=EE=E3=EE.  =EF=EE=FF=E2=
+=E8=EB=E0=F1=FC =F1=EB=E5=E4=F3=FE=F8=E0=FF =EF=F0=EE=E1=EB=E5=EC=EA=E0<br>=
+=CF=F0=E8 =EE=E1=ED=EE=E2=EB=E5=ED=E8=E8 =F1  4.03b2 =ED=E0 =E1=EE=EB=E5=E5=
+ =F1=E2=E5=E6=F3=FE =EF=EE=FF=E2=EB=FF=E5=F2=F1=FF <br>WARNING! Please upgr=
+ade bootloader!</span></p><br><p>2016-10-14 00:43:45 | Pavel<br><span class=
+=3D"comtxt">=CF=F0=EE=F8=E8=EB MegaD-2561 =F1=EB=F3=F7=E0=E9=ED=EE =F1 =EA=
+=EB=FE=F7=EE=EC "=E1=E5=F2=E0-=EF=F0=EE=F8=E8=E2=EA=E8".<br>=E2 =E8=F2=EE=
+=E3=E5 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =EF=EE=EB=F3=F7=E8=EB=EE =ED=E5 =E8=
+=E7=E2=E5=F1=F2=ED=FB=E9 IP =E0=E4=F0=E5=F1, php megad-cfg.php --scan =E2=
+=FB=E4=E0=E5=F2 =EF=F3=F1=F2=F3=FE =F1=F2=F0=EE=EA=F3, megad-cfg.php -w -f =
+-e -ee  - =E2=F1=E5 =ED=EE=F0=EC =EF=F0=EE=F8=E8=E2=E0=E5=F2 =ED=EE =E8=EF =
+=EF=EE=F3=EC=EE=EB=F7=E0=ED=E8=FE =ED=E5 =EF=EE=EB=F3=F7=E0=E5=F2 =E8 =F1=
+=EA=E0=ED =F2=E0=EA =E6=E5 =ED=E5 =ED=E0=F5=EE=E4=E8=F2 =F3=F1=F2=F0=EE=E9=
+=F1=F2=E2=E0. =CF=EE=E4=F1=EA=E0=E6=E8=F2=E5 =F0=E5=F8=E5=ED=E8=E5.</span><=
+/p><br><p>2016-09-05 18:23:53 | <strong>Andrey_B</strong><br><span class=3D=
+"comtxt autor">=C4=EC=E8=F2=F0=E8=E9, =E4=EE=E1=E0=E2=E8=EB.</span></p><br>=
+<div id=3D"ex"></div><p>2016-09-05 15:29:01 | =C4=EC=E8=F2=F0=E8=E9<br><spa=
+n class=3D"comtxt">=CF=F0=EE=E2=E5=F0=E8=EB =F1=E2=EE=E9 php.ini - =E4=E0, =
+=EA=E0=EA =F2=EE=EB=FC=EA=EE =E4=EE=E1=E0=E2=E8=EB extension=3Dphp_sockets.=
+dll, =EE=F8=E8=E1=EA=E0 =EF=F0=EE=EF=E0=EB=E0<br>=CC=EE=E6=E5=F2 =F1=F2=EE=
+=E8=F2 =E4=EE=E1=E0=E2=E8=F2=FC =FD=F2=EE =E2 =E8=ED=F1=F2=F0=F3=EA=F6=E8=
+=FE =E2=FB=F8=E5? =DF =E4=F3=EC=E0=FE =FF =E1=F3=E4=F3 =ED=E5 =EE=E4=E8=ED =
+=F2=E0=EA=EE=E9 =E4=E0=EB=E5=EA=E8=E9 =EE=F2 =CF=D5=CF, =EA=EE=EC=F3 =EF=EE=
+=ED=E0=E4=EE=E1=E8=F2=FC=F1=FF =EF=EE=EC=EE=F9=FC.<br><br></span></p><br><p=
+>2016-09-02 16:46:39 | <strong>Andrey_B</strong><br><span class=3D"comtxt a=
+utor">=C4=EC=E8=F2=F0=E8=E9, =FF =E8=F1=EF=EE=EB=FC=E7=F3=FE =E4=E5=F1=FF=
+=F2=EA=E8 =E4=E0=F2=F7=E8=EA=EE=E2 DS18B20. =CD=E8 =F0=E0=E7=F3 =ED=E5 =ED=
+=E0=E1=EB=FE=E4=E0=EB =F1=E8=F2=F3=E0=F6=E8=FE, =F7=F2=EE=E1=FB =EF=EE=EA=
+=E0=E7=E0=ED=E8=FF =EF=EB=E0=E2=E0=EB=E8 =E2 =EF=F0=E5=E4=E5=EB=E0=F5 2-=F5=
+ =E3=F0=E0=E4=F3=F1=EE=E2.</span></p><br><p>2016-09-02 13:27:24 | =C4=EC=E8=
+=F2=F0=E8=E9<br><span class=3D"comtxt">=EF=EE =E2=EE=E7=EC=EE=E6=ED=EE=F1=
+=F2=E8 =EF=F0=EE=E2=E5=F0=FE, =F7=F2=EE =F3 =EC=E5=ED=FF php.ini (=EF=EE=EA=
+=E0 =EC=EE=E9 =EA=EE=EC=EF =ED=E5 =E4=EE=F1=F2=F3=EF=E5=ED) =F2=EE=E3=E4=E0=
+ =EE=F2=EF=E8=F8=F3=F1=FC<br><br>=D7=F2=EE =EA=E0=F1=E0=E5=F2=F1=FF =E4=E0=
+=F2=F7=E8=EA=EE=E2 =F2=E5=EC=EF=E5=F0=E0=F2=F3=F0=FB, =F2=EE =EE=ED=E8 =EA=
+=EE=ED=E5=F7=ED=EE =EC=EE=E6=E5=F2 =E1=FB=F2=FC =E8 =EA=EE=ED=F2=F0=E0=F4=
+=E0=EA=F2=ED=FB=E5, =F2=EE=EB=FC=EA=EE =EA=E0=EA =FD=F2=EE =EE=EF=F0=E5=E4=
+=E5=EB=E8=F2=FC?<br>=CD=F3 =E8 =F2=EE =F7=F2=EE =E5=F1=F2=FC =EF=F0=EE=E1=
+=EB=E5=EC=E0 =F1 =EF=E0=F0=E0=E7=E8=F2=ED=FB=EC =EF=E8=F2=E0=ED=E8=E5=EC =
+=EC=E5=ED=FF =ED=E5 =F2=E0=EA =F1=E8=EB=FC=ED=EE =ED=E0=EF=F0=FF=E3=E0=E5=
+=F2, =EC=EE=E6=ED=EE =E8 =EF=EE=E4=E0=F2=FC =EF=E8=F2=E0=ED=E8=E5 =ED=E0 =
+=E4=E0=F2=F7=E8=EA =F1 =E8=F1=EF=EE=EB=FC=ED=E8=F2=E5=EB=FC=ED=EE=E3=EE =E1=
+=EB=EE=EA=E0 (=E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=FC =F2=EE =F2=E0=EA=E0=FF =E5=
+=F1=F2=FC :).  =CD=EE =ED=E0=F1=EA=EE=EB=FC=EA=EE =FD=F2=EE =ED=EE=F0=EC=E0=
+=EB=FC=ED=EE =F7=F2=EE =EF=EE=EA=E0=E7=E0=ED=E8=FF =F1 =E4=E0=F2=F7=E8=EA=
+=E0 =EF=EB=E0=E2=E0=FE=F2 =E2 =EF=F0=E5=E4=E5=EB=E0=F5 2=F5 =E3=F0=E0=E4=F3=
+=F1=EE=E2? =DF =F1=F7=E8=F2=E0=EB, =F7=F2=EE =E5=F1=EB=E8 =FD=F2=EE=F2 =E4=
+=E0=F2=F7=E8=EA =ED=E0=E7=FB=E2=E0=E5=F2=F1=FF =EA=E0=EB=E8=E1=F0=EE=E2=E0=
+=ED=ED=FB=EC, =F2=EE =EF=EE=EA=E0=E7=E0=ED=E8=FF=EC =EC=EE=E6=ED=EE =E4=EE=
+=E2=E5=F0=FF=F2=FC =F7=F3=F2=FC =EB=E8 =ED=E5 =EA=E0=EA =FD=F2=E0=EB=EE=ED=
+=F3. =DF =EE=F8=E8=E1=E0=EB=F1=FF?</span></p><br><p>2016-08-29 11:46:35 | <=
+strong>Andrey_B</strong><br><span class=3D"comtxt autor">=CF=F0=EE=E2=E5=F0=
+=E8=EB =F0=E0=E1=EE=F2=F3 =F1=EA=F0=E8=EF=F2=E0 =E2 Windows 10.<br>=CD=E8=
+=EA=E0=EA=E8=F5 =EF=F0=EE=E1=EB=E5=EC! =CD=E8=EA=E0=EA=E8=F5 =EE=F8=E8=E1=
+=EE=EA! =C2=F1=E5 =EF=F0=EE=F8=E8=E2=E0=E5=F2=F1=FF =E2 =F8=F2=E0=F2=ED=EE=
+=EC =F0=E5=E6=E8=EC=E5.<br>=C2 =F4=E0=E9=EB=E5 php.ini =F0=E0=F1=EA=EE=EC=
+=E5=ED=F2=E8=F0=EE=E2=E0=ED=E0 =F1=F2=F0=EE=EA=E0:<br>extension=3Dphp_socke=
+ts.dll<br>=C1=EE=EB=FC=F8=E5 =ED=E8=EA=E0=EA=E8=F5 =ED=FE=E0=ED=F1=EE=E2 =
+=ED=E5=F2.<br></span></p><br><p>2016-08-29 10:48:15 | <strong>Andrey_B</str=
+ong><br><span class=3D"comtxt autor">=C4=EC=E8=F2=F0=E8=E9, =E2=FB =EF=F0=
+=E0=E2=E8=EB=FC=ED=EE =EF=EE=E4=EA=EB=FE=F7=E8=EB=E8 =E4=E0=F2=F7=E8=EA? =
+=CF=EE=E4=EA=EB=FE=F7=E5=ED=E8=E5 =E4=E0=F2=F7=E8=EA=E0 =EF=EE =F1=F5=E5=EC=
+=E5 =EF=E0=F0=E0=E7=E8=F2=ED=EE=E3=EE =EF=E8=F2=E0=ED=E8=FF =EF=EE=E4=F0=E0=
+=E7=F3=EC=E5=E2=E0=E5=F2 =F1=EE=E5=E4=E8=ED=E5=ED=E8=E5 =ED=EE=E3=E8 Vcc =
+=E8 GND. =CA=E0=F7=E5=F1=F2=E2=E5=ED=ED=FB=E9 =EB=E8 =E2=FB =E8=F1=EF=EE=EB=
+=FC=E7=F3=E5=F2=E5 =E4=E0=F2=F7=E8=EA? =C2 =EF=EE=F1=EB=E5=E4=ED=E5=E5 =E2=
+=F0=E5=EC=FF =F3=F7=E0=F1=F2=E8=EB=E8=F1=FC =F1=EB=F3=F7=E0=E8 =EA=EE=ED=F2=
+=F0=E0=F4=E0=EA=F2=ED=FB=F5 =E8=E7=E4=E5=EB=E8=E9 =EE=F2 =EA=E8=F2=E0=E9=F1=
+=EA=E8=F5 =EF=F0=EE=E8=E7=E2=EE=E4=E8=F2=E5=EB=E5=E9. =CF=EE=EB=EE=E6=E5=ED=
+=E8=E5 =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=EE=ED=ED=EE=E3=EE =E4=E6=E0=EC=EF=
+=E5=F0=E0 =ED=E0 =EC=EE=E4=F3=EB=E5 MegaD-14-IN =E4=EB=FF =E8=F1=EF=EE=EB=
+=FC=E7=F3=E5=EC=EE=E3=EE =EF=EE=F0=F2=E0 =ED=E8=E6=ED=E5=E5?<br>=D0=E0=E1=
+=EE=F2=F3 =F1=EA=F0=E8=EF=F2=E0 megad-cfg =F1 =CE=D1 Windows 10 =EF=F0=EE=
+=E2=E5=F0=FE.</span></p><br><p>2016-08-28 13:27:32 | =C4=EC=E8=F2=F0=E8=E9<=
+br><span class=3D"comtxt">(=ED=E5 =F3=E2=E5=F0=E5=ED, =F7=F2=EE =EE=E1 =FD=
+=F2=EE=EC =ED=E0=E4=EE =EF=E8=F1=E0=F2=FC =F1=FE=E4=E0, =ED=EE...)<br><br>=
+=F1=F2=EE=EB=EA=ED=F3=EB=F1=FF =F1 =E4=E2=F3=EC=FF =EE=F8=E8=E1=EA=E0=EC=E8=
+/=EF=F0=EE=E1=EB=E5=EC=E0=EC=E8:<br><br>1) =EF=EE=E4=EA=EB=FE=F7=E8=EB =E4=
+=E0=F2=F7=E8=EA DS18B20 =EF=EE =F1=F5=E5=EC=E5 =F1 =EF=E0=F0=E0=E7=E8=F2=ED=
+=FB=EC =EF=E8=F2=E0=ED=E8=E5=EC, =E2 =E8=F2=EE=E3=EA =E2=E8=E6=F3 =F2=E5=EC=
+=EF=E5=F0=E0=F2=F3=F0=F3 - 0.00. =CF=F0=EE=F8=E8=E2=EA=E0 3.43<br>=C5=F1=EB=
+=E8 =E4=E0=F2=FC =ED=EE=F0=EC=E0=EB=FC=ED=EE=E5 =EF=E8=F2=E0=ED=E8=E5 =ED=
+=E0 =E4=E0=F2=F7=E8=EA, =F2=EE =F3=E6=E5 =E2=E8=E6=F3 =F7=F2=EE-=F2=EE =EF=
+=EE=F5=EE=E6=E5=E5 =ED=E0 =F0=E5=E0=EB=FC=ED=F3=FE =F2=E5=EC=EF=E5=F0=E0=F2=
+=F3=F0=F3, =EF=F0=E0=E2=E4=E0 =EF=EE=EA=E0=E7=E0=ED=E8=FF =F1=EA=E0=F7=F3=
+=F2 =E2 =E4=E8=E0=EF=E0=E7=EE=ED=E5 2=F5 =E3=F0=E0=E4=F3=F1=EE=E2.<br><br>2=
+) =F5=EE=F2=E5=EB =EE=E1=ED=EE=E2=E8=F2=FC =EF=F0=EE=F8=E8=E2=EA=F3, =E0 =
+=EF=EE=EB=F3=F7=E8=EB =F1=EE=EE=E1=F9=E5=ED=E8=E5 =EE=E1 =EE=F8=E8=E1=EA=E5=
+ =E2 =F1=F2=F0=EE=EA=E5 55 (=ED=E8=E6=E5 =F3=E6=E5 =EE=E1 =FD=F2=EE=EC =EF=
+=E8=F1=E0=EB=E8). Win 10. =CD=E8=F7=E5=E3=EE =E8=E7 =F0=E5=EA=EE=EC=E5=ED=
+=E4=E0=F6=E8=E9 =EE=F1=F2=E0=E2=EB=E5=ED=ED=FB=F5 =ED=E8=E6=E5 =ED=E5 =EF=
+=EE=EC=EE=E3=EB=EE. (=E4=E0, =EF=F0=EE =EB=E8=ED=F3=EA=F1 =E7=ED=E0=FE, =EE=
+=E4=ED=E0=E6=E4=FB =EF=EE=EF=F0=EE=E1=F3=FE, =ED=EE =E4=F3=EC=E0=FE =FD=F2=
+=EE =ED=E5 =F5=EE=F0=EE=F8=EE, =EA=EE=E3=E4=E0 =F2=E0=EA=E0=FF =EE=F8=E8=E1=
+=EA=E0 =E2 =EF=F0=E8=ED=F6=E8=EF=E5 =E5=F1=F2=FC)</span></p><br><p>2016-07-=
+24 23:48:03 | =CC=E0=EA=F1=E8=EC<br><span class=3D"comtxt">=C0=ED=E4=F0=E5=
+=E9,=ED=E5 =E1=F3=E4=F3 =F1=EF=EE=F0=E8=F2=FC. =DF =EF=E8=F1=E0=EB =EF=F0=
+=EE =F1=E2=EE=E8 =EC=F3=F7=E5=ED=E8=FF.=CF=EE =EF=EE=E2=EE=E4=F3 =E1=EB=EE=
+=EA=E0 =EF=E8=F2=E0=ED=E8=FF.=C2=EE =E2=F1=E5=F5 =F1=E2=EE=E8=F5 =F1=EB=F3=
+=F7=E0=FF=F5 =E1=FB=EB =EE=E4=E8=ED =E8 =F2=EE=F2 =E6=E5.=CF=EE=EA=E0 =ED=
+=E5 =EF=EE=EC=E5=ED=FF=EB "=E0=EB=E3=EE=F0=E8=F2=EC" =E4=E5=E9=F1=F2=E2=E8=
+=E9 =ED=E5 =F7=E5=E3=EE =ED=E5 =EF=EE=EB=F3=F7=E0=EB=EE=F1=FC.</span></p><b=
+r><p>2016-07-08 12:31:45 | <strong>Andrey_B</strong><br><span class=3D"comt=
+xt autor">=CC=E0=EA=F1=E8=EC, =ED=E0=EB=E8=F7=E8=E5 =E8=EB=E8 =EE=F2=F1=F3=
+=F2=F1=F2=E2=E8=E5 "=EF=E8=ED=E3=E0" =ED=E8=EA=E0=EA =ED=E5 =EE=EF=F0=E5=E4=
+=E5=EB=FF=E5=F2 =E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=FC =EF=E5=F0=E5=EF=F0=EE=F8=
+=E8=E2=EA=E8, =F2=E0=EA =EA=E0=EA =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=F3 =EE=
+=E1=E5=F1=EF=E5=F7=E8=E2=E0=E5=F2 =E7=E0=E3=F0=F3=E7=F7=E8=EA, =E0 =E2 =ED=
+=E5=EC =EF=F0=EE=F1=F2=EE =ED=E5=F2 =F0=E5=E0=EB=E8=E7=E0=F6=E8=E8 icmp =EF=
+=F0=EE=F2=EE=EA=EE=EB=E0. =D7=F2=EE =EA=E0=F1=E0=E5=F2=F1=FF "=E4=EE=F1=F7=
+=E8=F2=E0=EB =E4=EE =F2=F0=E5=F5". =C5=F1=EB=E8 =E2=FB =E8=F1=EF=EE=EB=FC=
+=E7=F3=E5=F2=E5 =E1=EB=EE=EA =EF=E8=F2=E0=ED=E8=E5 =EE=F2 MeanWell, =F2=EE =
+=EF=EE=F1=EB=E5 =E2=FB=EA=EB=FE=F7=E5=ED=E8=FF =EF=E8=F2=E0=ED=E8=FF 220=C2=
+ =EE=ED =E2=FB=EA=EB=FE=F7=E0=E5=F2=F1=FF =ED=E5 =F1=F0=E0=E7=F3, =E0 =F1=
+=EF=F3=F1=F2=FF 1-2 =F1=E5=EA=F3=ED=E4=FB. =CD=F3=E6=ED=EE =E4=E5=E9=F1=F2=
+=E2=E8=F2=E5=EB=FC=ED=EE =F3=E1=E5=E4=E8=F2=FC=F1=FF, =F7=F2=EE =E8=ED=E4=
+=E8=EA=E0=F2=EE=F0 =ED=E0 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E5 =E8 =E1=EB=EE=EA=
+=E5 =EF=E8=F2=E0=ED=E8=FF =EF=EE=E3=E0=F1. =C2 =F1=F2=E0=F2=FC=E5 =ED=E5=F2=
+ =ED=E8=EA=E0=EA=E8=F5 =EF=F0=E8=ED=F6=E8=EF=E8=E0=EB=FC=ED=FB=F5 =EE=F8=E8=
+=E1=EE=EA.</span></p><br><p>2016-07-02 13:14:43 | =CC=E0=EA=F1=E8=EC<br><sp=
+an class=3D"comtxt">=F1=EF=E0=F1=E8=E1=EE =E2=F1=E5=EC.=CF=D0=CE=D8=C8=CB.<=
+br><br>miniAdmin@MINIADMINACER c:xampp<br> php.exe megad-cfg.php --fw megad=
+-328.hex -f -e --ee<br>Connecting... OK<br>Checking firmware... OK<br>Erasi=
+ng firmware... OK<br>Writing firmware... OK<br>Erasing EEPROM... OK<br>Rest=
+arting device... OK<br><br>1 =EA=E0=F2=E5=E3=EE=F0=E8=F7=E5=F1=EA=E0=FF =EE=
+=F8=E8=E1=EA=E0 =E2 =ED=E0=F1=F2=F0=EE=E9=EA=E0=F5 =E2=F1=E5=E3=EE =EF=F0=
+=EE=F6=E5=F1=F1=E0 (=FF =EF=E8=F8=F3 =EF=F0=EE =F1=E2=EE=E8 =EC=F3=F7=E5=ED=
+=E8=FF)<br>2014-12-22 23:20:33 | Andrey_B<br>=C0=ED=F2=EE=ED,<br>1. =C2=FB=
+=EA=EB=FE=F7=E0=E5=F2=E5 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE<br>2. =C7=E0=EF=F3=
+=F1=EA=E0=E5=F2=E5 =F1=EA=F0=E8=EF=F2 megad-cfg.php --fw megad-328.hex -f -=
+e --ee<br>3. =C2=EA=EB=FE=F7=E0=E5=F2=E5 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE<br>=
+=C2=F1=E5.<br><br>=C2=EE=F2 =FD=F2=EE =E2 =EA=EE=F0=ED=E5 =ED=E5 =E2=E5=F0=
+=ED=EE!!!!!<br>=ED=E5 =E7=E0=EF=F3=F1=F2=E8=F2=FC=F1=FF =E2=F1=FF =EA=EE=EC=
+=E0=ED=E4=E0 =EF=EE=EA=E0 =EF=E8=ED=E3=E0 =ED=E5 =E1=F3=E4=E5=F2 =E4=EE =F3=
+=F1=F2=F0=EE=E9=F1=F2=E2=E0.<br>=CA=E0=EA =E4=E5=EB=E0=EB =FF. =E2=EA=EB=FE=
+=F7=E8=EB =EC=E5=E3=E0=E4=E5=E2=E0=E9=F1. =E7=E0=EF=F3=F1=F2=E8=EB =ED=E0 =
+=EA=EE=EC=EF=E5 (=EF=EE=E4=EA=EB=FE=F7=E5=ED =ED=E0 =EF=F0=FF=EC=F3=FE =EA =
+=EC=E5=E3=E5) ping ip -t<br>=F3=E1=E5=E4=E8=EB=F1=FF =F7=F2=EE =EF=E8=ED=E3=
+ =E5=F1=F2=FC =F2=EE=F7=ED=EE (=EF=E0=F0=F3 =F0=E0=E7 =E2=EA=EB =E2=FB=EA=
+=EB =EC=E5=E3=F3)<br>=E7=E0=EF=F3=F1=F2=E8=EB =ED=E0 =EA=EE=EC=EF=E5  megad=
+-cfg.php --fw megad-328.hex -f -e --ee<br>=E2=FB=F1=EA=EE=F7=E8=EB=E0 =EA=
+=EE=ED=E5=EA=F2....<br>=E2=FB=EA=EB=FE=F7=E8=EB =EC=E5=E3=F3,=E4=EE=F1=F7=
+=E8=F2=E0=EB =E4=EE =F2=F0=E5=F5.=E2=EA=EB=FE=F7=E8=EB =EC=E5=E3=F3 =E8 =EF=
+=E5=F0=E5=EF=F0=EE=F8=E8=EB=E0=F1=FC.<br><br>=E8=F1=F5=EE=E4=ED=FB=E5 =E4=
+=E0=ED=ED=FB=E5<br>1 =EC=E5=E3=E0 =ED=E5 =EF=F3=F1=EA=E0=EB=E0 =E2 =F1=E5=
+=E1=FF ip -192.168.88.125 =F8=EB=FE=E7 192.168.88.1<br>2 =ED=EE=F3=F2 =EF=
+=EE=E4=EA=EB=FE=F7=E5=ED =ED=E0=EF=F0=FF=EC=F3=FE =EA =EC=E5=E3=E5 (=E2=F1=
+=E5 =EA=E0=F0=F2=FB =E2=FB=EA=EB=FE=F7=E5=ED=FB =EA=F0=EE=EC=E5 =F2=EE=E9 =
+=F7=F2=EE =EF=EE=E4=EA=EB=FE=F7=E5=ED=E0 =EA =EC=E5=E3=E5 =DD=D2=CE =CE=C1=
+=DF=C7=C0=D2=C5=CB=DC=CD=CE).=F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=E5=ED=ED=EE =E8=
+=ED=E5=F2=E0 =ED=E5=F2 =E8 =EF=F0=EE=F8=E8=E2=EA=F3 =F1=F2=E0=E2=E8=EC =EB=
+=EE=EA=E0=EB=FC=ED=EE =E0 =ED=E5 =F2=FF=ED=E5=EC =F1 =E8=ED=E5=F2=E0   ip =
+=ED=EE=F3=F2=E0  192.168.0.4 =EC=E0=F1=EA=E0 255.255.255.0   =F8=EB=FE=E7 =
+=ED=E5 =F3=EA=E0=E7=E0=ED.<br><br>=EF=F0=EE=F8=E8=E2=E0=E5=EC =E8=EC=E5=ED=
+=ED=EE =F1 =EA=EB=FE=F7=E0=EC=E8 --ee<br>=C2=CD=C8=CC=C0=D2=C5=CB=DC=CD=CE =
+=CA=CE=CF=C8=D0=D3=C5=CC =C2=D1=DE =CA=CE=CC=C0=CD=C4=D3<br>=E4=EB=FF =E2=
+=E8=ED=E4=FB php.exe megad-cfg.php --fw megad-328.hex -f -e --ee<br>=EF=F0=
+=EE =EB=E8=ED=F3=EA=F1 =EF=E8=F1=E0=F2=FC =ED=E5 =E1=F3=E4=F3 =ED=E5 =EF=F0=
+=EE=E1=EE=E2=E0=EB =ED=EE =E2=F0=EE=E4=E5 =F2=E0=EA php megad-cfg.php --fw =
+megad-328.hex -f -e --ee<br>=C2=CD=C8=CC=C0=CD=C8=C5-=E2=F1=E5 =ED=E0=F1=F2=
+=F0=EE=E9=EA=E8 =EF=EE=F1=EB=E5 =F3=F1=EF=E5=F8=ED=EE=E9 =EF=F0=EE=F8=E8=E2=
+=EA=E8 =F1=F2=E8=F0=E0=FE=F2=F1=FF<br>=EF=F0=E8=EC=E5=ED=FF=FE=F2=F1=FF =E7=
+=E0=E2=EE=E4=F1=EA=E8=E5 192.168.0.14/sec<br><br>=D3=D1=CF=C5=D5=CE=C2!!! 1=
+8 =F7=E0=F1=EE=E2 =EF=EE=F1=E2=E5=F2=E8=EB =F2=F0=E0=F5=EE=ED=FC=FE =F1 =FD=
+=F2=E8=EC =F7=F3=E4=EE =E4=E5=E2=E0=E9=F1=EE=EC</span></p><br><p>2016-07-01=
+ 21:44:05 | =CC=E0=EA=F1=E8=EC<br><span class=3D"comtxt">=C4=EE=E1=F0=E5=E9=
+=F8=E5=E3=EE =E4=ED=FF. =D2=E5=EC=E0 =E8=ED=F2=E5=F0=E5=F1=ED=E0=FF (=EF=F0=
+=EE =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E8).=C0 =EC=EE=E6=ED=EE =EF=EE=EF=F0=
+=EE=F1=E8=F2=FC =F1=E4=E5=EB=E0=F2=FC =EE=E4=ED=F3 =EC=E0=EB=E5=ED=FC=EA=F3=
+=FE =ED=EE =EF=EE=EB=E5=E7=ED=F3=FE =E2=E5=F9=FC. =DF =E4=FF=F2=E5=EB =E8 =
+=EF=EE =F1=E5=F2=E8 =ED=E5 =EF=EE=EB=F3=F7=E0=E5=F2=F1=FF =EF=E5=F0=E5=EF=
+=F0=EE=F8=E8=F2=FC. =CF=F0=EE=E1=EB=E5=EC=E0 =E2 =E0=E2=F2=EE=F0=E8=E7=E0=
+=F6=E8=E8 (=EA=E0=EA =F3 =EC=ED=EE=E3=E8=F5).=C4=EE=F5=EE=E4=E8=F2 =F2=EE =
+=EA=EE=ED=ED=E5=EA=F2 =E8 =E2=F1=E5. =CC=EE=E6=ED=EE =EB=E8 =EE=F2 =C2=E0=
+=F1 =EF=EE=EB=F3=F7=E8=F2=FC 100% =E8=ED=F1=F2=F0=F3=EA=F6=E8=FE =EA=E0=EA =
+=EF=E5=F0=E5=EF=F0=EE=F8=E8=F2=FC =EF=F0=EE=E3=F0=EE=EC=EC=E0=F2=EE=F0=EE=
+=EC. =C0 =F2=EE =FD=F2=EE =F1=EB=EE=E2=EE =F2=F3=F2 =EF=EE=EF=E0=E4=E0=E5=
+=F2=F1=FF =F7=E0=F1=F2=EE,=E0 =F7=F2=EE =FD=F2=EE =EC=EE=E6=E5=F2 =EF=EE=EB=
+=EE=E2=E8=ED=E0 =ED=E5 =E7=ED=E0=F2=FC. =C8=ED=F1=F2=F0=F3=EA=F6=E8=FF =E4=
+=EB=FF =F7=E0=E9=ED=E8=EA=EE=E2. =D2=E8=EF=EE =EB=E5=E7=E8=EC =ED=E0 =E5=E1=
+=E5=E9 =E8 =EF=EE=EA=F3=EF=E0=E5=EC =E2=EE=F2 =F2=E0=EA=F3=FE =E6=E5=EB=E5=
+=E7=EA=F3,=E4=E0=EB=E5=E5 =EA=E0=F7=E0=E5=EC =E2=EE=F2 =FD=F2=EE =E8 =FD=F2=
+=EE,=EF=EE=E4=EA=EB=FE=F7=E0=E5=EC =EA=E0=EA =ED=E0 =EA=E0=F0=F2=E8=ED=EA=
+=E5 =E8 =EF=F0=EE=F8=E8=E2=E0=E5=EC.</span></p><br><div id=3D"ex"></div><p>=
+2016-06-04 11:31:52 | <strong>Andrey_B</strong><br><span class=3D"comtxt au=
+tor">=CC=E8=F8=E0, =EF=EE=EF=F0=E0=E2=E8=EB</span></p><br><p>2016-06-03 21:=
+54:29 | =CC=E8=F8=E0<br><span class=3D"comtxt">=C2=F1=E5! =CE=F2=EB=E8=F7=
+=ED=EE! =CF=EE=EB=F3=F7=E8=EB=EE=F1=FC! =C2=F1=E5-=F2=E0=EA=E8 =EF=EE=F1=EE=
+=E2=E5=F2=EE=E2=E0=EB =E1=FB =C2=E0=EC =ED=E5=EC=ED=EE=E3=EE =EF=EE=E4=EF=
+=F0=E0=E2=E8=F2=FC =ED=E0=E7=E2=E0=ED=E8=E5 =EF=E0=F0=E0=E3=F0=E0=F4=E0: "=
+=C0 =E5=F1=EB=E8 =F3 =EC=E5=ED=FF =F0=E5=EB=E8=E7 =ED=E5 5.1, =FF =ED=E5 =
+=F1=EC=EE=E3=F3 =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=E0=F2=FC =F3=F1=F2=F0=EE=E9=
+=F1=F2=E2=EE =EF=EE =F1=E5=F2=E8?"<br>=ED=E0 =F7=F2=EE-=F2=EE, =E2=F0=EE=E4=
+=E5 "=C5=F1=EB=E8 =F0=E5=E2=E8=E7=E8=FF =EC=EE=E5=E3=EE =EA=EE=ED=F2=F0=EE=
+=EB=EB=E5=F0=E0 =E1=EE=EB=E5=E5 =F0=E0=ED=ED=FF=FF =F7=E5=EC 5.1?"<br><br>=
+=C8. =D7=F2=EE =E1 =F2=E0=EA=E8=E5 =F7=E0=E9=ED=E8=EA=E8(=E4=EE=F2=EE=F8=ED=
+=FB=E5 =EA =E8=ED=F1=F2=F0=F3=EA=F6=E8=E8), =EA=E0=EA =FF, =ED=E5 =E7=E0=E4=
+=E0=E2=E0=EB=E8 =EE=E4=ED=E8 =E8 =F2=E5 =E6=E5 =E2=EE=EF=F0=EE=F1=FB, =EF=
+=F0=E5=E4=EB=E0=E3=E0=FE, =E2=F1=E5 =E6=E5 =E4=EE=E1=E0=E2=E8=F2=FC =E2 =E8=
+=ED=F1=F2=F0=F3=EA=F6=E8=FE =EA=EE=EC=E0=ED=E4=F3 =E7=E0=EF=E8=F1=E8 =E7=E0=
+=E3=F0=F3=E7=F7=E8=EA=E0:<br>avrdude -c avrispmkII -P usb -p m328p -e -U fl=
+ash:w:megad-boot.hex<br><br>=D1=EF=E0=F1=E8=E1=EE =E7=E0 =EE=F2=EB=E8=F7=ED=
+=FB=E5 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0!</span></p><br><p>2016-06-03 19:21:14=
+ | <strong>Andrey_B</strong><br><span class=3D"comtxt autor">=CC=E8=F8=E0, =
+=E2=F1=E5 =E7=E0=E2=E8=F1=E8=F2 =EE=F2 =E8=F1=EF=EE=EB=FC=E7=F3=E5=EC=EE=E3=
+=EE =CF=CE =E8 =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=E0.<br>=C7=E0=EF=E8=F1=
+=FC =E7=E0=E3=F0=F3=E7=F7=E8=EA=E0 =ED=E8=F7=E5=EC =ED=E5 =EE=F2=EB=E8=F7=
+=E0=E5=F2=F1=FF =EE=F2 =E7=E0=EF=E8=F1=E8 =EF=F0=EE=F8=E8=E2=EA=E8. =C4=EB=
+=FF avrdude =E8 =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=E0 avrISP mkII<br>avrd=
+ude -c avrispmkII -P usb -p m328p -e -U flash:w:megad-boot.hex<br></span></=
+p><br><p>2016-06-03 19:19:06 | <strong>Andrey_B</strong><br><span class=3D"=
+comtxt autor">=C4=EC=E8=F2=F0=E8=E9, =E2 =EB=FE=E1=FB=E5 =EA=EE=ED=F2=F0=EE=
+=EB=EB=E5=F0=FB (=ED=E5 =E2=E0=E6=ED=EE =EA=E0=EA=EE=E9 =F0=E5=E2=E8=E7=E8=
+=E8) =ED=E0 =E1=E0=E7=E5 atmega328/atmega328p =EC=EE=E6=ED=EE =E7=E0=EF=E8=
+=F1=E0=F2=FC =E7=E0=E3=F0=F3=E7=F7=E8=EA. =D1 =FD=F2=EE=E9 =F2=EE=F7=EA=E8 =
+=E7=F0=E5=ED=E8=FF =F1=F2=E0=F0=FB=E5 =F0=E5=E2=E8=E7=E8=E8 =EA=EE=ED=F2=F0=
+=EE=EB=EB=E5=F0=EE=E2 =ED=E8=EA=E0=EA =ED=E5 =EE=F2=EB=E8=F7=E0=FE=F2=F1=FF=
+ =EE=F2 =ED=EE=E2=FB=F5.<br></span></p><br><p>2016-06-03 03:47:32 | =CC=E8=
+=F8=E0<br><span class=3D"comtxt">=C0=ED=E4=F0=E5=E9, =EF=EE=E4=F1=EA=E0=E6=
+=E8=F2=E5 =EA=EE=EC=E0=ED=E4=F3 =EF=F0=EE=F8=E8=E2=EA=E8 =E7=E0=E3=F0=F3=E7=
+=F7=E8=EA=E0. =C2=E2=E5=F0=F5=F3 =E2 =F1=F2=E0=F2=FC=E5 =ED=E5 =ED=E0=F8=E5=
+=EB. =D2=E0=EC =F3=F1=F2=E0=ED=EE=E2=EA=E0 =F4=FC=FE=E7-=E1=E8=F2=EE=E2 =E8=
+ =F3=F1=E5.</span></p><br><p>2016-06-02 20:30:59 | =C0=EB=E5=EA=F1=E0=ED=E4=
+=F0<br><span class=3D"comtxt">=CD=F3 =F0=E0=E7 =EF=EE=EA=E0 =ED=E5 =EF=EE=
+=EB=F3=F7=E8=EB=EE=F1=FC, =F2=EE =E8 =EB=E0=E4=ED=EE. =D5=EE=F2=FF =E4=EB=
+=FF =F2=E0=EA=E8=F5 =EA=E0=EA =FF =FD=F2=EE =ED=E5 =EF=F0=EE=E1=EB=E5=EC=E0=
+ - =FF =E2 =F1=E2=EE=E9 =C2=E5=E1-=F1=E0=E9=F2 =E2=F1=F2=E0=E2=E8=EB. =CD=
+=F3 =E8=EB=E8 =E0=E2=F2=EE=EC=E0=F2=EE=EC =E2=F1=E5 =F3=F1=F2=F0=EE=E9=F1=
+=F2=E2=E0 =EE=E1=ED=EE=E2=EB=FF=FE =F1 =EA=EE=ED=F1=EE=EB=E8.</span></p><br=
+><p>2016-06-02 20:27:28 | =C4=EC=E8=F2=F0=E8=E9<br><span class=3D"comtxt">=
+=C0=ED=E4=F0=E5=E9, =EF=F0=EE=F1=F2=E8=F2=E5. =CD=EE =FF =E7=E0=E4=E0=EB =
+=E2=EE=EF=F0=EE=F1, =EA=E0=EA =EE=E1=FB=F7=ED=FB=E9 =C2=E0=ED=FC=EA=E0-=E4=
+=F3=F0=E0=EA, =E7=ED=E0=FF =EE=F2=E2=E5=F2 =E7=E0=F0=E0=ED=E5=E5. =D1=F3=F2=
+=FC =E2 =F2=EE=EC-=F2=EE =E8 =F1=EE=F1=F2=EE=E8=F2, =F7=F2=EE =F7=E5=F2=EA=
+=EE =FD=F2=EE =ED=E5 =ED=E0=EF=E8=F1=E0=ED=ED=EE =E2 =F1=F2=E0=F2=FC=E5. =
+=D2=EE=EB=FC=EA=EE =F1 =F0=E5=E2=E8=E7=E8=E8 5.1 =E8=EB=E8 =E6=E5 =E2=F1=E5=
+ =F1=F2=E0=F0=FB=E5 =F2=EE=E6=E5.</span></p><br><p>2016-06-02 18:10:39 | <s=
+trong>Andrey_B</strong><br><span class=3D"comtxt autor">=C0=EB=E5=EA=F1=E0=
+=ED=E4=F0, =EF=EE=EA=E0 =ED=E5 =F1=E4=E5=EB=E0=EB. =CA=E0=EA-=F2=EE =E2=F1=
+=E5 =ED=E5 =E4=EE =FD=F2=EE=E3=EE =E1=FB=EB=EE. =C4=E0 =E8 =ED=E5=F2 =F3 =
+=EC=E5=ED=FF =E8=ED=F4=EE=F0=EC=E0=F6=E8=E8, =ED=E0=F1=EA=EE=EB=FC=EA=EE =
+=E0=EA=F2=E8=E2=ED=EE =E8=F1=EF=EE=EB=FC=E7=F3=E5=F2=F1=FF MegaD-Panel. =DD=
+=F2=EE =E2=F1=E5-=F2=E0=EA=E8 =F8=F2=F3=EA=E0 =E1=EE=EB=FC=F8=E5 =E4=EB=FF =
+=EE=E1=F3=F7=E0=FE=F9=E5=E9 =F6=E5=EB=E8 =EF=F0=E8=E4=F3=EC=E0=ED=E0.</span=
+></p><br><p>2016-06-02 18:09:20 | <strong>Andrey_B</strong><br><span class=
+=3D"comtxt autor">=C4=EC=E8=F2=F0=E8=E9, =E7=E0=E3=F0=F3=E7=F7=E8=EA =EC=EE=
+=E6=ED=EE =E7=E0=EF=E8=F1=E0=F2=FC =E8 =E2 =F1=F2=E0=F0=FB=E5 =EA=EE=ED=F2=
+=F0=EE=EB=EB=E5=F0=FB. =CD=E8=EA=E0=EA=E8=F5 =EF=F0=EE=E1=EB=E5=EC =F1 =FD=
+=F2=E8=EC =ED=E5=F2. =CD=EE =E4=EB=FF =FD=F2=EE=E3=EE =ED=F3=E6=E5=ED =EF=
+=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0. =C2 =F1=F2=E0=F2=FC=E5 =E6=E5 =EE=EF=E8=
+=F1=E0=ED=EE =EA=E0=EA =E8 =F7=F2=EE =E4=E5=EB=E0=F2=FC =E2 =FD=F2=EE=EC =
+=F1=EB=F3=F7=E0=E5.</span></p><br><p>2016-06-02 18:05:25 | <strong>Andrey_B=
+</strong><br><span class=3D"comtxt autor">=CC=E0=EA=F1=E8=EC, =ED=E5=EE=E1=
+=F5=EE=E4=E8=EC=EE =EF=E5=F0=E5=EF=F0=EE=F8=E8=F2=FC =F3=F1=F2=F0=EE=E9=F1=
+=F2=E2=EE =E2 =F0=E5=E6=E8=EC=E5 =E2=EE=F1=F1=F2=E0=ED=EE=E2=EB=E5=ED=E8=FF=
+.<br>=CA=EB=FE=F7=E8: -f -e --ee<br>=CF=EE=F1=EB=E5=E4=EE=E2=E0=F2=E5=EB=FC=
+=ED=EE=F1=F2=FC =E4=E5=E9=F1=F2=E2=E8=E9 =EE=EF=E8=F1=E0=ED=E0 =E2 =F1=F2=
+=E0=F2=FC=E5.</span></p><br><div id=3D"ex"></div><p>2016-06-02 06:26:21 | =
+=C0=EB=E5=EA=F1=E0=ED=E4=F0<br><span class=3D"comtxt">=C7=E4=F0=E0=E2=F1=F2=
+=E2=F3=E9=F2=E5 =C0=ED=E4=F0=E5=E9!<br><br>=CF=E0=F0=F3 =EB=E5=F2 =ED=E0=E7=
+=E0=E4 =E3=E4=E5-=F2=EE =ED=E0 =F4=EE=F0=F3=EC=E5 =F7=E8=F2=E0=EB, =F7=F2=
+=EE =C2=FB =F1=EE=E1=E8=F0=E0=EB=E8=F1=FC  =E2=F1=F2=F0=EE=E8=F2=FC =F4=F3=
+=ED=EA=F6=E8=FE =EE=E1=ED=EE=E2=EB=E5=ED=E8=FF =E2 MegaD Panel. =D2=E0=EA=
+=E8 =F1=E4=E5=EB=E0=EB=E8 =E8=EB=E8 =ED=E5=F2? </span></p><br><p>2016-06-02=
+ 06:20:52 | =C4=EC=E8=F2=F0=E8=E9<br><span class=3D"comtxt">=C0=ED=E4=F0=E5=
+=E9, =C2=FB =EF=E8=F8=E8=F2=E5: <br>"=CD=E0=F7=E8=ED=E0=FF c =F0=E5=E2=E8=
+=E7=E8=E8 5.1 =EA=EE=ED=F2=F0=EE=EB=EB=E5=F0=E0 MegaD-328 =E4=EB=FF =EF=E5=
+=F0=E5=EF=F0=EE=F8=E8=E2=EA=E8 =ED=E5 =ED=F3=E6=E5=ED =EF=F0=EE=E3=F0=E0=EC=
+=EC=E0=F2=EE=F0!"<br><br>=C0 =EA=E0=EA =E1=FB=F2=FC =F1 =E1=EE=EB=E5=E5 =F0=
+=E0=ED=ED=E8=EC=E8 =F0=E5=E2=E8=E7=E8=FF=EC=E8? =D3 =EC=E5=ED=FF =ED=E0=EF=
+=F0=E8=EC=E5=F0 =E5=F1=F2=FC =EF=E0=F0=E0 Ver 2.0.</span></p><br><p>2016-05=
+-31 21:55:07 | =CC=E0=EA=F1=E8=EC<br><span class=3D"comtxt">=E3=EE=F1=EF=EE=
+=E4=E0, =ED=F3=E6=ED=E0 =EF=EE=EC=EE=F9=FC!!!<br>=C2 majordomo =F1=EB=F3=F7=
+=E0=E9=ED=EE =EA=EB=E0=F6=ED=F3=EB =EF=EE "=D1=EE=F5=F0=E0=ED=E8=F2=FC" =E2=
+ =F0=E0=E7=E4=E5=EB=E5 firmware . Clear EEPROM =E5=F1=F2=E5=F1=F2=E2=E5=ED=
+=ED=EE =ED=E5 =F1=F2=EE=FF=EB=EE. =CA=E0=EA =F1=EB=E5=E4=F1=F2=E2=E8=E5, =
+=F1=E5=E9=F7=E0=F1 =ED=E5 =EC=EE=E3=F3 =ED=E0=E9=F2=E8 =ED=E0 =F3=F1=F2=F0=
+=EE=E9=F1=F2=E2=EE. <br>=CF=E0=F0=EE=EB=FC =ED=E5 =EC=E5=ED=FF=EB=F1=FF. =
+=CD=EE =EF=F0=E8 =E2=E2=EE=E4=E5 =E2=FB=E4=E0=E5=F2 unauthoized. <br>=D1=EA=
+=E0=ED =EF=F0=EE=F5=EE=E4=E8=F2 =ED=EE=F0=EC=E0=EB=FC=ED=EE - =E2=F1=E5 =EC=
+=E5=E3=E8 =E2=EA=EB=FE=F7=E0=FF =EF=F0=EE=E1=EB=E5=EC=ED=F3=FE =E2=E8=E4=ED=
+=FB. <br>=CF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E0 =ED=E5 =EF=F0=EE=F5=EE=E4=E8=
+=F2 - =EE=EF=FF=F2=FC =E6=E5 unauthorized. <br>=EF=E5=F0=E5=EF=F0=EE=F8=E8=
+=E2=EA=E0 =F1 =EA=EB=FE=F7=E5=EC -e =ED=E5 =EF=F0=EE=F5=EE=E4=E8=F2 - =EB=
+=E8=ED=EA =ED=E0 =E4=E5=E2=E0=E9=F1=E5 =E7=E0=E3=E0=F0=E0=E5=F2=F1=FF, =ED=
+=EE =EA=EE=EC=EF =E4=E0=EB=FC=F8=E5 connecting =ED=E5 =E8=E4=E5=F2... <br>=
+=D7=F2=EE =EC=EE=E6=ED=EE =F1=E4=E5=EB=E0=F2=FC? =EB=E5=E7=F2=FC =ED=E0 =EF=
+=EE=EB=EA=F3 =E7=E0 =EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=EE=EC?</span></p><=
+br><p>2016-02-23 02:41:49 | =D0=EE=EC=E0=ED<br><span class=3D"comtxt">=D1=
+=EB=FD=F8 =E7=E0=E1=FB=EB :)      php.exe C:/megad-cfg.php --scan</span></p=
+><br><p>2016-02-22 14:47:05 | =D0=EE=EC=E0=ED<br><span class=3D"comtxt">meg=
+ad-cfg.php =F0=E0=E1=EE=F2=E0=E5=F2 =EA=EE=F0=F0=E5=EA=F2=ED=EE.=CF=F3=F2=
+=FC =EA =F4=E0=E9=EB=F3 megad-cfg.php =E4=EE=EB=E6=E5=ED =E1=FB=F2=FC =E0=
+=E1=F1=EE=EB=FE=F2=ED=FB=EC:=F1=EA=E0=F7=E0=EB=E8,=F0=E0=E7=E0=F0=F5=E8=E2=
+=E8=F0=EE=E2=E0=EB=E8 =E8 =EF=EE=EB=EE=E6=E8=EB=E8 =E5=E3=EE =ED=E0 =E4=E8=
+=F1=EA =D1.=CF=F0=E8 =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=EA=E5 =EF=E8=F8=E5=EC =
+=F2=E0=EA   php.exe C:megad-cfg.php --scan</span></p><br><p>2016-02-22 12:4=
+3:50 | <strong>Andrey_B</strong><br><span class=3D"comtxt autor">Lewcom, =
+=F0=E5=EA=EE=EC=E5=ED=E4=E0=F6=E8=E8 =EF=F0=E5=E6=ED=E8=E5. =DF =E6=E5 =ED=
+=E0=EF=E8=F1=E0=EB, =F7=F2=EE =F1=EA=F0=E8=EF=F2 =ED=E5 =E2=F1=E5=E3=E4=E0 =
+=EA=EE=F0=F0=E5=EA=F2=ED=EE =F0=E0=E1=EE=F2=E0=E5=F2 =E2 Windows XP =F1=EE =
+=F1=F2=E0=F0=EE=E9 =E2=E5=F0=F1=E8=E5=E9 =E7=E0=E3=F0=F3=E7=F7=E8=EA=E0. =
+=D2=E0=EA=E6=E5 =EF=F0=EE --local-ip. =CA=F0=EE=EC=E5 =F2=EE=E3=EE, =E2=F1=
+=E5=E3=E4=E0 =E5=F1=F2=FC =E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=FC =EF=EE=E4=EA=EB=
+=FE=F7=E8=F2=FC ISP-=EF=F0=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0 =E8 =EF=E5=F0=E5=
+=EF=F0=EE=F8=E8=F2=FC =E8=EC.</span></p><br><p>2016-02-22 11:26:13 | Lewcom=
+<br><span class=3D"comtxt">=C2=E8=E6=F3 =E2=F2=EE=F0=EE=E9 =EA=EE=EC=E5=ED=
+=F2 =ED=E5 =F1=EE=F5=F0=E0=ED=E8=EB=F1=FF.<br>=CF=F0=EE=E1=EE=E2=E0=EB =E8 =
+winXP =E8 =EC=E5=E3=E0 + =EA=EE=EC=EF (=E1=E5=E7 =EF=EE=F1=F0=E5=E4=ED=E8=
+=EA=EE=E2, =F2=EE=EB=FC=EA=EE =EE=E4=ED=E0 =F1=E5=F2=E5=E2=E0=FF),<br>=F1=
+=EA=F0=E8=EF=F2 =E2=FB=E4=E0=E5=F2<br>C:PHP&gt;php megad-cfg.php --scan<br>=
+<br>C:PHP&gt;<br>=ED=E8=F7=E5=E3=EE.<br>=CD=E0 =EC=E5=E3=E5 =E8=F1=EF=F0=E0=
+=E2=ED=EE =EC=E8=E3=E0=E5=F2 =EB=E0=ED =EF=EE=F0=F2(=F0=E0=ED=FC=F8=E5 =EE=
+=ED=E0 =F0=E0=E1=EE=F2=E0=EB=E0 =E2 =F1=E8=F1=F2=E5=EC=E5 =F1 =EC=E0=E6=EE=
+=F0=E4=EE=EC=EE)<br>IP=F1=EA=E0=ED=E5=F0=EE=EC =ED=E0=F5=EE=E4=E8=F2 =E2=F1=
+=E5, =EA=F0=EE=EC=E5 =EC=E5=E3=E8.<br>=C2=FB=F1=FB=EB=E0=F2=FC =EA =E2=E0=
+=EC - =ED=E0=EA=EB=E0=E4=ED=EE (=D3=EA=F0=E0=E8=ED=E0)<br></span></p><br><p=
+>2016-02-21 23:33:46 | <strong>Andrey_B</strong><br><span class=3D"comtxt a=
+utor">Lewcom,<br>1. =C1=FB=EB=E8 =F1=EE=EE=E1=F9=E5=ED=E8=FF =EE=F2 =ED=E5=
+=EA=EE=F2=EE=F0=FB=F5 =EF=EE=EB=FC=E7=EE=E2=E0=F2=E5=EB=E5=E9, =F7=F2=EE =
+=F1=EA=F0=E8=EF=F2 megad-cfg.php =ED=E5 =E2=F1=E5=E3=E4=E0 =EA=EE=F0=F0=E5=
+=EA=F2=ED=EE =F0=E0=E1=EE=F2=E0=E5=F2 =E2 Windows 10 =E8 Windows XP. =CF=EE=
+=EF=F0=EE=E1=F3=E9=F2=E5 Windows 7 =E8=EB=E8 Linux. =C2 Linux =EE=ED =F0=E0=
+=E1=EE=F2=E0=E5=F2 =E2=F1=E5=E3=E4=E0. =CA=F1=F2=E0=F2=E8, =E5=F1=EB=E8 =ED=
+=E5 =EF=F0=EE=E1=EE=E2=E0=EB=E8, =EF=EE=EF=F0=EE=E1=F3=E9=F2=E5 =F3=F1=F2=
+=E0=ED=EE=E2=E8=F2=FC Linux =EA=E0=EA =E2=F2=EE=F0=F3=FE =CE=D1 =E8=EB=E8 =
+=E2 =E2=E8=F0=F2=F3=E0=EB=FC=ED=EE=E9 =EC=E0=F8=E8=ED=E5. =CC=EE=E6=E5=F2 =
+=E1=FB=F2=FC, =E2=E0=EC =EF=EE=ED=F0=E0=E2=E8=F2=F1=FF. =CD=E0=F7=E0=F2=FC =
+=EC=EE=E6=ED=EE =F1 =F7=E5=E3=EE-=ED=E8=E1=F3=E4=FC =E1=EE=EB=E5=E5 =E4=F0=
+=F3=E6=E5=EB=FE=E1=ED=EE=E3=EE =F2=E8=EF=E0 Mint MATE =E8=EB=E8 Ubuntu.<br>=
+2. =CF=EE=E4=EA=EB=FE=F7=E8=F2=E5 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =ED=E0=EF=
+=F0=FF=EC=F3=FE =EA =EA=EE=EC=EF=FC=FE=F2=E5=F0=F3 =EF=E0=F2=F7-=EA=EE=F0=
+=E4=EE=EC. =CB=E8=ED=EA =ED=E0 =F1=E5=F2=E5=E2=EE=EC =F0=E0=E7=FA=E5=EC=E5 =
+=EA=EE=EC=EF=FC=FE=F2=E5=F0=E0 =E8 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0 =E4=EE=EB=
+=E6=E5=ED =E3=EE=F0=E5=F2=FC.<br>3. =C5=F1=EB=E8 =ED=E0 =EA=EE=EC=EF=FC=FE=
+=F2=E5=F0=E5 =ED=E5=F1=EA=EE=EB=FC=EA=EE =F1=E5=F2=E5=E2=FB=F5 =E8=ED=F2=E5=
+=F0=F4=E5=E9=F1=EE=E2 (=E1=E5=F1=EF=F0=EE=E2=EE=E4=ED=FB=F5 =E8=EB=E8 =EF=
+=F0=EE=E2=EE=E4=ED=FB=F5), =F2=EE =E8=ED=EE=E3=E4=E0 =EF=EE=EC=EE=E3=E0=E5=
+=F2 =F3=EA=E0=E7=E0=F2=FC --local-ip IP-=E0=E4=F0=E5=F1 =EB=EE=EA=E0=EB=FC=
+=ED=EE=E3=EE =E8=ED=F2=E5=F0=F4=E5=E9=F1=E0, =EA =EA=EE=F2=EE=F0=EE=EC=F3 =
+=EF=EE=E4=EA=EB=FE=F7=E5=ED=E0 =F1=E5=F2=FC/=F3=F1=F2=F0=EE=E9=F1=F2=E2=EE.=
+<br>4. =CA=F0=E0=E9=ED=E8=E9 =E2=E0=F0=E8=E0=ED=F2, =E2=F1=E5=E3=E4=E0 =EC=
+=EE=E6=ED=EE =E2=FB=F1=EB=E0=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =ED=E0=EC=
+, =EC=FB =E7=E0=E3=F0=F3=E7=E8=EC =F1=E0=EC=F3=FE =EF=EE=F1=EB=E5=E4=ED=FE=
+=FE =EF=F0=EE=F8=E8=E2=EA=F3, =EF=F0=E8 =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE=F1=
+=F2=E8 =EE=E1=ED=EE=E2=E8=EC =E1=F3=F2=EB=EE=E0=E4=E5=F0, =EF=F0=EE=E2=E5=
+=F0=E8=EC =E2=F1=E5 =F4=F3=ED=EA=F6=E8=E8, =F3=F1=F2=E0=ED=EE=E2=E8=EC =ED=
+=F3=E6=ED=FB=E9 IP-=E0=E4=F0=E5=F1 =E8 =E2=E5=F0=ED=E5=EC =EE=E1=F0=E0=F2=
+=ED=EE.</span></p><br><p>2016-02-21 22:10:35 | Lewcom<br><span class=3D"com=
+txt">=CF=F0=E8=E1=EB=E8=E7=E8=F2=E5=EB=FC=ED=EE  =E3=EE=E4 =ED=E5 =EF=EE=EB=
+=FC=E7=EE=E2=E0=EB=F1=FF MegaD.<br>=D1=EE=EE=F2=E2=E5=F2=F1=F2=E2=E5=ED=ED=
+=EE =E7=E0=E1=FB=EB  IP. =CF=F0=EE=E1=EE=E2=E0=EB =E2=EE=F1=F2=E0=ED=E0=E2=
+=EB=E8=E2=E0=F2=FC =F7=E5=F0=E5=E7 megad-cfg.php" --scan =EF=EE=EB=F3=F7=E8=
+=EB  PHP Fatal error: Call to undefined function socket_create () in C:phpm=
+egad-cfg.php on line 55.<br>=E2 php.ini =F0=E0=F1=EA=EE=EC=EC=E5=ED=F2=E8=
+=F0=EE=E2=E0=EB =F1=F2=F0=EE=F7=EA=F3<br>extension=3Dphp_sockets.dll<br>=F0=
+=E5=E7=F3=EB=FC=F2=E0=F2<br>C:PHP&gt;php megad-cfg.php<br>MegaD-328 managem=
+ent script Ver 1.38<br>Available options:<br>--scan (Scanning network for M=
+egaD-328 devices)<br>--ip [current IP address] --new-ip [new IP address] -p=
+ [] (Changing IP-address)<br>--ip [IP address] --fw [HEX-file] -p [] (Upgra=
+de firmware. Normal mode)<br>--ip [IP address] -w -p [] (Upgrade firmware  =
+ab-log.ru. Add -b for beta. Normal mode)<br>--fw [HEX-file] -f (Upload firm=
+ware. Empty flash, bootloader mode)<br>--fw [HEX-file] -f -e (Upload firmwa=
+re. Broken firmware)<br>--ee (Optional! Erase EEPROM)<br>--read-conf [filen=
+ame] (Read configuration:  device to file)<br>--write-conf [filename] (Writ=
+e configuration:  file to device)<br><br>C:PHP&gt;php megad-cfg.php --scan<=
+br></span></p><br><p>2016-01-04 10:50:18 | =C0=EB=E5=EA=F1=E5=E9<br><span c=
+lass=3D"comtxt">=CA=E0=EA =E2=FB=FF=F1=ED=E8=EB=EE=F1=FC, =F0=EE=F3=F2=E5=
+=F0=FB Mikrotik =E2 =F0=E5=E6=E8=EC=E5 =F2=EE=F7=EA=E8 =E4=EE=F1=F2=F3=EF=
+=E0 =ED=E5 =FF=E2=EB=FF=FE=F2=F1=FF =EF=F0=E5=EF=FF=F2=F1=F2=E2=E8=E5=EC =
+=E4=EB=FF =EF=F0=EE=F8=E8=E2=EA=E8 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0 =EF=EE =
+=F1=E5=F2=E8. =C4=EE=F1=F2=E0=F2=EE=F7=ED=EE =E2=EE =E2=EA=EB=E0=E4=EA=E5  =
+IP-&gt;Firewall =F0=E0=E7=F0=E5=F8=E8=F2=FC forward UDP-=EF=E0=EA=E5=F2=EE=
+=E2.<br>=C0 =E2=EE=F2 =F2=EE=F2 =E6=E5 =F0=EE=F3=F2=E5=F0 =E2 =F0=E5=E6=E8=
+=EC=E5 Wi-Fi =E1=F0=E8=E4=E6=E0 =EF=F0=EE=E1=EB=E5=EC=EE=E9 =FF=E2=EB=FF=E5=
+=F2=F1=FF, =F2=E0=EA =EA=E0=EA =EF=F0=E8 =E5=E3=EE =ED=E0=F1=F2=F0=EE=E9=EA=
+=E5 =EE=E1=FB=F7=ED=EE =E7=E0=E1=FB=E2=E0=FE=F2 =ED=E0=F1=F2=F0=EE=E8=F2=FC=
+ Firewall =E0 =EF=EE=F1=EB=E5 =EF=E5=F0=E5=EA=EB=FE=F7=E5=ED=E8=FF =E2 =F0=
+=E5=E6=E8=EC =E1=F0=E8=E4=E6=E0 =FD=F2=EE =F3=E6=E5 =ED=E5=E2=EE=E7=EC=EE=
+=E6=ED=EE =F1=E4=E5=EB=E0=F2=FC =E8=E7=E2=ED=E5.</span></p><br><div id=3D"e=
+x"></div><p>2015-12-07 12:30:22 | =CB=E5=EE=ED=E8=E4<br><span class=3D"comt=
+xt">=C0=ED=E4=F0=E5=E9, =F1=EF=E0=F1=E8=E1=EE =E7=E0 =E2=E0=F8=F3 =F0=E0=E1=
+=EE=F2=F3 =E8 =E7=E0 =EF=EE=E4=F0=EE=E1=ED=EE=E5 =EE=EF=E8=F1=E0=ED=E8=E5. =
+=C5=F1=EB=E8 =E2 =E4=E0=ED=ED=EE=EC =EE=EF=E8=F1=E0=ED=E8=E8 =E2 =F0=E0=E7=
+=E4=E5=EB=E5 =EF=F0=EE =F4=FC=FE=E7=FB "avrdude -c avrispmkII -P usb -p m32=
+8p -U lfuse:w:0x60:m -U hfuse:w:0xD8:m<br>=E4=EE=E1=E0=E2=E8=F2=E5 =F7=F2=
+=EE "-U lfuse:w:0x60:m" =F1=EB=E5=E4=F3=E5=F2 =E2=FB=EF=EE=EB=ED=FF=F2=FC =
+=F2=EE=EB=FC=EA=EE =EF=F0=E8 =F2=E0=EA=F2=E8=F0=EE=E2=E0=ED=E8=E8 =EE=F2 =
+=E2=ED=E5=F8=ED=E5=E3=EE =E8=F1=F2=EE=F7=ED=E8=EA=E0, =FD=F2=EE =F1=FD=EA=
+=EE=ED=EE=EC=E8=F2 =EC=ED=EE=E3=EE =E2=F0=E5=EC=E5=ED=E8 =E4=F0=F3=E3=E8=EC=
+. =CB=E8=F7=ED=EE =FF =EF=EE=F2=F0=E0=F2=E8=EB =E4=E5=ED=FC =F7=F2=EE=E1=FB=
+ =F0=E0=E7=EE=E1=F0=E0=F2=FC=F1=FF, =ED=E0 =F4=EE=F0=F3=EC=E5 =F0=E5=F8=E5=
+=ED=E8=E5 =E5=F1=F2=FC (/www.ab-log.ru/forum/viewtopic.php?f=3D1&amp;t;=3D6=
+&amp;start;=3D2000p17832), =ED=EE =FF =ED=E0=F8=E5=EB =E5=E3=EE =EF=EE=E7=
+=E6=E5. =CC=EE=E6=E5=F2 =EF=EB=EE=F5=EE =E8=F1=EA=E0=EB...</span></p><br><p=
+>2015-11-30 12:04:35 | <strong>Andrey_B</strong><br><span class=3D"comtxt a=
+utor">=C8=EB=FC=FF, =ED=E8=E6=E5 =E2 =EA=EE=EC=EC=E5=ED=F2=E0=F0=E8=FF=F5 =
+=FF =F3=E6=E5 =EE=F2=E2=E5=F7=E0=EB.</span></p><br><p>2015-11-29 18:35:52 |=
+ =C8=EB=FC=FF<br><span class=3D"comtxt">=CF=EE=E4=F1=EA=E0=E6=E8=F2=E5 =E2 =
+=EA=EE=EC=E0=ED=E4=ED=EE=E9 =F1=F2=F0=EE=EA=E5 =EF=EE=E4 Win 7 =E4=E5=EB=E0=
+=FE C:phpphp.exe "C:phpmegad-cfg.php" --scan <br>PHP Fatal error: Call to u=
+ndefined function socket_create () in C:phpmegad-cfg.php on line 55<br>=CF=
+=EE=E4=F1=EA=E0=E6=E8=F2=E5 =F0=E5=F8=E5=ED=E8=FF =E4=E0=ED=ED=EE=E9 =EF=F0=
+=EE=E1=EB=E5=EC=FB?</span></p><br><p>2015-10-11 20:31:57 | <strong>Andrey_B=
+</strong><br><span class=3D"comtxt autor">=D2=E8=EC=EE=F4=E5=E9, =E5=F1=EB=
+=E8 =E2 =E2=E0=F8=E5=EC =F3=F1=F2=F0=EE=E9=F1=F2=E2=E5 =ED=E5=F2 =E7=E0=E3=
+=F0=F3=E7=F7=E8=EA=E0 (=E0 =F1=F3=E4=FF =EF=EE =E2=E5=F0=F1=E8=E8 =EF=F0=EE=
+=F8=E8=E2=EA=E8 =E5=E3=EE =ED=E5=F2), =F2=EE =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE=
+ =E5=E3=EE =F3=F1=F2=E0=ED=EE=E2=E8=F2=FC =F1 =EF=EE=EC=EE=F9=FC=FE =EF=F0=
+=EE=E3=F0=E0=EC=EC=E0=F2=EE=F0=E0, =EA=E0=EA =EE=EF=E8=F1=E0=ED=EE =E2 =F1=
+=F2=E0=F2=FC=E5.</span></p><br><p>2015-10-11 14:21:46 | =D2=E8=EC=EE=F4=E5=
+=E9<br><span class=3D"comtxt">=CC=EE=E3=F3 =EB=E8 =FF =EA=E0=EA-=ED=E8=E1=
+=F3=E4=FC =EF=F0=EE=F8=E8=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =F1 =E2=E5=
+=F0=F1=E8=E5=E9 =EF=F0=EE=F8=E8=E2=EA=E8 3.09?</span></p><br><p>2015-06-06 =
+11:28:46 | <strong>Andrey_B</strong><br><span class=3D"comtxt autor">=D1=E5=
+=F0=E3=E5=E9, =FD=F2=EE =ED=E5=EF=F0=E0=E2=E8=EB=FC=ED=EE=E5 =E8=F1=EF=F0=
+=E0=E2=EB=E5=ED=E8=E5, =F2=E0=EA =EA=E0=EA =E2 =FD=F2=EE=EC =F1=EB=F3=F7=E0=
+=E5 =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=FF =F1=EE=F5=F0=E0=ED=FF=E5=F2=F1=FF =
+=ED=E5=EA=EE=F0=F0=E5=EA=F2=ED=EE. =C2 =E4=E0=ED=ED=EE=EC =F1=EB=F3=F7=E0=
+=E5 =ED=F3=E6=ED=EE =EB=E8=E1=EE =ED=E5=F1=EA=EE=EB=FC=EA=EE =EF=E5=F0=E5=
+=E4=E5=EB=E0=F2=FC =F4=F3=ED=EA=F6=E8=FE =F1=F7=E8=F2=FB=E2=E0=ED=E8=FF =EA=
+=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=E8, =EB=E8=E1=EE =EF=F0=EE=F6=E5=E4=F3=F0=F3=
+ =F3=F1=F2=E0=ED=EE=E2=EA=E8 =EF=F0=E5=F1=E5=F2=E0 =E2 =EF=F0=EE=F8=E8=E2=
+=EA=E5 =EC=E8=EA=F0=EE=EA=EE=ED=F2=F0=EE=EB=EB=E5=F0=E0. =DF =E2=EE=EE=E1=
+=F9=E5 =EF=EB=E0=ED=E8=F0=F3=FE =EE=F2=EA=E0=E7=E0=F2=FC=F1=FF =EE=F2 =F0=
+=E5=E0=EB=E8=E7=E0=F6=E8=E8 =EF=F0=E5=F1=E5=F2=E0 =E2 =EC=E8=EA=F0=EE=EA=EE=
+=ED=F2=F0=EE=EB=EB=E5=F0=E5, =F2=E0=EA =EA=E0=EA =ED=E0 =EF=EE=E4=F5=EE=E4=
+=E5 =ED=E5=F1=EA=EE=EB=FC=EA=EE =F0=E0=E7=ED=FB=F5 =E8=F1=EF=EE=EB=ED=E8=F2=
+=E5=EB=FC=ED=FB=F5 =EC=EE=E4=F3=EB=E5=E9. =C2 =EE=E1=F9=E5=EC, =EF=EE=E4=F3=
+=EC=E0=FE.</span></p><br><p>2015-06-04 12:52:41 | =D1=E5=F0=E3=E5=E9<br><sp=
+an class=3D"comtxt">=C0=ED=E4=F0=E5=E9, =E2=EE=E7=EC=EE=E6=ED=EE =ED=E0=F8=
+=B8=EB =EE=F8=E8=E1=EA=F3 =E2 =F1=F2=F0=EE=EA=E5 138.<br>=C1=FB=EB=EE:<br>$=
+page =3D file_get_contents("/".$options['ip']."/".$options['p']."/?cf=3D1&#=
+8826;=3D0");<br>=C8=E7=EC=E5=ED=E8=EB =ED=E0:<br>$page =3D file_get_content=
+s("/".$options['ip']."/".$options['p']."/?cf=3D1&#8826;=3D".$stored_preset)=
+;<br><br>=C2=EE=E7=EC=EE=E6=ED=EE, =ED=E5 =EF=F0=E0=E2, =ED=EE =F3 =EC=E5=
+=ED=FF =E4=EE =E8=F1=EF=F0=E0=E2=EB=E5=ED=E8=FF =F7=F2=E5=ED=E8=E5 =EA=EE=
+=ED=F4=E8=E3=F3=F0=E0=F6=E8=E8 =F1=E1=E8=E2=E0=EB=EE =F0=E5=E6=E8=EC=FB =F0=
+=E0=E1=EE=F2=FB =E2=F5=EE=E4=EE=E2 =F1 P&amp;R; =ED=E0 P.</span></p><br><p>=
+2015-02-01 19:16:19 | Bernard<br><span class=3D"comtxt">=C2=EE=F2 =F2=E0=EA=
+=E0=FF =EF=F0=EE=E1=EB=E5=EC=E0 =F2=EE=E6=E5 =E1=FB=EB=E0 =F3 =EC=E5=ED=FF =
+- "Connecting... =E2=EA=EB=FE=F7=E8=EB =E8 =ED=E8=F7=E5=E3=EE" =E8 --scan =
+=F2=EE=E6=E5 =ED=E8=F7=E5=E3=EE =ED=E5 =E2=FB=E4=E0=E2=E0=EB.<br>=CE=EA=E0=
+=E7=E0=EB=EE=F1=FC, =F7=F2=EE =F1=EA=F0=E8=EF=F2 =EF=F0=EE=F8=E8=E2=EA=E8 =
+=E2=E8=E4=E8=F2 =F2=EE=EB=FC=EA=EE =F2=F3 =EF=EE=E4=F1=E5=F2=EA=F3, =E2 =EA=
+=EE=F2=EE=F0=EE=E9 =ED=E0=F5=EE=E4=E8=F2=F1=FF =EA=EE=EC=EF, =E3=E4=E5 =E7=
+=E0=EF=F3=F1=EA=E0=E5=F2=F1=FF =F1=EA=F0=E8=EF=F2. =D3 =EC=E5=ED=FF =CC=E5=
+=E3=E0=E4=E5=E2=E0=E9=F1=FB =E2=FB=ED=E5=F1=E5=ED=FB =E2 =EE=F2=E4=E5=EB=FC=
+=ED=F3=FE =EF=EE=E4=F1=E5=F2=EA=F3 =E8 =E8=F5 =F1=EA=F0=E8=EF=F2 =ED=E5 =E2=
+=E8=E4=E5=EB.<br><br>=C8=F1=EF=F0=E0=E2=E8=EB =F1=F2=F0=EE=EA=F3 =E2 =F1=EA=
+=F0=E8=EF=F2=E5<br>$broadcast_ip =3D preg_replace("/(d+).(d+).(d+).(d+)/", =
+"$1.$2.$3.255", $local_ip);<br>=ED=E0<br>$broadcast_ip =3D preg_replace("/(=
+d+).(d+).(d+).(d+)/", "$1.$2.255.255", $local_ip);<br>=E8 =E2=F1=E5 =E7=E0=
+=F0=E0=E1=EE=F2=E0=EB=EE<br></span></p><br><p>2015-01-13 12:57:35 | <strong=
+>Andrey_B</strong><br><span class=3D"comtxt autor">=C4=EC=E8=F2=F0=E8=E9, =
+=E7=ED=E0=F7=E8=F2 =F7=F2=EE-=F2=EE =E1=EB=EE=EA=E8=F0=F3=E5=F2 =EF=E0=EA=
+=E5=F2=FB. =CD=E0=EF=F0=E8=EC=E5=F0, =F0=EE=F3=F2=E5=F0, =E5=F1=EB=E8 =EE=
+=ED =E8=F1=EF=EE=EB=FC=E7=F3=E5=F2=F1=FF =E2 =EA=E0=F7=E5=F1=F2=E2=E5 Ether=
+net-=EA=EE=EC=EC=F3=F2=E0=F2=EE=F0=E0.<br>=CF=EE=EF=F0=EE=E1=F3=E9=F2=E5 =
+=EF=EE=E4=EA=EB=FE=F7=E8=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =EA =F1=E5=F0=
+=E2=E5=F0=F3 =ED=E0=EF=F0=FF=EC=F3=FE =E8=EB=E8 =E7=E0=EC=E5=ED=E8=F2=FC =
+=EA=EE=EC=EC=F3=F2=E0=F2=EE=F0 =ED=E0 =EC=E0=EA=F1=E8=EC=E0=EB=FC=ED=EE =EF=
+=F0=EE=F1=F2=EE=E9. =C2 =EF=EE=F1=EB=E5=E4=ED=E8=F5 =E2=E5=F0=F1=E8=FF=F5 =
+=EF=F0=EE=F8=E8=E2=EA=E8 =E1=FB=EB=E8 =F1=E4=E5=EB=E0=ED=FB =ED=E5=EA=EE=F2=
+=EE=F0=FB=E5 =E8=E7=EC=E5=ED=E5=ED=E8=FF =E4=EB=FF =F0=E5=F8=E5=ED=E8=FF =
+=EF=F0=EE=E1=EB=E5=EC=FB =F1 =F0=EE=F3=F2=E5=F0=E0=EC=E8.</span></p><br><p>=
+2015-01-13 11:43:13 | =C4=EC=E8=F2=F0=E8=E9<br><span class=3D"comtxt">=D2=
+=E0=EA =E8 =E4=E5=EB=E0=EB.<br>=E2=FB=EA=EB=FE=F7=E8=EB<br>=ED=E0=E1=F0=E0=
+=EB<br>root@raspberrypi:~ php /var/www/html/megad-cfg.php -w -f -e --ee<br>=
+Downloading firmware... OK<br>Connecting...<br>=E2=EA=EB=FE=F7=E8=EB<br>=E8=
+ =ED=E8=F7=E5=E3=EE <br></span></p><br><div id=3D"ex"></div><p>2015-01-13 1=
+1:13:02 | <strong>Andrey_B</strong><br><span class=3D"comtxt autor">=C4=EC=
+=E8=F2=F0=E8=E9, <br>1. =C2=FB=EA=EB=FE=F7=E0=E5=EC =F3=F1=F2=F0=EE=E9=F1=
+=F2=E2=EE<br>2. =C7=E0=EF=F3=F1=EA=E0=E5=EC =F1=EF=F0=E8=EF=F2<br>megad-cfg=
+.php -w -f -e --ee<br>=D1=EA=F0=E8=EF=F2 =ED=E0=EF=E8=F8=E5=F2 Connecting..=
+.<br>=D2=E0=EA =E8 =EE=F1=F2=E0=E2=EB=FF=E5=EC.<br>3. =C2=EA=EB=FE=F7=E0=E5=
+=EC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE. =C4=EE=EB=E6=E5=ED =ED=E0=F7=E0=F2=FC=
+=F1=FF =EF=F0=EE=F6=E5=F1=F1 =EF=F0=EE=F8=E8=E2=EA=E8.<br>=CF=EE=F1=EB=E5 =
+=FD=F2=EE=E3=EE IP-=E0=E4=F0=E5=F1 =EC=EE=E6=E5=F2 =F1=E1=F0=EE=F1=E8=F2=FC=
+=F1=FF =ED=E0 =F2=EE=F2, =F7=F2=EE =EF=EE =F3=EC=EE=EB=F7=E0=ED=E8=FE.<br>=
+=D1=EA=F0=E8=EF=F2 =E6=E5=EB=E0=F2=E5=EB=FC=ED=EE =E2=E7=FF=F2=FC =F1=E2=E5=
+=E6=E8=E9 =F1 =F1=E0=E9=F2=E0.</span></p><br><p>2015-01-13 10:42:43 | =C4=
+=EC=E8=F2=F0=E8=E9<br><span class=3D"comtxt">=C0=ED=E4=F0=E5=E9, =EF=EE=EC=
+=EE=E3=E8=F2=E5!<br>=D3=F1=F2=F0=EE=E9=F1=F2=E2=EE =ED=E0 =E2=F1=E5=F5 =F1=
+=F2=F0=E0=ED=E8=F6=E0=F5 =EF=E8=F8=E5=F2 401 Unauthorized . =CD=EE =E5=F1=
+=EB=E8 =EF=F0=FF=EC=EE=E9 =F1=F1=FB=EB=EA=EE=E9 =EE=E1=F0=E0=F2=E8=F2=FC=F1=
+=FF =ED=E0 =ED=F3=E6=ED=F3=FE =F1=F2=F0=E0=ED=E8=F6=F3 =EF=EE=F1=EB=E5 =F1=
+=E1=F0=EE=F1=E0 =EF=E8=F2=E0=ED=E8=FF =ED=E0=EF=F0=E8=EC=E5=F0 /192.168.13.=
+81/sec/?cf=3D1 =E8 =EF=EE=EC=E5=ED=FF=F2=FC =F2=E0=EC =F7=F2=EE-=ED=E8=E1=
+=F3=E4=FC =F2=EE =EF=F0=E8=EC=E5=F2. =CF=F0=EE=F8=E8=F2=FC =EA=EE=EC=E0=ED=
+=E4=EE=E9 php megad-cfg.php --fw megad-328.hex -f -e --ee  =EF=F0=EE=E1=EE=
+=E2=E0=EB =E7=E0=E2=E8=F1=E0=E5=F2 =ED=E0 =F1=EB=EE=E2=E5 Connecting....  .=
+ =D3=F1=F2=F0=EE=E9=F1=F2=E2=EE =EF=E8=ED=E3=F3=E5=F2=F1=FF =ED=EE=F0=EC=E0=
+=EB=FC=ED=EE. =C1=EB=EE=EA =EF=E8=F2=E0=ED=E8=FF =F1=EC=E5=ED=E8=EB =ED=E0 =
+=E4=F0=F3=E3=EE=E9, =EF=F0=EE=E1=EE=E2=E0=EB =F1 =E4=F0=F3=E3=EE=E3=EE =EA=
+=EE=EC=EF=E0. =EF=F0=EE=E1=EE=E2=E0=EB =F1 Windows =E8 Debian... =ED=ED=E8=
+=EA=E0=EA. =C5=F9=E5 =ED=E5 =ED=E0 =EE=E4=ED=EE=E9 =E8=E7 =EC=E0=F8=E8=ED =
+=ED=E5 =EF=EE=EB=F3=F7=E8=EB=EE=F1=FC =F3=E2=E8=E4=E5=F2=FC =E0=E4=F0=E5=F1=
+=E0 =F3=F1=F2=F0=EE=E9=F1=F2=E2=E0 =EA=EE=EC=E0=ED=E4=EE=E9 php megad-cfg.p=
+hp --scan - =EF=F0=EE=F1=F2=EE =ED=E8 =F7=E5=E3=EE =ED=E5 =E2=FB=E4=E0=E5=
+=F2 =ED=E0 =FD=EA=F0=E0=ED =ED=E8 =EE=F8=E8=E1=EA=E8 =ED=E8 =E0=E4=F0=E5=F1=
+=E0.</span></p><br><p>2014-12-22 23:20:33 | <strong>Andrey_B</strong><br><s=
+pan class=3D"comtxt autor">=C0=ED=F2=EE=ED,<br>1. =C2=FB=EA=EB=FE=F7=E0=E5=
+=F2=E5 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE<br>2. =C7=E0=EF=F3=F1=EA=E0=E5=F2=E5 =
+=F1=EA=F0=E8=EF=F2 megad-cfg.php --fw megad-328.hex -f -e --ee <br>3. =C2=
+=EA=EB=FE=F7=E0=E5=F2=E5 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE<br>=C2=F1=E5.</span=
+></p><br><p>2014-12-22 17:12:20 | =C0=ED=F2=EE=ED<br><span class=3D"comtxt"=
+>=C0=ED=E4=F0=E5=E9, =F2.=E5. =EA=EE=EC=E0=ED=E4=E0 =F1=E1=F0=EE=F1=E0 =E1=
+=F3=E4=E5=F2:<br>megad-cfg.php --fw megad-328.hex -f --ee<br>=E8=EB=E8 =EA=
+=E0=EA=E0=FF?</span></p><br><p>2014-12-22 17:11:19 | <strong>Andrey_B</stro=
+ng><br><span class=3D"comtxt autor">=C0=ED=F2=EE=ED, =EA=EB=FE=F7 =F1=E1=F0=
+=EE=F1=E0 =E2 =E7=E0=E2=EE=E4=F1=EA=E8=E5 =ED=E5 "-e", =E0 "--ee".</span></=
+p><br><p>2014-12-22 15:25:40 | =C0=ED=F2=EE=ED<br><span class=3D"comtxt">=
+=E4=EE=E1=F0=FB=E9 =E4=E5=ED=FC =C0=ED=E4=F0=E5=E9<br>=EF=F0=E8 =EF=EE=EF=
+=FB=F2=EA=E8 =EF=EE=EF=FB=F2=EA=E8 =EE=E1=ED=EE=E2=EB=E5=ED=E8=FF =EF=F0=EE=
+=F8=E8=E2=EA=E8 =F7=E5=F0=E5=E7 =F1=E5=F2=FC<br>=F1=EA=F0=E8=EF=F2=EE=EC =
+=F1 =F1=E0=E9=F2=E0 <br>php megad-cfg.php --ip 192.168.1.248 -p sec -w -ee<=
+br>=E2=F0=EE=E4=E5 =E2=F1=E5 =EF=F0=EE=F8=EB=EE =ED=EE=F0=EC=E0=EB=FC=ED=EE=
+ =E2=E5=E7=E4=E5 =E2=FB=E4=E0=EB=EE - =CE=CA<br>=E5=E4=E8=ED=F1=F2=E2=E5=ED=
+=ED=EE=E5, =F7=F2=EE =ED=E0=F1=F2=EE=F0=EE=E6=E8=EB=EE =FD=F2=EE =F2=EE =F7=
+=F2=EE =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =ED=E5 =F1=EA=E8=ED=F3=EB=EE=F1=FC =
+=EF=EE =F3=EC=EE=EB=F7=E0=ED=E8=FE.<br>=EE=ED=EE =F2=E0=EA =E6=E5 =EF=E8=ED=
+=E3=F3=E5=F2=F1=FF =EF=EE =F1=E5=F2=E8, =EE=F2=E2=E5=F7=E0=E5=F2 =EF=EE WEB=
+, =ED=EE =ED=E5 =EF=F0=E8=ED=E8=EC=E0=E5=F2 =EF=E0=F0=EE=EB=FC.<br>=EF=E5=
+=F0=E5=EF=F0=EE=F8=E8=E2=EA=E0 =EF=EE=F1=EB=E5 =F1=E1=EE=FF (megad-cfg.php =
+--fw megad-328.hex -f -e) =E4=E0=E5=F2 =F2=EE=F2 =E6=E5 =FD=F4=E5=EA=F2 =E2=
+=E5=E7=E4=E5 =E2=F1=E5 =CE=CA =ED=EE =EF=E0=F0=EE=EB=FC =ED=E5 =EF=F0=E8=ED=
+=E5=EC=E0=E5=F2=F1=FF =E8 =EA =ED=E0=F1=F2=F0=EE=E9=EA=E0=EC =EF=EE =F3=EC=
+=EE=EB=F7=E0=ED=E8=FE =ED=E5 =E2=EE=E7=E2=F0=E0=F9=E0=E5=F2=F1=FF.<br><br>=
+=CA=E0=EA =F1=E1=F0=EE=F1=E8=F2=FC =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE =ED=E0 =
+=E7=E0=E2=EE=E4=F1=EA=E8=E5 =ED=E0=F1=F2=F0=EE=E9=EA=E8 =ED=E5 =E7=ED=E0=FF=
+ =EF=E0=F0=EE=EB=FC?</span></p><br><p>2014-11-12 20:56:17 | <strong>Andrey_=
+B</strong><br><span class=3D"comtxt autor">=C0=F0=F2=E5=EC, =EF=F0=EE=F8=E8=
+=E2=EA=E0 =E7=E0=E3=F0=F3=E7=F7=E8=EA=E0 =ED=E8=F7=E5=EC =ED=E5 =EE=F2=EB=
+=E8=F7=E0=E5=F2=F1=FF.<br>=CD=E0=EF=F0=E8=EC=E5=F0<br>avrdude -c avrispmkII=
+ -P usb -p m328p -e -U flash:w:megad-boot.hex<br></span></p><br><p>2014-11-=
+12 14:21:57 | =C0=F0=F2=B8=EC<br><span class=3D"comtxt">=C0=ED=E4=F0=E5=E9,=
+ =ED=E0=EF=E8=F8=E8=F2=E5, =EF=EE=E6=E0=EB=F3=E9=F1=F2=E0, =EF=F0=E8=EC=E5=
+=F0 =E4=EB=FF =EF=F0=EE=F8=E8=E2=EA=E8 =E7=E0=E3=F0=F3=E7=F7=E8=EA=E0 =E4=
+=EB=FF avrdude =E8 AVRISP mkII.<br>=D1=EF=E0=F1=E8=E1=EE.</span></p><br><p>=
+2014-11-09 11:27:25 | Alex<br><span class=3D"comtxt">=C7=E4=F0=E0=E2=F1=F2=
+=E2=F3=E9=F2=E5,=C0=ED=E4=F0=E5=E9!<br>=CE=E3=F0=EE=EC=ED=EE=E5 =F1=EF=E0=
+=F1=E8=E1=EE =E7=E0 =C2=E0=F8 =F2=F0=F3=E4! =CF=EE=F0=F2=E8=F0=EE=E2=E0=EB =
+=EF=F0=EE=F8=E8=E2=EA=F3 =ED=E0 =EA=EE=ED=F2=F0=EE=EB=EB=E5=F0 Mega2560 =E2=
+ =E2=E8=E4=F3 =E1=EE=EB=FC=F8=E5=E3=EE =EA=EE=EB=E8=F7=E5=F1=F2=E2=E0 =EF=
+=EE=F0=F2=EE=E2, =E4=F3=EC=E0=EB =EE=E1=ED=EE=E2=E8=F2=FC=F1=FF =E4=EE =E2=
+=E5=F0=F1=E8=E8 =F1 =EF=F0=EE=F8=E8=E2=EA=EE=E9 =EF=EE =F1=E5=F2=E8,=ED=EE=
+=EE=EE.... =E2 =E7=E0=E3=F0=F3=E7=F7=E8=EA=E5 =E2=E8=E4=E8=EC=EE =EF=EE-=E4=
+=F0=F3=E3=EE=EC=F3 =EF=EE=E4=F6=E5=EF=EB=E5=ED =F1=E5=F2=E5=E2=EE=E9 =EC=EE=
+=E4=F3=EB=FC =ED=E0 =E8=ED=FB=E5 =EF=EE=F0=F2=FB =ED=E5=E6=E5=EB=E8 =F3 =EC=
+=E5=ED=FF,=EC=EE=E6=ED=EE =EB=E8 =EA=E0=EA=E8=EC-=F2=EE =EE=E1=F0=E0=E7=EE=
+=EC =EF=EE=EC=E5=ED=FF=F2=FC/=EF=EE=F1=EC=EE=F2=F0=E5=F2=FC =EA=EE=E4 =E7=
+=E0=E3=F0=F3=E7=F7=E8=EA=E0 =E4=EB=FF =EF=EE=F0=F2=E8=F0=EE=E2=E0=ED=E8=FF =
+=ED=E0 =EC=E5=E3=F32560?</span></p><br><p>2014-10-26 17:53:50 | =C4=E5=ED=
+=E8=F1<br><span class=3D"comtxt">=C1=EE=EB=FC=F8=EE=E5 =F1=EF=E0=F1=E8=E1=
+=EE =E7=E0 =E2=F1=E5 =F7=F2=EE =E4=E5=EB=E0=E5=F2=E5.<br>=CF=EE =EF=EE=E2=
+=EE=E4=F3 =F1=E5=F2=E5=E2=EE=E3=EE =EF=E5=F0=E5=EF=F0=EE=F8=E8=E2=E0=F2=EE=
+=F0=E0 - =E3=E4=E5 =E2=F1=E5 =F2=E0=EA=E8 =EC=EE=E6=ED=EE =E3=EB=FF=ED=F3=
+=F2=FC =E8=F1=F5=EE=E4=ED=E8=EA=E8. =CF=FB=F2=E0=FE=F1=FC =E7=E0=F1=F3=ED=
+=F3=F2=FC =E5=E3=EE =ED=E0 =E4=E5=E2=E0=E9=F1=E8=EA =F1 =E0=F2=EC=E5=E3=EE=
+=E9 328. =E2=F0=EE=E4=E5 =E2=F1=E5 =EE=EA, =EF=F0=EE=F8=E8=E2=EA=E0 =E7=E0=
+=EB=E8=EB=E0=F1=FC, =EF=EE=F1=EB=E5 =F7=E5=E3=EE =EF=F0=E8=E7=ED=E0=EA=EE=
+=E2 =E6=E8=E7=ED=E8 =ED=E5 =EF=EE=E4=E0=E5=F2. =EF=EE=E4=EA=EB=FE=F7=E5=ED=
+=E0 =EA =ED=EE=F3=F2=F3 =F1 WinXP =F7=E5=F0=E5=E7 =F2=F3=EF=EE=E9 =F5=E0=E1=
+, =E0=E4=F0=E5=F1 =ED=E0 =ED=EE=F3=F2=E5 =E2=FB=F1=F2=E0=E2=EB=E5=ED =F0=F3=
+=F6=FF=EC=E8, =E2 =EF=EE=EB=F3=F7=E8=E2=F8=E5=E9=F1=E8 =EC=E8=ED=E8 =F1=E5=
+=F2=EA=E5 - =F2=EE=EB=FC=EA=EE =E4=E2=E0 =E2=FB=F8=E5=EE=E7=ED=E0=F7=E5=ED=
+=FB=F5 =E4=E5=E2=E0=E9=F1=E0.<br>=C0, =E7=E0=E1=FB=EB =F3=EA=E0=E7=E0=FC=E1=
+, =F7=F2=EE =C2=E0=F8=E0 =EF=F0=EE=F8=E8=E2=EA=E0 =ED=E0=F7=E8=ED=E0=FF =F1=
+ =E2=E5=F0=F1=E8=E9 3.06 =ED=E0 =F1=E5=EC =E4=E5=E2=E0=E9=F1=E5 =F0=E0=E1=
+=EE=F2=E0=E5=F2 =E1=E5=E7=F3=EA=EE=F0=E8=E7=ED=E5=ED=ED=EE.</span></p><br><=
+div id=3D"ex"></div><p>2014-07-07 18:00:10 | <strong>Andrey_B</strong><br><=
+span class=3D"comtxt autor">=C0=EB=E5=EA=F1=E0=ED=E4=F0, =E4=E0, =E2=EE=E7=
+=EC=EE=E6=ED=EE.</span></p><br><p>2014-07-07 12:37:01 | =C0=EB=E5=EA=F1=E0=
+=ED=E4=F0<br><span class=3D"comtxt">=C2=EE=E7=EC=EE=E6=ED=EE =EB=E8 =EF=F0=
+=EE=F8=E8=F2=FC =EF=EE =F1=E5=F2=E8 =F3=F1=F2=F0=EE=E9=F1=F2=E2=EE v.4.0 =
+=EF=EE=F1=EB=E5 =F3=F1=F2=E0=ED=EE=E2=EA=E8 =E7=E0=E3=F0=F3=E7=F7=E8=EA=E0.=
+ </span></p><br><p>2014-04-27 08:35:01 | =C8=EB=FC=FF<br><span class=3D"com=
+txt">=C0=ED=E4=F0=E5=E9, =F1=EF=E0=F1=E8=E1=EE =E7=E0 =EE=F2=E2=E5=F2.<br>&=
+gt;&gt;"=EA=E8=F0=EF=E8=F7" =EF=F0=E8 =F2=E0=EA=EE=EC =E2=E8=E4=E5 "=EF=F0=
+=EE=F8=E8=E2=E0=ED=E8=FF" =EF=EE=EB=F3=F7=E8=F2=FC =F2=F0=F3=E4=ED=EE, =F2=
+=E0=EA =EA=E0=EA =E2=F1=E5=E3=E4=E0 =EE=F1=F2=E0=E5=F2=F1=FF =E7=E0=E3=F0=
+=F3=E7=F7=E8=EA =E8 =F0=E5=E6=E8=EC "-e".<br>=D0=E5=E6=E8=EC -e =EF=F0=E8=
+=E2=EE=E4=E8=EB =EA =F0=E5=E7=F3=EB=FC=F2=E0=F2=E0=EC:<br>=CD=E0 =EC=E5=E4=
+=E8=E0=F1=E5=F0=E2=E5=F0=E5 =F1 debian 6.0:<br>root@BOX:~/mega php megad-cf=
+g.php -w -f -e<br>Downloading firmware... OK<br>Connecting... OK<br>Erasing=
+ firmware... OK<br>Writing firmware... FAULT<br>Restarting device... OK<br>=
+<br>=CD=E0 =ED=EE=F3=F2=E5 =F1 Win8.1<br>C:PHP&gt;php.exe megad-cfg.php -w =
+-f -e<br>Downloading firmware... OK<br>Connecting... OK<br>Erasing firmware=
+... OK<br>Writing firmware... FAULT<br>Restarting device... FAULT<br><br>=
+=CD=E0 =EA=E0=EA=EE=E9-=F2=EE =EC=EE=EC=E5=ED=F2 =EF=EE=F1=EB=E5 "n" =EF=EE=
+=EF=FB=F2=EA=E8 =F1 "n" =EA=EE=ED=F4=E8=E3=F3=F0=E0=F6=E8=E5=E9 =E4=F3=EC=
+=E0=EB =F7=F2=EE =E2=F1=E5 - =EA=E8=F0=EF=E8=F7<br><br>=CF=EE=F2=EE=EC =E4=
+=EE=F1=F2=E0=EB =E1=F3=E1=E5=ED =E8 =E2 =E8=F2=EE=E3=E5, =EF=EE=F7=E8=ED=E8=
+=E2 =F1=EE=EA=E5=F2=FB =ED=E0 Win =E8 =EF=EE=E4=EA=EB=FE=F7=E8=E2 =EA =EF=
+=F0=EE=F1=F2=E5=E9=F8=E5=EC=F3 =F1=E5=F2=E5=E2=EE=EC=F3 =EA=EE=ED=F6=E5=ED=
+=F2=F0=E0=F2=EE=F0=F3 =D2=CE=CB=DC=CA=CE MegaD =E8 =ED=EE=F3=F2=E1=F3=EA =
+=EC=ED=E5 =F3=E4=E0=EB=EE=F1=FC =E2=F1=E5 =EF=F0=EE=F8=E8=F2=FC =F1=EA=F0=
+=E8=EF=F2=EE=EC =E8=E7 =E4=E0=ED=ED=EE=E9 =F2=E5=EC=FB. =C5=F1=F2=E5=F1=F2=
+=E2=E5=ED=ED=EE, =EF=F0=E8 =F2=E0=EA=EE=EC =E2=E0=F0=E8=E0=ED=F2=E5 =EF=EE=
+=E4=EA=EB=FE=F7=E5=ED=E8=FF =ED=E8 =EE =EA=E0=EA=EE=EC =F0=EE=F3=F2=E5=F0=
+=E5 =F1 DHCP =F0=E5=F7=FC =ED=E5 =F8=EB=E0, =EC=E0=EA=F1=E8=EC=E0=EB=FC=ED=
+=EE =E2=F1=E5 =F3=EF=F0=EE=F9=E0=EB=EE=F1=FC =E4=EE "=EA=F0=F3=E3=EB=EE=E3=
+=EE =EA=EE=ED=FF =E2 =E2=E0=EA=F3=F3=EC=E5".</span></p><br><p>2014-04-26 21=
+:31:01 | <strong>Andrey_B</strong><br><span class=3D"comtxt autor">=C8=EB=
+=FC=FF, "=EA=E8=F0=EF=E8=F7" =EF=F0=E8 =F2=E0=EA=EE=EC =E2=E8=E4=E5 "=EF=F0=
+=EE=F8=E8=E2=E0=ED=E8=FF" =EF=EE=EB=F3=F7=E8=F2=FC =F2=F0=F3=E4=ED=EE, =F2=
+=E0=EA =EA=E0=EA =E2=F1=E5=E3=E4=E0 =EE=F1=F2=E0=E5=F2=F1=FF =E7=E0=E3=F0=
+=F3=E7=F7=E8=EA =E8 =F0=E5=E6=E8=EC "-e".<br>Call to undefined function soc=
+ket_create() (=E4=EB=FF Windows)<br>=CD=F3=E6=ED=EE =E2 php.ini =F0=E0=F1=
+=EA=EE=EC=EC=E5=ED=F2=E8=F0=EE=E2=E0=F2=FC =F1=F2=F0=EE=F7=EA=F3<br>extensi=
+on=3Dphp_sockets.dll<br>=CF=F0=EE=F8=E8=E2=E0=F2=FC =F7=E5=F0=E5=E7 =F0=EE=
+=F3=F2=E5=F0 dd-wrt =ED=E5 =EF=F0=EE=E1=EE=E2=E0=EB. =CD=E5 =E8=F1=EA=EB=FE=
+=F7=E0=FE, =F7=F2=EE =E1=F0=EE=E4=EA=E0=F1=F2=FB =EC=EE=E3=F3=F2 =F7=E0=F1=
+=F2=E8=F7=ED=EE =E8=EB=E8 =EF=EE=EB=ED=EE=F1=F2=FC=FE =E1=EB=EE=EA=E8=F0=EE=
+=E2=E0=F2=FC=F1=FF. =C2=EE=E7=EC=EE=E6=ED=EE, =FD=F2=EE =ED=E0=F1=F2=F0=E0=
+=E8=E2=E0=E5=F2=F1=FF. =D1 =EB=FE=E1=FB=EC=E8 =EE=E1=FB=F7=ED=FB=EC=E8 =EA=
+=EE=EC=EC=F3=F2=E0=F2=EE=F0=E0=EC=E8 (=E8=EB=E8 =EA=E0=EA =E2=FB =E8=F5 =ED=
+=E0=E7=E2=E0=EB=E8 =F5=E0=E1=E0=EC=E8) =ED=E8=EA=E0=EA=E8=F5 =EF=F0=EE=E1=
+=EB=E5=EC =ED=E5=F2.<br>=C1=FB=EB =F2=E0=EA=E6=E5 =E7=E0=F4=E8=EA=F1=E8=F0=
+=EE=E2=E0=ED =F3 =EE=E4=ED=EE=E3=EE =EF=EE=EB=FC=E7=EE=E2=E0=F2=E5=EB=FF =
+=F1=E1=EE=E9 =EF=F0=EE=F8=E8=E2=EA=E8 =EF=F0=E8 =ED=E0=EB=E8=F7=E8=E8 =E0=
+=EA=F2=E8=E2=ED=EE=E3=EE =F8=E8=F0=EE=EA=EE=E2=E5=F9=E0=F2=E5=EB=FC=ED=EE=
+=E3=EE =F1=F2=F0=E8=EC=E8=ED=E3=E0 =EC=E5=E4=E8=E0-=EA=EE=ED=F2=E5=ED=F2=E0=
+, =EA=EE=E3=E4=E0 =FD=EB=E5=EC=E5=ED=F2=E0=F0=ED=EE =F1=EE=E2=EF=E0=EB=E8 =
+=E7=E0=E3=EE=EB=EE=E2=EA=E8 =EF=E0=EA=E5=F2=EE=E2. =CD=EE =F1=E8=F2=F3=E0=
+=F6=E8=FF =F1=EA=EE=F0=E5=E5 =E8=E7 =F0=E0=E7=F0=FF=E4=E0 =E8=F1=EA=EB=FE=
+=F7=E8=F2=E5=EB=FC=ED=FB=F5. =CD=E0=F1=F7=E5=F2 DHCP =ED=E5 =EF=EE=ED=FF=EB=
+. =C5=F1=EB=E8 =F3 =E2=E0=F1 =F0=EE=F3=F2=E5=F0 =FF=E2=EB=FF=E5=F2=F1=FF DH=
+CP-=F1=E5=F0=E2=E5=F0=EE=EC, =F2=EE =E5=F1=EB=E8 =E2=FB =EF=EE=E4=EA=EB=FE=
+=F7=E8=F2=E5 =E5=E3=EE =EA "=F5=E0=E1=F3", =F1=E5=F0=E2=E8=F1 =E4=EE=EB=E6=
+=E5=ED =F0=E0=E1=EE=F2=E0=F2=FC.</span></p><br><p>2014-04-26 15:03:20 | =C8=
+=EB=FC=FF<br><span class=3D"comtxt">=D0=E0=E7=EE=E1=F0=E0=EB=F1=FF.<br>=CF=
+=F0=EE=F8=E8=E2=EA=E0 =EF=EE =F1=E5=F2=E8 =E2=EE=E7=EC=EE=E6=ED=E0 =D2=CE=
+=CB=DC=CA=CE =EF=F0=E8 =EF=EE=E4=EA=EB=FE=F7=E5=ED=E8=E8 =EA =EE=E1=FB=F7=
+=ED=EE=EC=F3 =F5=E0=E1=F3  (=F1 =F0=EE=F3=F2=E5=F0=EE=EC dd-wrt =ED=E5 =E2=
+=FB=F8=EB=EE) =D2=CE=CB=DC=CA=CE =EA=EE=ED=F2=F0=EE=EB=EB=E5=F0=E0 =E8 =EA=
+=EE=EC=EF=FC=FE=F2=E5=F0=E0, =F1 =EA=EE=F2=EE=F0=EE=E3=EE =EE=F1=F3=F9=E5=
+=F1=F2=E2=EB=FF=E5=F2=F1=FF =EF=F0=EE=F8=E8=E2=EA=E0. IP =E0=E4=F0=E5=F1 =
+=EA=EE=EC=EF=FC=FE=F2=E5=F0=E0 =E2=E1=E8=E2=E0=E5=F2=E5 =E2=F0=F3=F7=ED=F3=
+=FE =F2.=EA. DHCP =F1=EA=EE=F0=E5=E5 =E2=F1=E5=E3=EE =ED=E5 =E1=F3=E4=E5=F2=
+ =E4=EE=F1=F2=F3=EF=E5=ED.</span></p><br><p>2014-04-26 14:22:22 | =C8=EB=FC=
+=FF<br><span class=3D"comtxt">C:PHP&gt;php.exe megad-cfg.php -w -f -e<br><b=
+r>Fatal error: Call to undefined function socket_create() in C:PHPmegad-cfg=
+.php<br>on line 55<br><br>=C8=E7-=EF=EE=E4 =E2=E8=ED=E4=FB =EE=F8=E8=E1=EA=
+=E0.</span></p><br><p>2014-04-26 13:29:31 | =C8=EB=FC=FF<br><span class=3D"=
+comtxt">root@BOX:~/mega php megad-cfg.php -w -f -e<br>Downloading firmware.=
+.. OK<br>Connecting... OK<br>Erasing firmware... OK<br>Writing firmware... =
+FAULT<br>Restarting device... OK<br><br>=CA=E8=F0=EF=E8=F7 :(</span></p><br=
+><p>2014-04-11 09:54:48 | evgen<br><span class=3D"comtxt">=E4=EE=E1=F0=FB=
+=E9 =E4=E5=ED=FC <br>=E0 =E3=E4=E5 =EF=EE=F1=EC=EE=F2=F0=E5=F2=FC =E8=F1=F5=
+=EE=E4=ED=E8=EA=E8 =E7=E0=E3=F0=F3=E7=F7=E8=EA=E0</span></p><br><p>2014-02-=
+20 13:31:47 | andvas<br><span class=3D"comtxt">C=EF=E0=F1=E8=E1=EE</span></=
+p><br></div><div id=3D"ex"></div><br><div id=3D"contact"><a href=3D"https:/=
+/web.archive.org/web/20170818175247/http://www.ab-log.ru/srv/sendmail">=D1=
+=E2=FF=E7=E0=F2=FC=F1=FF =F1 =E0=E2=F2=EE=F0=EE=EC =F1=E0=E9=F2=E0</a><br><=
+/div><div class=3D"js-sticky-limit"></div></div></div></div>
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 17:52:47 Aug 18, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:56:42 Mar 26, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 173.012 (3)
+  CDXLines.iter: 18.625 (3)
+  PetaboxLoader3.datanode: 307.484 (4)
+  exclusion.robots.policy: 0.318
+  PetaboxLoader3.resolve: 28.705
+  load_resource: 168.987
+  RedisCDXSource: 12.641
+  exclusion.robots: 0.334
+  captures_list: 208.599
+  esindex: 0.012
+--><div at-magnifier-wrapper=3D""><div class=3D"at-theme-light"><div class=
+=3D"at-base notranslate" translate=3D"no"><div class=3D"Z1-AJ" style=3D"top=
+: 0px; left: 0px;"></div></div></div></div></body></html>
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1df5e40a-c260-437e-9131-8cf1295bc6d7@mhtml.blink
+
+@charset "windows-1251";
+
+body { margin-top: 0px !important; padding-top: 0px !important; }
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web.archive.org/_static/css/banner-styles.css?v=bsmaklHF
+
+@charset "utf-8";
+
+@import url("record.css");
+
+#wm-ipp-base { min-height: 65px; padding: 0px; margin: 0px; border: none; b=
+ackground: none transparent; }
+
+#wm-ipp { z-index: 2147483647; }
+
+#wm-ipp, #wm-ipp * { font-family: "Lucida Grande", Helvetica, Arial, sans-s=
+erif; font-size: 12px; line-height: 1.2; letter-spacing: 0px; width: auto; =
+height: auto; max-width: none; max-height: none; min-height: 0px; outline: =
+none; float: none; text-align: left; border: none; color: rgb(0, 0, 0); tex=
+t-indent: 0px; position: initial; background: none; min-width: 0px !importa=
+nt; }
+
+#wm-ipp div, #wm-ipp canvas { display: block; }
+
+#wm-ipp div, #wm-ipp tr, #wm-ipp td, #wm-ipp a, #wm-ipp form { padding: 0px=
+; margin: 0px; border: none; border-radius: 0px; background-color: transpar=
+ent; background-image: none; height: auto; }
+
+#wm-ipp table { border: none; border-collapse: collapse; margin: 0px; paddi=
+ng: 0px; width: auto; font-size: inherit; }
+
+#wm-ipp form input { height: auto; display: inline; margin: 0px; color: rgb=
+(0, 0, 0); background: none rgb(255, 255, 255); border: 1px solid rgb(102, =
+102, 102); padding: 1px !important; }
+
+#wm-ipp form input[type=3D"submit"] { padding: 0px 8px !important; margin: =
+1px 0px 1px 5px !important; width: auto !important; border: 1px solid rgb(0=
+, 0, 0) !important; background: rgb(255, 255, 255) !important; color: rgb(0=
+, 0, 0) !important; }
+
+#wm-ipp a { display: inline; }
+
+#wm-ipp a:hover { text-decoration: underline; }
+
+#wm-ipp a.wm-btn:hover { text-decoration: none; color: rgb(255, 255, 0) !im=
+portant; }
+
+#wm-ipp a.wm-btn:hover span { color: rgb(255, 255, 0) !important; }
+
+#wm-ipp #wm-ipp-inside { margin: 0px 6px; border-right: 5px solid rgb(0, 0,=
+ 0); border-bottom: 5px solid rgb(0, 0, 0); border-left: 5px solid rgb(0, 0=
+, 0); border-image: initial; border-top: none; background-color: rgba(255, =
+255, 255, 0.9); box-shadow: rgb(51, 51, 51) 1px 1px 4px; border-radius: 0px=
+ 0px 8px 8px; }
+
+#wm-ipp #wm-logo { padding: 0px 10px; vertical-align: middle; min-width: 11=
+0px; width: 15%; }
+
+#wm-ipp table tr::before, #wm-ipp table tr::after { margin: 0px; height: au=
+to; }
+
+#wm-ipp table.c { vertical-align: top; margin-left: 4px; }
+
+#wm-ipp table.c td { border: none !important; }
+
+#wm-ipp .c td.u { text-align: center; padding: 3px 0px !important; }
+
+#wm-ipp .c td.n { vertical-align: bottom; padding: 0px 0px 0px 5px !importa=
+nt; }
+
+#wm-ipp .c td.n a { text-decoration: none; color: rgb(51, 51, 255); font-we=
+ight: bold; }
+
+#wm-ipp .c td.n td.b { overflow: visible; white-space: nowrap; color: rgb(1=
+53, 153, 170); vertical-align: middle; padding: 0px 6px 0px 0px !important;=
+ text-align: right !important; }
+
+#wm-ipp .c td.n tr.y td.b { padding: 0px 6px 2px 0px !important; }
+
+#wm-ipp .c td.n td.c { background: rgb(0, 0, 0); color: rgb(255, 255, 0); f=
+ont-weight: bold; text-align: center; padding: 0px !important; }
+
+#wm-ipp.hi .c td.n td.c { color: rgb(236, 0, 140); }
+
+#wm-ipp .c td.n td.f { overflow: visible; white-space: nowrap; color: rgb(1=
+53, 153, 170); vertical-align: middle; padding: 0px 0px 0px 6px !important;=
+ text-align: left !important; }
+
+#wm-ipp .c td.n tr.m td { text-transform: uppercase; white-space: nowrap; p=
+adding: 2px 0px; }
+
+#wm-ipp .c td.s { text-align: center; vertical-align: bottom; padding: 0px =
+5px 0px 0px !important; }
+
+#wm-ipp #wm-nav-captures { white-space: nowrap; }
+
+#wm-ipp .c td.s a.t { color: rgb(51, 51, 255); font-weight: bold; line-heig=
+ht: 1.8; }
+
+#wm-ipp .c td.s div.r { color: rgb(102, 102, 102); font-size: 9px; white-sp=
+ace: nowrap; }
+
+#wm-ipp .c td.k { vertical-align: bottom; padding-bottom: 2px; }
+
+#wm-ipp .c td.s { padding: 0px 5px 2px 0px !important; }
+
+#wm-ipp td#displayMonthEl { padding: 2px 0px !important; }
+
+#wm-ipp td#displayYearEl { padding: 0px 0px 2px !important; }
+
+div#wm-ipp-sparkline { position: relative; white-space: nowrap; background-=
+color: rgb(255, 255, 255); cursor: pointer; line-height: 0.9; }
+
+#sparklineImgId, #wm-sparkline-canvas { position: relative; z-index: 9012; =
+max-width: none; }
+
+#wm-ipp-sparkline div.yt { position: absolute; top: 0px; z-index: 9010 !imp=
+ortant; background-color: rgb(255, 255, 0) !important; }
+
+#wm-ipp-sparkline div.mt { position: absolute; top: 0px; z-index: 9013 !imp=
+ortant; background-color: rgb(236, 0, 140) !important; }
+
+#wm-ipp .r { position: relative; }
+
+#wm-ipp .r a { color: rgb(51, 51, 255); border: none; position: relative; b=
+ackground-color: transparent; text-decoration: none; background-repeat: no-=
+repeat !important; background-position: 100% 100% !important; }
+
+#wm-ipp #wm-capinfo { border-radius: 0px 0px 4px 4px; }
+
+#wm-ipp #wm-capinfo .c-logo { display: block; float: left; margin-right: 3p=
+x; width: 90px; min-height: 90px; max-height: 290px; border-radius: 45px; o=
+verflow: hidden; background-position: 50% center; background-size: auto 90p=
+x; box-shadow: rgb(208, 208, 208) 0px 0px 2px 2px inset; }
+
+#wm-ipp #wm-capinfo .c-logo span { display: inline-block; }
+
+#wm-ipp #wm-capinfo .c-logo img { height: 90px; position: relative; left: -=
+50%; }
+
+#wm-ipp #wm-capinfo .wm-title { font-size: 130%; }
+
+#wm-ipp #wm-capinfo a.wm-selector { display: inline-block; color: rgb(170, =
+170, 170); padding: 2px 8px; text-decoration: none !important; }
+
+#wm-ipp #wm-capinfo a.wm-selector.selected { background-color: rgb(102, 102=
+, 102); }
+
+#wm-ipp #wm-capinfo a.wm-selector:hover { color: rgb(255, 255, 255); }
+
+#wm-ipp #wm-capinfo.notice-only #wm-capinfo-collected-by, #wm-ipp #wm-capin=
+fo.notice-only #wm-capinfo-timestamps { display: none; }
+
+#wm-ipp #wm-capinfo #wm-capinfo-notice .wm-capinfo-content { background-col=
+or: rgb(255, 255, 0); padding: 5px; font-size: 14px; text-align: center; }
+
+#wm-ipp #wm-capinfo #wm-capinfo-notice .wm-capinfo-content * { font-size: 1=
+4px; text-align: center; }
+
+#wm-ipp #wm-expand { right: 1px; bottom: -1px; color: rgb(255, 255, 255); b=
+ackground-color: rgb(102, 102, 102) !important; padding: 0px 5px 0px 3px !i=
+mportant; border-radius: 3px 3px 0px 0px !important; }
+
+#wm-ipp #wm-expand span { color: rgb(255, 255, 255); }
+
+#wm-ipp #wm-expand #wm-expand-icon { display: inline-block; transition: tra=
+nsform 0.5s ease 0s; transform-origin: 50% 45%; }
+
+#wm-ipp #wm-expand.wm-open #wm-expand-icon { transform: rotate(180deg); }
+
+#wm-ipp #wmtb { text-align: right; }
+
+#wm-ipp #wmtb #wmtbURL { width: calc(100% - 45px); }
+
+#wm-ipp #wm-graph-anchor { border-right: 1px solid rgb(204, 204, 204); }
+
+html.wb-highlight { box-shadow: rgb(165, 14, 58) 0px 0px 0px 3px inset !imp=
+ortant; }
+
+.wb-highlight { outline: rgb(165, 14, 58) solid 3px !important; }
+
+@media (min-width: 946px) {
+  #wm-ipp #wm-graph-anchor { display: block !important; }
+}
+
+@media (max-width: 945px) {
+  #wm-ipp #wm-graph-anchor { display: none !important; }
+  #wm-ipp table.c { width: calc(100% - 131px); }
+}
+
+@media (max-width: 1118px) {
+  #wm-logo { display: none !important; }
+}
+
+#wm-btns { white-space: nowrap; }
+
+#wm-btns > #wm-save-snapshot-open { margin-right: 7px; top: -6px; }
+
+#wm-btns > #wm-sign-in { box-sizing: content-box; display: none; margin-rig=
+ht: 7px; top: -8px; border: 2px solid rgb(0, 0, 0); border-radius: 14px; pa=
+dding-right: 2px; padding-bottom: 2px; width: 11px; height: 11px; }
+
+#wm-btns > #wm-sign-in > .iconochive-person { font-size: 12.5px; }
+
+#wm-save-snapshot-open > .iconochive-web { color: rgb(0, 0, 0); font-size: =
+160%; }
+
+#wm-ipp #wm-share { display: flex; align-items: flex-end; justify-content: =
+space-between; }
+
+#wm-share > #wm-screenshot { display: inline-block; margin-right: 3px; visi=
+bility: hidden; }
+
+#wm-screenshot > .iconochive-image { color: rgb(0, 0, 0); font-size: 160%; =
+}
+
+#wm-btns > #wm-save-snapshot-in-progress { display: none; font-size: 160%; =
+opacity: 0.5; position: relative; margin-right: 7px; top: -5px; }
+
+#wm-btns > #wm-save-snapshot-success { display: none; color: green; positio=
+n: relative; top: -7px; }
+
+#wm-btns > #wm-save-snapshot-fail { display: none; color: red; position: re=
+lative; top: -7px; }
+
+.wm-icon-screen-shot { display: inline-block; background: url("../images/we=
+b-screenshot.svg") 0% 0% / contain no-repeat !important; width: 22px !impor=
+tant; height: 19px !important; }
+
+#donato { transition: height 0.5s ease 0s; height: 0px; margin: 0px; paddin=
+g: 0px; }
+
+body.wm-modal { height: auto !important; overflow: hidden !important; }
+
+#donato #donato-base { width: 100%; height: 100%; bottom: 0px; margin: 0px;=
+ padding: 0px; position: absolute; z-index: 2147483639; }
+
+body.wm-modal #donato #donato-base { position: fixed; inset: 0px; z-index: =
+2147483640; }
+
+.wb-autocomplete-suggestions { font-family: "Lucida Grande", Helvetica, Ari=
+al, sans-serif; font-size: 12px; text-align: left; cursor: default; border-=
+width: 0px 1px 1px; border-right-style: solid; border-bottom-style: solid; =
+border-left-style: solid; border-right-color: rgb(204, 204, 204); border-bo=
+ttom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); bord=
+er-image: initial; border-top-style: initial; border-top-color: initial; ba=
+ckground: rgb(255, 255, 255); box-shadow: rgba(0, 0, 0, 0.1) -1px 1px 3px; =
+position: absolute; display: none; z-index: 2147483647; max-height: 254px; =
+overflow: hidden auto; box-sizing: border-box; }
+
+.wb-autocomplete-suggestion { position: relative; padding: 0px 0.6em; line-=
+height: 23px; white-space: nowrap; overflow: hidden; text-overflow: ellipsi=
+s; font-size: 1.02em; color: rgb(51, 51, 51); }
+
+.wb-autocomplete-suggestion b { font-weight: bold; }
+
+.wb-autocomplete-suggestion.selected { background: rgb(240, 240, 240); }
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web.archive.org/_static/css/record.css
+
+@charset "utf-8";
+
+.__wb_overlay { opacity: 0.6; background-color: rgb(0, 0, 0); position: fix=
+ed; width: 100%; height: 100%; top: 0px; left: 0px; padding: 0px !important=
+; border: 0px !important; margin: 0px !important; border-radius: 0px !impor=
+tant; z-index: 2147483643 !important; }
+
+#__wb_record_overlay_div { cursor: wait !important; }
+
+.__wb_record_content { opacity: 1; position: fixed; top: 50%; left: 50%; bo=
+rder-radius: 8px; box-shadow: rgb(0, 0, 0) 0px 0px 30px 5px; margin: 0px !i=
+mportant; padding: 0px !important; background-color: rgb(255, 255, 255) !im=
+portant; z-index: 2147483644 !important; }
+
+#__wb_record_content_loader { cursor: wait !important; padding-top: 30px !i=
+mportant; margin-left: -287px !important; margin-top: -177px !important; wi=
+dth: 574px !important; height: 355px !important; }
+
+#__wb_record_content_done { margin-left: -427px !important; margin-top: -17=
+7px !important; width: 855px !important; height: 355px !important; }
+
+.__wb_record_content > * { margin: auto !important; display: block !importa=
+nt; text-align: center !important; font-family: "Open Sans", "Helvetica Neu=
+e", Helvetica, Arial, sans-serif !important; }
+
+.__wb_record_content > wb_h1 { line-height: 2em; font-size: 36px !important=
+; color: rgb(34, 34, 34) !important; margin: 0px !important; padding: 0px !=
+important; font-weight: normal !important; width: auto !important; height: =
+auto !important; }
+
+.__wb_record_content > wb_p { line-height: 2em; font-size: 17px !important;=
+ color: rgb(34, 34, 34) !important; margin: 8px 0px !important; padding: 0p=
+x !important; }
+
+.__wb_record_content > #_wb_logo { margin-bottom: 10px !important; }
+
+.__wb_record_content > #_wb_spinner { margin-top: 30px !important; margin-b=
+ottom: 30px !important; }
+
+.__wb_record_content > #_wb_curr_url { text-decoration: underline !importan=
+t; font-weight: bold !important; }
+
+#__wb_record_content_done > #__wb_link { font-size: 20px !important; border=
+: 1px solid rgb(170, 170, 170) !important; padding: 3px !important; text-al=
+ign: center !important; width: 80% !important; height: auto !important; }
+
+#__wb_record_content_done > #__wb_link:focus { outline: 0px !important; bor=
+der-color: rgb(66, 139, 202) !important; }
+
+#__wb_record_content_done > #__wb_donate_close { float: right; display: inl=
+ine-block; font-size: 18px !important; width: auto !important; margin: 0px =
+!important; padding: 8px 8px 0px 0px !important; }
+
+#__wb_donate_close > #__wb_record_done_close { display: inline-block; curso=
+r: pointer !important; vertical-align: bottom !important; }
+
+#__wb_record_content_done > #__wb_donate_close a { color: rgb(66, 139, 202)=
+ !important; }
+
+#__wb_record_content_done > #__wb_donate_close a:link { color: rgb(66, 139,=
+ 202) !important; text-decoration: none !important; margin-right: 16px !imp=
+ortant; }
+
+#__wb_record_content_done > #__wb_donate_close a:visited { color: rgb(66, 1=
+39, 202) !important; }
+
+#__wb_record_content_done > #__wb_donate_close a:hover { color: rgb(0, 177,=
+ 247) !important; }
+
+#__wb_spinningSquaresG { position: relative; width: 240px; height: 20px; pa=
+dding: 0px !important; margin: 30px 0px 30px 160px !important; border: 0px =
+!important; border-radius: 0px !important; }
+
+.__wb_spinningSquaresG { position: absolute; top: 0px; background-color: rg=
+b(0, 0, 0); width: 22px; height: 22px; animation-name: bounce_spinningSquar=
+esG; animation-duration: 1.9s; animation-iteration-count: infinite; transfo=
+rm: scale(0.3); margin: 0px !important; padding: 0px !important; border: 0p=
+x !important; border-radius: 0px !important; }
+
+#__wb_spinningSquaresG_1 { left: 0px; animation-delay: 0.76s; }
+
+#__wb_spinningSquaresG_2 { left: 30px; animation-delay: 0.95s; }
+
+#__wb_spinningSquaresG_3 { left: 60px; animation-delay: 1.14s; }
+
+#__wb_spinningSquaresG_4 { left: 90px; animation-delay: 1.33s; }
+
+#__wb_spinningSquaresG_5 { left: 120px; animation-delay: 1.52s; }
+
+#__wb_spinningSquaresG_6 { left: 150px; animation-delay: 1.71s; }
+
+#__wb_spinningSquaresG_7 { left: 180px; animation-delay: 1.9s; }
+
+#__wb_spinningSquaresG_8 { left: 210px; animation-delay: 2.09s; }
+
+@-webkit-keyframes bounce_spinningSquaresG {=20
+  0% { transform: scale(1); background-color: rgb(0, 0, 0); }
+  100% { transform: scale(0.3) rotate(90deg); background-color: rgb(255, 25=
+5, 255); }
+}
+
+@keyframes bounce_spinningSquaresG {=20
+  0% { transform: scale(1); background-color: rgb(0, 0, 0); }
+  100% { transform: scale(0.3) rotate(90deg); background-color: rgb(255, 25=
+5, 255); }
+}
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web.archive.org/_static/css/iconochive.css?v=qtvMKcIJ
+
+@charset "utf-8";
+
+@font-face { font-family: Iconochive-Regular; src: url("https://archive.org=
+/includes/fonts/Iconochive-Regular.eot?#iefix-ccsheb") format("embedded-ope=
+ntype"), url("https://archive.org/includes/fonts/Iconochive-Regular.woff?-c=
+csheb") format("woff"), url("https://archive.org/includes/fonts/Iconochive-=
+Regular.ttf?-ccsheb") format("truetype"), url("https://archive.org/includes=
+/fonts/Iconochive-Regular.svg?-ccsheb#Iconochive-Regular") format("svg"); f=
+ont-weight: normal; font-style: normal; }
+
+[class^=3D"iconochive-"], [class*=3D" iconochive-"] { speak: none; font-sty=
+le: normal; font-weight: normal; font-variant: normal; text-transform: none=
+; line-height: 1; -webkit-font-smoothing: antialiased; font-family: Iconoch=
+ive-Regular !important; }
+
+.iconochive-Uplevel::before { content: "=E2=86=B5"; }
+
+.iconochive-exit::before { content: "=F0=9F=9A=A3"; }
+
+.iconochive-beta::before { content: "=CE=B2"; }
+
+.iconochive-logo::before { content: "=F0=9F=8F=9B"; }
+
+.iconochive-audio::before { content: "=F0=9F=95=A8"; }
+
+.iconochive-movies::before { content: "=F0=9F=8E=9E"; }
+
+.iconochive-software::before { content: "=F0=9F=92=BE"; }
+
+.iconochive-texts::before { content: "=F0=9F=95=AE"; }
+
+.iconochive-etree::before { content: "=F0=9F=8E=A4"; }
+
+.iconochive-image::before { content: "=F0=9F=96=BC"; }
+
+.iconochive-web::before { content: "=F0=9F=97=94"; }
+
+.iconochive-collection::before { content: "=E2=88=91"; }
+
+.iconochive-folder::before { content: "=F0=9F=93=82"; }
+
+.iconochive-data::before { content: "=F0=9F=97=83"; }
+
+.iconochive-tv::before { content: "=F0=9F=93=BA"; }
+
+.iconochive-article::before { content: "=F0=9F=97=8F"; }
+
+.iconochive-question::before { content: "=E2=8D=B0"; }
+
+.iconochive-question-dark::before { content: "?"; }
+
+.iconochive-info::before { content: "i"; }
+
+.iconochive-info-small::before { content: "=E2=93=98"; }
+
+.iconochive-comment::before { content: "=F0=9F=97=A9"; }
+
+.iconochive-comments::before { content: "=F0=9F=97=AA"; }
+
+.iconochive-person::before { content: "=F0=9F=91=A4"; }
+
+.iconochive-people::before { content: "=F0=9F=91=A5"; }
+
+.iconochive-eye::before { content: "=F0=9F=91=81"; }
+
+.iconochive-rss::before { content: "=E2=88=9E"; }
+
+.iconochive-time::before { content: "=F0=9F=95=91"; }
+
+.iconochive-quote::before { content: "=E2=9D=9D"; }
+
+.iconochive-disc::before { content: "=F0=9F=92=BF"; }
+
+.iconochive-tv-commercial::before { content: "=F0=9F=92=B0"; }
+
+.iconochive-search::before { content: "=F0=9F=94=8D"; }
+
+.iconochive-search-star::before { content: "=E2=9C=BD"; }
+
+.iconochive-tiles::before { content: "=E2=8A=9E"; }
+
+.iconochive-list::before { content: "=E2=87=B6"; }
+
+.iconochive-list-bulleted::before { content: "=E2=8C=97"; }
+
+.iconochive-latest::before { content: "=E2=88=88"; }
+
+.iconochive-left::before { content: "=CB=82"; }
+
+.iconochive-right::before { content: "=CB=83"; }
+
+.iconochive-left-solid::before { content: "=E2=97=82"; }
+
+.iconochive-right-solid::before { content: "=E2=96=B8"; }
+
+.iconochive-up-solid::before { content: "=E2=96=B4"; }
+
+.iconochive-down-solid::before { content: "=E2=96=BE"; }
+
+.iconochive-dot::before { content: "=E2=8F=A4"; }
+
+.iconochive-dots::before { content: "=E2=96=A6"; }
+
+.iconochive-columns::before { content: "=E2=96=AF"; }
+
+.iconochive-sort::before { content: "=E2=87=95"; }
+
+.iconochive-atoz::before { content: "=F0=9F=94=A4"; }
+
+.iconochive-ztoa::before { content: "=F0=9F=94=A5"; }
+
+.iconochive-upload::before { content: "=F0=9F=93=A4"; }
+
+.iconochive-download::before { content: "=F0=9F=93=A5"; }
+
+.iconochive-favorite::before { content: "=E2=98=85"; }
+
+.iconochive-heart::before { content: "=E2=99=A5"; }
+
+.iconochive-play::before { content: "=E2=96=B6"; }
+
+.iconochive-play-framed::before { content: "=F0=9F=8E=AC"; }
+
+.iconochive-fullscreen::before { content: "=E2=9B=B6"; }
+
+.iconochive-mute::before { content: "=F0=9F=94=87"; }
+
+.iconochive-unmute::before { content: "=F0=9F=94=8A"; }
+
+.iconochive-share::before { content: "=F0=9F=8E=81"; }
+
+.iconochive-edit::before { content: "=E2=9C=8E"; }
+
+.iconochive-reedit::before { content: "=E2=9C=90"; }
+
+.iconochive-gear::before { content: "=E2=9A=99"; }
+
+.iconochive-remove-circle::before { content: "=E2=9D=8E"; }
+
+.iconochive-plus-circle::before { content: "=F0=9F=97=96"; }
+
+.iconochive-minus-circle::before { content: "=F0=9F=97=95"; }
+
+.iconochive-x::before { content: "=F0=9F=97=99"; }
+
+.iconochive-fork::before { content: "=E2=8B=94"; }
+
+.iconochive-trash::before { content: "=F0=9F=97=91"; }
+
+.iconochive-warning::before { content: "=E2=9A=A0"; }
+
+.iconochive-flash::before { content: "=F0=9F=97=B2"; }
+
+.iconochive-world::before { content: "=F0=9F=97=BA"; }
+
+.iconochive-lock::before { content: "=F0=9F=94=92"; }
+
+.iconochive-unlock::before { content: "=F0=9F=94=93"; }
+
+.iconochive-twitter::before { content: "=F0=9F=90=A6"; }
+
+.iconochive-facebook::before { content: "f"; }
+
+.iconochive-googleplus::before { content: "g"; }
+
+.iconochive-reddit::before { content: "=F0=9F=91=BD"; }
+
+.iconochive-tumblr::before { content: "T"; }
+
+.iconochive-pinterest::before { content: "=F0=9D=93=9F"; }
+
+.iconochive-popcorn::before { content: "=F0=9F=92=A5"; }
+
+.iconochive-email::before { content: "=F0=9F=93=A7"; }
+
+.iconochive-embed::before { content: "=F0=9F=94=97"; }
+
+.iconochive-gamepad::before { content: "=F0=9F=95=B9"; }
+
+.iconochive-Zoom_In::before { content: "+"; }
+
+.iconochive-Zoom_Out::before { content: "-"; }
+
+.iconochive-RSS::before { content: "=F0=9F=93=A8"; }
+
+.iconochive-Light_Bulb::before { content: "=F0=9F=92=A1"; }
+
+.iconochive-Add::before { content: "=E2=8A=95"; }
+
+.iconochive-Tab_Activity::before { content: "=E2=8C=98"; }
+
+.iconochive-Forward::before { content: "=E2=8F=A9"; }
+
+.iconochive-Backward::before { content: "=E2=8F=AA"; }
+
+.iconochive-No_Audio::before { content: "=F0=9F=94=88"; }
+
+.iconochive-Pause::before { content: "=E2=8F=B8"; }
+
+.iconochive-No_Favorite::before { content: "=E2=98=86"; }
+
+.iconochive-Unike::before { content: "=E2=99=A1"; }
+
+.iconochive-Song::before { content: "=E2=99=AB"; }
+
+.iconochive-No_Flag::before { content: "=E2=9A=90"; }
+
+.iconochive-Flag::before { content: "=E2=9A=91"; }
+
+.iconochive-Done::before { content: "=E2=9C=93"; }
+
+.iconochive-Check::before { content: "=E2=9C=94"; }
+
+.iconochive-Refresh::before { content: "=E2=9F=B3"; }
+
+.iconochive-Headphones::before { content: "=F0=9F=8E=A7"; }
+
+.iconochive-Chart::before { content: "=F0=9F=93=88"; }
+
+.iconochive-Bookmark::before { content: "=F0=9F=93=91"; }
+
+.iconochive-Documents::before { content: "=F0=9F=93=9A"; }
+
+.iconochive-Newspaper::before { content: "=F0=9F=93=B0"; }
+
+.iconochive-Podcast::before { content: "=F0=9F=93=B6"; }
+
+.iconochive-Radio::before { content: "=F0=9F=93=BB"; }
+
+.iconochive-Cassette::before { content: "=F0=9F=93=BC"; }
+
+.iconochive-Shuffle::before { content: "=F0=9F=94=80"; }
+
+.iconochive-Loop::before { content: "=F0=9F=94=81"; }
+
+.iconochive-Low_Audio::before { content: "=F0=9F=94=89"; }
+
+.iconochive-First::before { content: "=F0=9F=8E=96"; }
+
+.iconochive-Invisible::before { content: "=F0=9F=95=B6"; }
+
+.iconochive-Computer::before { content: "=F0=9F=96=B3"; }
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://web.archive.org/web/20170818175247cs_/http://www.ab-log.ru/f/main.css
+
+@charset "utf-8";
+
+html { font-size: 100.01%; }
+
+body { width: 100%; font-size: 62.5%; line-height: 1; font-family: Arial, s=
+ans-serif; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); }
+
+input, select, textarea { font-size: 100%; }
+
+table { empty-cells: show; border-collapse: collapse; border-spacing: 2px; =
+border-color: rgb(153, 153, 153); font-size: 100%; }
+
+table tr td, table tr th { border-color: rgb(153, 153, 153); }
+
+h1, h2, h3, h4, h5, h6, pre, code, kbd { font-size: 1em; }
+
+dl, ul, ol, li, dd, dt, h1, h2, h3, h4, h5, h6, pre, form, body, html, p, b=
+lockquote, table, tr, td, th, fieldset, input { margin: 0px; padding: 0px; =
+list-style: none; }
+
+form label { cursor: pointer; }
+
+fieldset { border: none; }
+
+a img, :link img, :visited img { border: none; }
+
+address, abbr { font-style: normal; }
+
+body { background-color: rgb(245, 244, 240); font-family: Arial, Helvetica,=
+ sans-serif; font-size: 13px; background-image: url("/web/20170830133310im_=
+/http://ab-log.ru/f/none"); background-repeat: no-repeat; background-positi=
+on: 100% -350px; }
+
+a { color: rgb(2, 79, 157); }
+
+#cnv { margin: auto; position: relative; max-width: 1600px; min-width: 960p=
+x; }
+
+#ablog { height: 42px; width: 185px; position: absolute; left: 50px; top: 4=
+0px; }
+
+#goforum { height: 42px; width: 185px; position: absolute; right: 250px; to=
+p: 40px; background: url("/web/20170830133310im_/http://ab-log.ru/f/forum.p=
+ng") 0px 0px no-repeat; }
+
+#goshop { height: 36px; width: 123px; position: absolute; right: 500px; top=
+: 40px; background: url("/web/20170830133310im_/http://ab-log.ru/f/buy.png"=
+) 0px 0px no-repeat; }
+
+#sb { position: absolute; top: 50px; right: 50px; }
+
+#sb .in { font-family: Arial, Helvetica, sans-serif; font-size: 12px; paddi=
+ng: 3px; }
+
+#sb .but { color: rgb(255, 255, 255); background-color: rgb(155, 46, 45); f=
+ont-family: Arial, Helvetica, sans-serif; font-size: 12px; border-style: no=
+ne; padding: 3px 5px 2px; }
+
+#m1 { background-image: url("/web/20170830133310im_/http://ab-log.ru/f/domb=
+g.jpg"); background-position: 0px 100%; position: absolute; width: 100%; le=
+ft: 0px; top: 100px; right: 0px; }
+
+#m1 a { display: block; float: left; margin-top: 10px; margin-bottom: 10px;=
+ margin-left: 52px; background-image: url("/web/20170830133310im_/http://ab=
+-log.ru/f/m-a.png"); background-repeat: repeat-x; background-position: 0px =
+20px; }
+
+#m1 a:hover, #m1 a.current { background-image: url("/web/20170830133310im_/=
+http://ab-log.ru/f/m-hover.png"); }
+
+#mid { position: absolute; left: 10px; top: 170px; right: 10px; overflow: h=
+idden; padding-bottom: 50px; zoom: 1; }
+
+#lb { float: left; width: 30%; }
+
+#m2 li { display: block; margin-bottom: 7px; }
+
+#m2 li li { margin-bottom: 9px; }
+
+#m2 li a { font-weight: bold; line-height: 135%; }
+
+#m2 li li a { font-weight: normal; padding-left: 15px; background-image: ur=
+l("/web/20170830133310im_/http://ab-log.ru/f/m-hover.png"); background-repe=
+at: no-repeat; display: block; background-position: -16px 9px; font-family:=
+ Arial, Tahoma, Geneva, sans-serif; font-size: 12px; color: rgb(155, 46, 45=
+); }
+
+#m2 a.current { color: rgb(0, 0, 0); text-decoration: none; }
+
+#m2 .ethernet { font-size: 14px; }
+
+#rb { margin-left: 35%; }
+
+#cnt p { margin-top: 10px; margin-bottom: 10px; line-height: 135%; }
+
+#cnt ul { margin-top: 10px; margin-bottom: 10px; line-height: 135%; }
+
+#cnt ul li { list-style-type: disc; margin-left: 20px; margin-bottom: 5px; =
+}
+
+#cnt h1 { font-size: 24px; font-weight: normal; color: rgb(2, 79, 157); let=
+ter-spacing: -1px; margin-bottom: 15px; }
+
+#cnt h2 { font-size: 18px; color: rgb(51, 51, 51); }
+
+#cnt pre { padding: 10px; background-color: rgb(255, 255, 255); border: 1px=
+ solid rgb(204, 204, 204); font-size: 12px; font-family: Consolas, Monaco, =
+"Bitstream Vera Sans Mono", "Courier New", Courier, monospace; line-height:=
+ 120%; overflow: auto; }
+
+#so, #so1 { margin-top: 20px; margin-right: 20px; }
+
+#so label, #so1 label { display: block; font-size: 12px; color: rgb(72, 71,=
+ 71); margin-top: 10px; margin-bottom: 3px; }
+
+#so select, #so1 select { font-size: 11px; font-family: tahoma, verdana, ar=
+ial, helvetica, sans-serif; padding: 2px; border: 1px solid rgb(171, 173, 1=
+79); }
+
+#so .in, #so1 .in { padding: 2px; width: 500px; font-family: tahoma, verdan=
+a, arial, helvetica, sans-serif; font-size: 11px; border: 1px solid rgb(204=
+, 204, 204); }
+
+#so td .in { width: 90px; margin-bottom: 5px; margin-top: 5px; font-size: 1=
+4px; }
+
+#so td .but a { color: rgb(255, 255, 255); }
+
+#so td a:hover { color: rgb(10, 82, 165); }
+
+#so p, #so1 p { font-size: 12px; color: rgb(51, 51, 51); margin-top: 5px; m=
+argin-bottom: 5px; }
+
+#so .but, #so1 .but { font-weight: bold; color: rgb(255, 255, 255); backgro=
+und-color: rgb(10, 82, 165); font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 12px; padding: 5px 10px; border: 1px solid rgb(10, 82, 165); }
+
+#so .but:hover, #so1 .but:hover { background-color: rgb(255, 255, 255); col=
+or: rgb(10, 82, 165); }
+
+#so #word, #so1 #word1 { width: 5em; margin-bottom: 10px; margin-right: 5px=
+; float: left; margin-top: 5px; }
+
+.errlabel { font-weight: bold; }
+
+#so label.errlabel span, #so1 label.errlabel span { display: inline; color:=
+ rgb(204, 0, 0); padding: 0px 2px; }
+
+#so label span, #so1 label span { display: none; }
+
+#so table { margin-top: 10px; margin-bottom: 10px; }
+
+#so td, #so th { padding: 3px; border-bottom: 1px solid rgb(204, 204, 204);=
+ }
+
+.comtxt { padding-left: 20px; line-height: 16px; display: block; margin-bot=
+tom: 10px; padding-top: 5px; padding-bottom: 5px; }
+
+.autor { border-left: 1px solid rgb(10, 82, 165); background-color: rgb(255=
+, 255, 255); }
+
+#m2 li li li a { padding-left: 8px; background-position: 0px 8px; backgroun=
+d-repeat: no-repeat; background-image: url("/web/20170830133310im_/http://a=
+b-log.ru/f/b2.gif"); margin-left: 18px; }
+
+#qst label { display: block; margin: 5px 0px; }
+
+#qst #but { margin: 5px 0px; background-color: rgb(0, 62, 140); color: rgb(=
+255, 255, 255); padding: 5px 20px; }
+
+.price td { line-height: 1.3; }
+
+.alb, .alb-txt { overflow: hidden; zoom: 1; }
+
+.alb-txt div { text-align: center; font-family: Tahoma, Geneva, sans-serif;=
+ font-size: 11px; float: left; margin-right: 10px; margin-bottom: 10px; pad=
+ding-top: 5px; padding-left: 5px; height: 165px; }
+
+.alb div { text-align: center; float: left; margin-right: 10px; margin-bott=
+om: 10px; border: 1px dotted rgb(41, 141, 193); padding-top: 5px; padding-l=
+eft: 5px; height: 135px; }
+
+.alb div img, .alb-txt div img { margin-right: 5px; height: 125px; }
+
+.t1 { width: 100%; border: 1px solid rgb(204, 204, 204); }
+
+.t1 th { padding: 5px; border: 1px solid rgb(204, 204, 204); text-align: le=
+ft; font-weight: bold; background-color: rgb(223, 223, 206); }
+
+.t1 td { padding: 5px; border: 1px solid rgb(204, 204, 204); }
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170830133310im_/http://ab-log.ru/f/forum.png
+
+iVBORw0KGgoAAAANSUhEUgAAAH8AAAAiCAMAAABBc/YIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA5dpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVz
+b3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5z
+OmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1wTU06RG9jdW1lbnRJRD0i
+eG1wLmRpZDpCNkQyQUEwMjRCMEUxMUUwQjc3RDg3REIxM0Q0N0QzNyIgeG1wTU06SW5zdGFuY2VJ
+RD0ieG1wLmlpZDpCNkQyQUEwMTRCMEUxMUUwQjc3RDg3REIxM0Q0N0QzNyIgeG1wOkNyZWF0b3JU
+b29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBz
+dFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjZDNUQwMjc4NEFFRDExRTBCRkE2RjZBRUFFNkVGNzRC
+IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjZDNUQwMjc5NEFFRDExRTBCRkE2RjZBRUFFNkVG
+NzRCIi8+IDxkYzpjcmVhdG9yPiA8cmRmOlNlcT4gPHJkZjpsaT51bmtub3duPC9yZGY6bGk+IDwv
+cmRmOlNlcT4gPC9kYzpjcmVhdG9yPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6
+eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PruIO18AAACfUExURYSnydXe5SJlqBJao9/DwEN7
+s2ORvlOGuaS91LTI2sTT3+Xp6nOcxDNwrpSyz8OFg7nL2xFZor15dqE6OdOqp9m3tKZHRZq30axT
+UvDo5efq66rB1urc2LJgXtfg5k6Dt8jW4QhTn8iRj12NvH2ixzBurT94souszCBkp22XwcHQ3uTQ
+zGuWwY2uzZy40pu30bfK23CZwpsuLQJPnfX08IsNqbkAAAA1dFJOU///////////////////////
+//////////////////////////////////////////////8AfLXQCgAAAxpJREFUeNrkV9d24jAQ
+VQGMKxhDGiQkhO0d6f+/bTVFMjY2YQ+Bl50Ho1HxnblTLIQFWU3udg25mS3sVUTAY7LrkJvBlfDv
+73bdMrkKfi/8bje7Bj6R/zgf7MliUl2JAbFCoHl7/n6G8xfPATHphHcyxyS8OD5E/7FzCRnoKsOR
+Merd8PvcdyGoelJwaIx5V/yeKE96AvDu+D1ri561a+EP/k/8h08fDMgv4v/PQ/PA0JCIcXMqi2Gc
+GqNtKpw+dHrmfiXuidyEtbnTc5qALSbpwF+WDMD5Z8plvViYPRnimxLl9cxp0v3GmvQCQQSbZSJc
+NGaEp8iHQ/xb/7bvXH9ueBs8NQ1RqQPUtS4sQ7BIgM3h4BjNiXFWp+FNowP8JUx/vJ1Op9x/fju9
+5BBIAsH4F4oAQYkkNiV4M25RsZUKCYmQZKTfpMieG0HgchxFbfyHMrjr+y8Q8iU0PjhM+QdIGolV
+e4swqyAuMbo+5rBowAKntcCRoz8fwYYW/o+Xl5efre/P2pjPtKoAMeQ/+jb2EbY0kj7AAGnwqWlt
+jOmoJNLkrBBgTWf93Te/v8tQbgaT2ONDCOMCA2vZ4X18hbugAmLgBqKORZCDKe6RwPm6/84f++4f
+T+fgJ6gT/XAwgmOZ9LGRiL+xq7sj96+Arw/4l8Ux/jUlmmb6waQMLFKCByYW4Ha1qI7dPwN+1Mg/
+DZmXMCc0m1D+pdwpcmaJ88aSrU7L/dZCzDtvfo37d8CP2/VXEM1RSumvbKi/hMsTC4Q5kXQiM1wz
+sENYz3y1Cde/Vj7W7T5q9p+IafeSNPsPNho+M+aeF7MXGYdD2BVxX32DzV+32+2z7cVHL4OMWj0x
+Zh9zXetsoPYjyZUZcw9yFFHubdr9pxPfJoLbvRIyTGnUU98iRxLMzPy6YncBH+3IuClHhE+1N2j0
+3+c+/Le+v3X+718XmYq+/1+d3x+U8vXJTs/DT/Wx6+oBfv39ZQueXf8tz8AXnv4T8cP9Y09ez8BX
+/Ak8GR9lSrImDp5Ovv8D26JtUGT/Gd/LGkNw4f//R2SKKXg5+SvAAJ2TEcKAOTl2AAAAAElFTkSu
+QmCC
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170830133310im_/http://ab-log.ru/f/buy.png
+
+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
+AAAAAElFTkSuQmCC
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170830133310im_/http://ab-log.ru/f/dombg.jpg
+
+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
+XH/ry/2j/wAYFw/Adx/4wO2X8P8AaYH/2Q==
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170830133310im_/http://ab-log.ru/f/m-a.png
+
+iVBORw0KGgoAAAANSUhEUgAAABwAAAABCAMAAAD6mz7jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAAZQTFRFmy4t/////tGf2wAAAAJ0Uk5T/wDltzBKAAAAD0lEQVR42mJg
+ZMANAQIMAADvAA+wgon2AAAAAElFTkSuQmCC
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170830133310im_/http://ab-log.ru/f/m-hover.png
+
+iVBORw0KGgoAAAANSUhEUgAAABwAAAABCAMAAAD6mz7jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAAZQTFRFAk+dAAAAfSbuJQAAAA5JREFUeNpiYMADAAIMAAAdAAGTil3e
+AAAAAElFTkSuQmCC
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png
+
+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
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/_static/images/toolbar/wm_tb_prv_on.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAMZJREFUeNqU07EKQWEUwHEuSSaLkicgg3TZzCySvIKk2GVgJZmsBg9g
+8QK8gcHoASwGNoMS/l+db6Au3zn1W279b+fe796w779Cyimi7ymCFBbYox51CGLoYIS0XHv+C2uY
+ynofExRmJWgG3fE7TGKMHuK/VrFhRJ7DRBmXN2XCBibIa87Ek5US2sM04Ro5DHDRhGbumMu6Szxc
+QztndFHGVhPaOaCKFo6a0Iz5+jcoYYira2jnhhkKWNlO83ec0EYFu7cAAwCVABzGI3/GxAAAAABJ
+RU5ErkJggg==
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/_static/images/toolbar/wm_tb_nxt_on.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAMhJREFUeNqU0s8KAUEcwPHBJjm5KHkCV+07cJHkKZRyUK6cKYeVPxd5
+BVcHjspB+VPKA7g4cHNQwndqp/awMb9ffdra+jazMxtx3c9UKTXCTgkmihK28JCWhG//2cARdcRt
+wuBkMMQGRUloJo8F5shJQjMV/9D6SElCPQk0cUINMdvQTBYTHFCWhGaSeheOILihiwGeNuELM7Rx
+NS//hUu0sLe9jjOqKIRFYSve0fP/nsevrTiBVfV3dHCxOSkdrjDGWnInXwEGAM40IjLd/vWIAAAA
+AElFTkSuQmCC
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/_static/images/loading.gif
+
+R0lGODlhFAAUAOMIAAAAABoaGjMzM0xMTGZmZoCAgJmZmbKysv//////////////////////////
+/////yH/C05FVFNDQVBFMi4wAwEAAAAh+QQBCgAIACwAAAAAFAAUAAAEUxDJSau9CADMteZTEEje
+hhzHJYqkiaLWOlZvGs8WDO6UIPAGw8TnAwWDEuKPcxQml0YnjzcYYAqFS7VqwWItWyuCQJB4s2Ax
+mWxGg9bl6YQtl0cAACH5BAEKAA8ALAAAAAAUABQAAART8MlJq70vBMy15pMgSN72AMAliqSJotY6
+Vm8azxYM7tQw8IfDxOcDBYMS4o9zFCaXRiePRyBgDIZLtWrBYi1b66NQkHizYDGZbEaD1uXphC2X
+RwAAIfkEAQoADwAsAAAAABQAFAAABFPwyUmrvU8IzLXm0zBI3vYEwSWKpImi1jpWbxrPFgzuFEHw
+AMDE5wMFgxLij3MUJpdGJ49XKGAOh0u1asFiLVvrw2CQeLNgMZlsRoPW5emELZdHAAAh+QQBCgAP
+ACwAAAAAFAAUAAAEU/DJSau9bwzMteYTQUje9gjCJYqkiaLWOlZvGs8WDO5UUfCBwMTnAwWDEuKP
+cxQml0Ynj2cwYACAS7VqwWItW+vjcJB4s2AxmWxGg9bl6YQtl0cAACH5BAEKAA8ALAAAAAAUABQA
+AART8MlJq72PEMy15lNRSN72DMMliqSJotY6Vm8azxYM7pRh8ALBxOcDBYMS4o9zFCaXRiePdzhg
+AoFLtWrBYi1b6wMAkHizYDGZbEaD1uXphC2XRwAAIfkEAQoADwAsAAAAABQAFAAABFPwyUmrva8U
+zLXmk2FI3vYQxCWKpImi1jpWbxrPFgzu1HHwg8HE5wMFgxLij3MUJpdGJ48HAGAEgku1asFiLVvr
+IxCQeLNgMZlsRoPW5emELZdHAAAh+QQBCgAPACwAAAAAFAAUAAAEU/DJSau9zxjMtebTcUje9hTF
+JYqkiaLWOlZvGs8WDO4UAPAEwsTnAwWDEuKPcxQml0YnjxcIYAaDS7VqwWItW+tDIJB4s2AxmWxG
+g9bl6YQtl0cAACH5BAEKAA8ALAAAAAAUABQAAART8MlJq73vHMy15hMASN72GMYliqSJotY6Vm8a
+zxYM7lQQ8IXCxOcDBYMS4o9zFCaXRiePJxBgCIRLtWrBYi1b62MwkHizYDGZbEaD1uXphC2XRwAA
+Ow==
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/f/ab-log.png
+
+iVBORw0KGgoAAAANSUhEUgAAALkAAAAqCAMAAADYgQqDAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEz
+NDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAv
+IiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RS
+ZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpD
+cmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNl
+SUQ9InhtcC5paWQ6REY1MzBFRDU0RjJEMTFFMEFCMzQ5NjQxMUI2NTI4MjQiIHhtcE1NOkRvY3Vt
+ZW50SUQ9InhtcC5kaWQ6REY1MzBFRDY0RjJEMTFFMEFCMzQ5NjQxMUI2NTI4MjQiPiA8eG1wTU06
+RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpERjUzMEVEMzRGMkQxMUUwQUIz
+NDk2NDExQjY1MjgyNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpERjUzMEVENDRGMkQxMUUw
+QUIzNDk2NDExQjY1MjgyNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1w
+bWV0YT4gPD94cGFja2V0IGVuZD0iciI/Phx7SXwAAAMAUExURf///wBVowBWo6MyLABWpImuzrnM
+3pkhIbjM3kSDuaMyK7ZiXrnO37nO3ufq7PPs6USDuM+UlKIxKwNhqvPt6bdjXrJWUqrD1xtsr2eZ
+xIqvzgNiqzF5tHmjyfPs6KIyK5q401WOwIqvz8jW4ujW0tji50OCuLlrZ8nX4qvD11WOvjF4tBps
+r8nX44mvzrRYWJq309jh5+fs7efs7LZiXbpsZ+jV0qvD2OnW0kODuLprZ6U8PNji6DF5tTB4tLJW
+U8J3d+nW0+TLyKc7OOPCwhpsru3h3sJ+ewNhq/Hs6LJXU8N/e9fh57praM6ZlqU4M3miycnW4rhl
+YZ8vL1aOwOrR0bpsaPHq57JYVOTMycyVkGeYw/Dq5vjv77xtamaYw7lpZe7l4qg7OLFWUtWiolWN
+vufSzq5MSLRcV+7i3/b08HiiyLpsaejs7cJ+erZjXtOnomeZw/Xz7+fRzq5NSK1LR9OlorRbV8uU
+j65LR+7l4W1tbW5ubm9vb3FxcXJycnR0dHV1dXZ2dnd3d3h4eHl5eXp6ent7e3x8fH19fX5+fn9/
+f4CAgIGBgYKCgoODg4SEhIWFhYaGhoeHh4iIiImJiYqKiouLi42NjY6Ojo+Pj5CQkJGRkZOTk5SU
+lJWVlZaWlpeXl5iYmJmZmZqampubm5ycnJ2dnZ6enp+fn6CgoKGhoaKioqOjo6SkpKWlpaenp6io
+qKqqqqurq6ysrK2tra6urq+vr7CwsLGxsbKysrOzs7S0tLW1tba2tre3t7i4uLm5ubq6ury8vL29
+vb6+vsDAwMHBwcLCwsPDw8TExMXFxcbGxsfHx8jIyMnJycrKysvLy8zMzM7Ozs/Pz9DQ0NHR0dLS
+0tPT09TU1NXV1dbW1tfX19jY2Nra2tvb29zc3N7e3t/f3+Dg4OHh4eLi4uPj4+Tk5OXl5ebm5ufn
+5+jo6Onp6erq6uzs7O3t7e7u7u/v7/Dw8PHx8fPz8/T09PX19fb29vf39/j4+Pr6+vv7+/z8/P39
+/f7+/v////P9WQoAAAABdFJOUwBA5thmAAAG80lEQVR42tRYZ3fbOBAkQIAmJZLikXbUrWZJtlzO
+JY5jp1ycfun1eu+9919/uwBIgpRk53JPH4T3YkUAQQwGs7MLGUa2ffPT72HB/PKPX4w5a6Wh2QrN
+gml+VJoz4EuIGlqhUHx9roAXAbP58M+HiH1peX6AL54tmKFZ/Mf4uBgC9qXFuQFeRKkUS4p8M3wh
+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
+QmCC
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/f/mp1.png
+
+iVBORw0KGgoAAAANSUhEUgAAAPgAAAAYCAMAAADgS8C7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAwBQTFRFozAwv7qnwbypvrmmu7ajubShwLuovLekuLOgw76rwr2qxL+s
+vbilurWiwr6qvrmnw7+rwb2pvrqmu7ejvLikv7unwLyoubWhuraipTk4xMCsvrqnw76sv7qoxL+t
+vLelubSiuLOhqVNOwr2rurWjuLSgvbmlwLypu7akubWiwb2qwLupxMCtu7ekuLShvLilvbimwbyq
+vbmmw7+sv7uoqlRPwr6rrFZRurajp0NAq1VQpkI/xL6sq1ZRsXlvqVRPwLqoqlVQv7mnqUxItXxy
+wbyoxL6rvquaurShuI6BrV5YtoV6u7WjqlVPvrilwr2pw72rt5SHr3dtupeJwbupxb+sq1xWtHxy
+vLCevbelqEtHxcCsubSgwLqnspCCsXlutJKEv7qms3txtJqKvLejurSir2hgrWZer3ZsuZeJsnpv
+tZKEw76qtHtxubOgwrypwbuouJaHvbikubOhw72qvLakv7Ohp0pGrnZswLuntqKSvrimxb+tv7mm
+xcCtrm9msHhupTo4p0NBtZOFsnpwu7ais5GDurWhvLajwrWku7Wiuq+csXFouK2au5mLuaWVs4J3
+qk1Jp0JAwryquZ6OsHdtuJWIu5qLtpSGupiJrGVevbekupiKsnNqtX1ytHxxs5GEuKuZq2Rdu5mM
+vKGStXxztIN3wKycwLSiuZ6PpDk3sntwtIN4uJaIuJeJsYB1pDk4pkJAu6CRt5WHq1VRupeKua6b
+sGlirmdftZSFtox/t6qZsH90r3ZtsHlutZOGsntxtZKFs4l9tIp9v6ybsnpxtpSHvamZqUxJsnJp
+tZqLsXpvrW1kuKyZtZOEsHBnrm9lsH9zu6iXsHhtsYd7soh7s5KDspGCuJaJr3dsuJeIpkE/t6OU
+q1ZQupiLu7ikrW5lupmLu5mKt5yMrV9ZvaKTuq2bqVNPrmdgsnlvvJmLvLmlvqqZt6SUuLSivLmm
+wr+rurejspGDs5CDs5GCvamavaqZrGVdvJmMuZCDr29nsXJpsYF2soB1t6STupmKjTDAPQAAAAJ0
+Uk5T/wDltzBKAAAG0ElEQVR42uxYWU9USRT+6mfUa/+Hm053p7tDuhMiph+ABDr90JAmQYHw4BOE
+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
+AABJRU5ErkJggg==
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/f/mp2.png
+
+iVBORw0KGgoAAAANSUhEUgAAAOMAAAAYCAMAAAA/BbqkAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAwBQTFRFozAwubShvrmmwr2qxL+swLuou7ajwbypv7qnurWivLekw76r
+vbiluLOgubWhvLikuLSgvrmnwLyowbyqu7ejvrqmwr6qxMCsw7+rvbmlwb2pxL+turaiv7unvbim
+uLOhqVNOubSivrqnwLupvLelw76su7akv7uourajvLilwr6ruLShw7+sv7qowr2ru7ekpTk4ubWi
+urWjrFZRqlRPxMCtq1VQwLypwb2qvbmmqlVPqlVQuZeJq1ZRsXlvp0NAqVRPpkI/sHhuxcCttJKE
+ubSgv7mnxb+txL6rwLqoqEtHvLaktpSGurWhtZOFwLunvrilsXluv7qmuaWVqUxIs3txwr2ptHxy
+uJWHupeJwLSirm9mtZqKxL6suKyawLqnw72ru7Wis4l9vLejwbuovbelvbikr3dtrnZsspCCurSh
+vLmlu7Wjr2hgtXxyupiKubOgs4J2vLmmwryqurSip0JAu7airF5YvrimubOhv7mmpTo4wrypsHdt
+w76quZ6PqlxWvbektHtxxcCsuJaIt5SHsnpwsXFosHBot4Z6xb+su5qLp0pHs5GDvKiYvLajqk1J
+rWZepkJAtX1yqEtIu5mLsnpvuLSiwr+rtqKSwrWksoh7sHdusGlisHhtw72qvKGSwbupsXJpuKuZ
+pDk4rF1Xt5WHrmZfsHluupiJtIp9r3ZsupiLvquarGVdpkE/t42Buq6cu6+dt6qZtZSFt5yNuJeI
+uY+Cq1VRtpSHtIN3uqeWuJWItHxxv7Ohp0NBsnJptZKEtXxzup+QuJaJupmKsXpvq1ZQua2cuq+c
+u5qMqVNPtZOGqVROwbyotJmKtX1zsHBnupeKsnNqv6ybvaKUtZOEtZKFtZSGu6CSurejs5GEr3Zt
+upmLsnpxrW1krW5lrm9lsYd7uZaItJKDspGCtpOFsH9zsH90rmdgq2RdrV9Ztox/qUxJr3dsr29n
+u7iktpuNs5KDsIB0upCDsntws3pwsHFovamZvqmZvqqZtIR5rGVespCDua6buq2c6HK2fgAAAAJ0
+Uk5T/wDltzBKAAAGRklEQVR42uxYW09UVxT+9j85P+EkZ3Ie5j4TnshkEuKQGQLhwReGB5jMA+Fh
+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
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/f/mp3.png
+
+iVBORw0KGgoAAAANSUhEUgAAAL8AAAAYCAMAAACcLdxiAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAAwBQTFRFozAwu7ajubShxL+svrmmvLekwr2qw76rwbypvbilurWiv7qn
+uLOgwLuoubSiwb2pvrqmw7+rxMCswr2rubWhv7unuLSgvrmnvbmlwr6qxL+tu7ejvLikvrqnv7qo
+wLyou7ekwr6rvbimuLShwbyquLOhvLelpTk4w7+surWjwLypuraivbmmwLupwb2qubWiurajqVNO
+vLilu7akq1VQqlRPv7uorFZRw76sxMCtwLunqUxIubOhpkI/sXlup0NAqEtHxcCtrnZsqVRPv7qm
+tHxyxL6sqlVPr3dttXxyuZeJq1ZRv7mnuJWHsXlvurSit5SHwbuowr2pu7aiwbupvKGSu7ikw72r
+uaWVwLqosYB1vLmmuKyauZ6Or2hgwryqp0pHvrilvLejv7mmwryps3txqlxWqlVQxb+tvbelr3Zs
+sGliu7Wiw76qsHhus5GDwrWktZqKxL+rtX1yp0JAvbikrW5kt5WHtYt/snpvurWhvrimtaKRs4J2
+u7WjtJKExb+sto2AtZSFvLaku5qLrmBZpDk4urejup+QwLSixL6rw72qvLCeubSgpTo4u5mLsHdt
+urShxcCsrGVespCCupeKtIN3tZKErV5YtHxxupeJvLajuJaIuY+CwbyosXFop0NBtHtxtoV6vbek
+qUxJqVROqk1JpkJAwLqntZOFrF1XvaKTtJmKsnpwrmdfvamZsnNqs4l9sHhtr3Bnq2Rdr3dssoh7
+toV5vquaupiKqVNPu5qMq1ZQtXxzv7Oht5yNsntxrmdgupmLtpuNq1VRs5GEupiLu6CSuKuZuq6c
+sXJpu6iXr3ZttIN5sHBnupiJtpSGtpSHuK2atIR4snpxrGVdrWZeubOguJ2OuJaHuZaIspGCtpOG
+tZOEqEtIqENBtJGDua2bsYd7sH9zwr+rt6qZs5KDvLmlupmKsHlupkE/uaybtX1zsoF2uLSiuKyb
+uJaJuJeIuJeJvJqLqExItpSFtZOGt4Z6sG9ns3twuq2bua6bs5GCsXpvv6ubspCDwGRsXgAAAAJ0
+Uk5T/wDltzBKAAAFPklEQVR42uxYW0tcVxT+9q85zwfOYR5kLswwjDPDDPMSEDEyLyo44GAUL6CI
+ouKDqKCJUSyp4gUz3tJErbnQ3Buiza2x2GvSlpbeJL03bdq0a619zjgJPrQxIJZscO999mXtb3/r
+W+ucEaqgHFEHrkAd0HJE/71c/Pfe3juoF+R/w+raI/jVrnoY+6WfpwCa9mLoXQMwzOU/9gl/EAbO
+7MFOO7qrc/sYvwG07up8V5E/Nu6+P/dRrbSvo+PlACqLdTo83Gt7uOWOJi437h4nDv4cuglCKfVa
+SAdUJlcU3HL9SYabpRtKFaFcbzgFo0WpFT+N+4eVakORetp/jmdsfMlNGgtU/6wtnCJjz6AM4Sg3
+08g4A9F6WVjazbWxqlTDDPe6GVKtV+ZOKHUefCOxdRiRAvxRDKpbOKkYiREJ2UXA35blqYfXjMdz
+ATyIFvtRyVtx2OEbKdUEZILlQI9ahj3JB08oZaKN5msAU6le9FVFprxI8pmFycUUd/kAj34+Rr2z
+ZpWV9FdGfRZQQhsiSV8lQBYfGaEgH1NKKn/Dxe9DXQF+PwVvDihTKqZNDiJMdZ2s3yZyybFe/ML4
+33POI/xebFM/TDtOEPbNmjgwrCzcYXYE/23YtGCEbD3Hv4lf9aKIfj6J9oJZD4qdDa3ocwcHiL8t
+BFz8Rbiyg5+gf8ucHmP8V3mkHK3CYlIU8RoPVeMxbTWIG0XIvfigTe4l9qbYOYqucZwOT3E4eWCR
+bHGJRudRQWsu384Oz7lgLAwxBI+Lvwr9BfiZZufCk4g5g/1MyAw/8lS/E6161Wk6lyTH9SwM2yT9
+pHn8Amrc+yqVIkTAOCmNPLIZQex3LCmt+GwcD7l3BX6C9jFdtehDhjYkXvRhwA2m9Fsu3j9VMQIJ
+hPRzBD/pTnFA1kXdQ31sodSUQTL4DmCHSGsksdYC/F7cary7lmQBfQ/DQxeAxXmlmZjL44+hirt9
+WKf110JIBMnNWgxDVXjfdYUHsyXAVidLJ4mgYJiniYpgzV8hGJ/Kujg614HcOcRdf6SkpbgzPdZM
+Xj+qghTwGAhY1jQ7tMJwk4oxvoO/J59qfOorrf9tacaJiDz+6+RA6lYgM0FURNAZpuX68KzpuJnm
+CZpNsBuZ2iUJ0+QOHJMlKi6L2cRsCmddfyR0VvMrCbsad0MQyV6dM9jgotDOU78Bb+bx30R9c3Fz
+uDqESbUmIeeA1vwHMKZFFpRRg7Q/Shmwf4UZocCmwQxWuVtLERFHJcdFggnwyMkboh+xmnRcZtMi
+UmgHa7ogn9aJ3qi5725II7umRXaHfFXD4tVTg7iYx29gRGn5oqRNu/SQxEcY1VRflOigVddk64Ck
+FmbcwJzIwyJdTvOSKfKITW48xPivUvqUICvW+ZPKF14nz7CgKRRGSZJOxhH+m/XrJYgLzoZSfENJ
+R5zSQcQG6E3i4G+SVCT4PwMWtZk+NGdRPxKO3jREOdVSlxn4JNzQx68H3vqoy57TGSQKI/P1FCN5
+4od3fNmPdBlDY47HYPYEXDjVtNG07POGk7HISULZ0R39j3LTQqFZt7HgF8HZvvku8H3Jtu+7hjSJ
+FriR17NT098myUaXcqQX5Q0Ib1RHvzQ5Dw+d3gkFYSzmhJOfqVuXJWfEhmBshHlJU0RevK90WjEW
+nN0ZPZXQCmQ9DevPKP0aLppzEpaf3ZWzpT+zOoGuHeTH8fm///3SkprdfSKW6HG/YIdGn5vraX+B
+75+Wo9kxB+TdlPtF2DuWypYdrN9fwH/6/nyF/xX+Z8oPqf/3/x+c8o8AAwBozGONJAekKwAAAABJ
+RU5ErkJggg==
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://web.archive.org/web/20170818175247im_/http://www.ab-log.ru/cadmin/smail/smail.php
+
+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
+
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX----
+Content-Type: text/html
+Content-ID: <frame-E49BBD141C8444B21E41AF29A722FF31@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20170818175247/http%3A//www.ab-log.ru/smart-house/ethernet/megad-328-firmware-upgrade
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--tw3GjJ35WGyFxRoT4Y2hHAWGA1DDEbnaOxZoHo6RDX------
